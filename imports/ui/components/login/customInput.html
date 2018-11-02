@@ -1,0 +1,18 @@
+<template name="override-atTextInput">
+  <div class="w3-center">
+     <div class="at-input {{#if isValidating}}validating{{/if}} {{#if hasError}}has-error{{/if}} {{#if hasSuccess}}has-success{{/if}} {{#if feedback}}has-feedback{{/if}}">
+      {{#if showLabels}}
+        <label for="at-field-{{_id}}">
+            <b>{{displayName}} {{#unless required}}{{optionalText}}{{/unless}}</b>
+        </label>
+      {{/if}}
+      <input class="w3-input w3-border w3-margin-bottom" type="{{type}}" id="at-field-{{_id}}" name="at-field-{{_id}}" placeholder="{{placeholder}}" autocapitalize="none" autocorrect="off">
+      {{#if hasIcon}}
+          <span class="{{iconClass}}"></span>
+      {{/if}}
+      {{#if hasError}}
+        <span>{{errorText}}</span>
+      {{/if}}
+    </div>
+  </div>
+</template>

@@ -12,4 +12,10 @@ Template.header.events({
     'click #menuClose'(event, instance) {
         document.getElementById("mySidebar").style.display = "none";
     },
+
+    'click #logoffBtn'(event, instance) {
+        event.preventDefault();
+        Meteor.logout();
+        document.getElementById("mySidebar").style.display = "none";
+    }
   });
