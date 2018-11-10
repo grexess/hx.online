@@ -7,6 +7,8 @@ import '../../components/login/customInput.js';
 import '../../components/login/customSubmit.js';
 
 import '../../components/info/info.js';
+import '../../components/charts/charts.js';
+
 
 Template['override-at_form'].replaces('atForm');
 Template['override-atTextInput'].replaces('atTextInput');
