@@ -10,13 +10,20 @@
     </nav>
 
     <!-- Header -->
-    <header class="w3-container w3-theme w3-padding" id="myHeader">
-        <i id="menuOpen" class="fa fa-bars w3-xlarge w3-button w3-theme"></i>
-        <div class="w3-center">
+    <header class="w3-row w3-padding" id="myHeader">
+        <div class="w3-quarter w3-center">
+            <i id="menuOpen" class="fa fa-bars w3-xlarge w3-button"></i>
+        </div>
+        <div class="w3-half w3-center">
             <h4>Hexenhaus Online</h4>
         </div>
+        <div class="w3-quarter w3-center">
+            {{#if currentUser }}
+            <h4 id="userName" class="logonName">You're logged in</h4>
+            {{else}}
+            <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-green w3-large">Login</button>
+            {{/if}}
+        </div>
     </header>
-
-    <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-green w3-large">Login</button>
 
 </template>
