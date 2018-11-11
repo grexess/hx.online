@@ -60,15 +60,16 @@ function buildTop100(year) {
 
     var listElement, voteElement;
     $.each(allCharts[year], function (index, value) {
+
+        var votingArea = '<div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class=" w3-radio" type="radio" name="top1" value="female"><label>Top1</label></div><div class="w3-bar-item"><input class=" w3-radio" type="radio" name="top1" value="female"><label>Top2</label></div><div class="w3-bar-item"><input class=" w3-radio" type="radio" name="top1" value="female"><label>Top3</label></div></div>';
         
         listElement = $(
-            '<li class="w3-bar w3-padding-small w3-tiny"><div class="w3-bar-item w3-xlarge w3-center" style="width:4em">' +
+            '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
             value.pos +
-            '</div><div class="w3-bar-item"></div><div class="w3-bar-item"><span class="w3-small"><b>' +
+            '</div></div><div class="w3-col s11 m11 l7"><div><span class="w3-small"><b>' +
             value.interpret +
-            "</b></span><br><span>" +
-            value.title +
-            '</span></div></div>');
+            "</b></span><br><span>" + 
+            value.title + '</span></div></div><div class="w3-col w3-left l4">' + votingArea + '</div></div></li>');
 
             $("#top").append(listElement);
     });
