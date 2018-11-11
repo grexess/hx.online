@@ -19,3 +19,12 @@ Template.header.events({
         document.getElementById("mySidebar").style.display = "none";
     }
   });
+
+  Template.header.helpers({
+    userEmail: function(user) {
+        if (user.emails && user.emails.length > 0) {
+          return user.emails[0].address;
+        }
+        return 'no email';
+      }
+  });

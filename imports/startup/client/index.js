@@ -5,8 +5,9 @@ import './routes.js';
 
 Accounts.onLogin(function(user){
     if(user.type === "password"){
-        $('#id01').hide();
-        
+        $('#id01').hide();    
     }
-    $('#userName').text(Meteor.user().emails[0].address);
+
+
+    //$('#userName').text(Meteor.user().emails[0].address);
   });

@@ -6,7 +6,9 @@
         <a href="#" class="w3-bar-item w3-button">Link 1</a>
         <a href="#" class="w3-bar-item w3-button">Link 2</a>
         <a href="#" class="w3-bar-item w3-button">Link 3</a>
+        {{#if currentUser }}
         <a href="#" class="w3-bar-item w3-button" id="logoffBtn">Abmelden</a>
+        {{/if}}
     </nav>
 
     <!-- Header -->
@@ -19,7 +21,7 @@
         </div>
         <div class="w3-quarter w3-center">
             {{#if currentUser }}
-            <h4 id="userName" class="logonName">You're logged in</h4>
+            <h4 id="userName" class="logonName">{{userEmail currentUser}}</h4>
             {{else}}
             <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-green w3-large">Login</button>
             {{/if}}

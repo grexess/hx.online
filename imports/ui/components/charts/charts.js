@@ -1,8 +1,17 @@
 import './charts.html';
 
 var allCharts;
-
 var tops = { top1: null, top2: null, top3: null };
+
+Accounts.onLogin(function (user) {
+    if (user.type === "password") {
+        buildTop100($("#toptitle").text());
+    }
+})
+
+Accounts.onLogout(function (user) {
+        buildTop100($("#toptitle").text());
+})
 
 function selectYear(year) {
     //buildTop100(year);
@@ -33,10 +42,10 @@ Template.charts.events({
             //check if this is already voted
             var topName = event.currentTarget.name;
             var topValue = event.currentTarget.value;
-            
+
             $.each(Object.keys(tops), function (index, value) {
                 if (value != topName) {
-                    if (tops[value] != null && tops[value] === topValue ) {
+                    if (tops[value] != null && tops[value] === topValue) {
                         bAlreadyVoted = true;
                     }
                 }
@@ -47,7 +56,7 @@ Template.charts.events({
                 event.currentTarget.checked = false;
             } else {
                 tops[topName] = topValue;
-                buildVoteMessage(topValue.substr(0, topValue.indexOf('-')), topValue.substr(topValue.indexOf('-') +1), topName.substr(3));
+                buildVoteMessage(topValue.substr(0, topValue.indexOf('-')), topValue.substr(topValue.indexOf('-') + 1), topName.substr(3));
             }
         }
     }
@@ -70,13 +79,13 @@ var favorits = {
     }
 }
 
-function buildVoteMessage(year, song, top){
+function buildVoteMessage(year, song, top) {
 
     Meteor.call('getSongFromTop100', year, (song), function (err, response) {
-        Bert.alert(response.interpret + " mit " + response.title +  ' ist ' + year +' Deine Nummer ' + top + '!', 'success', 'growl-top-right');
+        Bert.alert(response.interpret + " mit " + response.title + ' ist ' + year + ' Deine Nummer ' + top + '!', 'success', 'growl-top-right');
     });
 
-                
+
 
 }
 
@@ -106,14 +115,13 @@ function buildTop100(year) {
             '</div></div><div class="w3-col s11 m11 l7"><div><span class="w3-small"><b>' +
             value.interpret +
             "</b></span><br><span>" +
-            value.title + '</span></div></div><div class="w3-col w3-left l4">';
+            value.title + '</span></div></div>';
 
-        listElement = listElement + '<div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + index + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + index + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + index + '"><label>Top3</label></div></div>';
-
-        listElement = listElement + '</div></div></li>';
+        if (Meteor.user()) {
+            listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + index + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + index + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + index + '"><label>Top3</label></div></div></div>';
+        }
+        listElement = listElement + '</div></li>';
 
         $("#top").append($(listElement));
     });
 }
-
-
