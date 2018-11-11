@@ -13,6 +13,10 @@ Template.header.events({
         document.getElementById("mySidebar").style.display = "none";
     },
 
+    'click #userVotings'(event, instance) {
+        document.getElementById("mySidebar").style.display = "none";
+    },
+
     'click #logoffBtn'(event, instance) {
         event.preventDefault();
         Meteor.logout();

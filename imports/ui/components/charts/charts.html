@@ -1,11 +1,42 @@
 <template name="charts">
-  <div class="content">
+
+    <!-- Side Navigation -->
+    <nav class="w3-sidebar w3-bar-block w3-card w3-animate-left w3-center" style="display:none" id="mySidebar">
+        <h1 class="w3-xxxlarge w3-text-theme">Side Navigation</h1>
+        <button class="w3-bar-item w3-button" id="menuClose">Close <i class="fa fa-remove"></i></button>
+        <!-- <a href="#" class="w3-bar-item w3-button" id="top100">Jahrescharts</a>
+        <a href="#" class="w3-bar-item w3-button" id="hxVotings">Hexenhaus TOP3</a> -->
+        {{#if currentUser }}
+        <!-- <a href="#" class="w3-bar-item w3-button" id="userVotings">Deine Jahres-TOP3</a> -->
+        <a href="#" class="w3-bar-item w3-button" id="logoffBtn">Abmelden</a>
+        {{/if}}
+    </nav>
+
+    <!-- Header -->
+    <header class="w3-row w3-padding w3-border-bottom w3-border-blue" id="myHeader">
+        <div class="w3-quarter w3-center">
+            <i id="menuOpen" class="fa fa-bars w3-xlarge w3-button w3-text-blue"></i>
+        </div>
+        <div class="w3-half w3-center w3-text-blue">
+            <h4>Hexenhaus Online</h4>
+        </div>
+        <div class="w3-quarter w3-center">
+            {{#if currentUser }}
+            <h4 id="userName" class="logonName">{{userEmail currentUser}}</h4>
+            {{else}}
+            <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-green w3-large">Login</button>
+            {{/if}}
+        </div>
+    </header>
+
+
+    <div class="content">
 
         <div id="id01">
 
             <div class="w3-panel">
                 <div class="w3-display-container w3-margin " style="height:1.5em">
-                   
+
                     <div class="w3-display-middle w3-dropdown-hover">
                         <button class="w3-button w3-blue">
                             <span id="toptitle"></span>
