@@ -120,6 +120,9 @@ Template.charts.events({
             if (bAlreadyVoted) {
                 Bert.alert('Diesen Song hast Du schon gevoted!', 'danger', 'fixed-top');
                 event.currentTarget.checked = false;
+                //set previous checkbox
+                var valueStr = year + "-" + tops[year][event.currentTarget.name];
+                $('input[value="' + valueStr +'"][name="' + event.currentTarget.name +'"]')[0].checked = true;
             } else {
 
                 var song = topValue.substr(topValue.indexOf('-') + 1);
