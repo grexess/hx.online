@@ -59,10 +59,55 @@ Template.charts.events({
         document.getElementById("mySidebar").style.display = "none";
     },
 
+    'click #id-name--1'(event, instance) {
+        var year = $('#toptitle').text();
+        if (event.currentTarget.checked) {
+            //get private charts
+
+            $('#top').empty();
+            Meteor.call('getVotedCharts', year, function (err, response) {
+                var votings = response;
+
+                var listElement, voteElement;
+                $.each(votings, function (songnr, value) {
+
+                    //get title and interpret
+                    
+
+                    listElement =
+                        '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
+                        songnr +
+                        '</div></div><div class="w3-col s11 m11 l7"><div><span class="w3-small"><b>' +
+                        value +
+                        "</b></span><br><span>" +
+                        value + '</span></div></div>';
+
+                    if (Meteor.user()) {
+                        listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + (index + 1) + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + (index + 1) + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + (index + 1) + '"><label>Top3</label></div></div></div>';
+                    }
+                    listElement = listElement + '</div></li>';
+
+                    $("#top").append($(listElement));
+                });
+            });
+        } else {
+            buildTop100(year)
+        }
+    },
+
+    'click .menu-toggle a'(event, instance) {
+        $(".menu").slideToggle(700);
+        if ($("#ySel").hasClass('fa-angle-double-down')) {
+            $("#ySel").addClass('fa-angle-double-up').removeClass('fa-angle-double-down');
+        } else {
+            $("#ySel").addClass('fa-angle-double-down').removeClass('fa-angle-double-up');
+        }
+    },
+
     'click #top100'(event, instance) {
         document.getElementById("mySidebar").style.display = "none";
         $('.content').empty();
-            buildDropDownEntries();
+        buildDropDownEntries();
     },
 
     'click #hxVotings'(event, instance) {
@@ -122,7 +167,7 @@ Template.charts.events({
                 event.currentTarget.checked = false;
                 //set previous checkbox
                 var valueStr = year + "-" + tops[year][event.currentTarget.name];
-                $('input[value="' + valueStr +'"][name="' + event.currentTarget.name +'"]')[0].checked = true;
+                $('input[value="' + valueStr + '"][name="' + event.currentTarget.name + '"]')[0].checked = true;
             } else {
 
                 var song = topValue.substr(topValue.indexOf('-') + 1);
