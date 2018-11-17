@@ -63,28 +63,33 @@ Template.charts.events({
         var year = $('#toptitle').text();
         if (event.currentTarget.checked) {
             //get private charts
-
             $('#top').empty();
             Meteor.call('getVotedCharts', year, function (err, response) {
-                var votings = response;
+ 
+                var record, votings = [];
+                $.each(response, function (index, value) {
+                    record = { "score" : response[index].score, "orgPos" : response[index].song.pos, "title": response[index].song.title, "interpret":  response[index].song.interpret}
+                    votings.push(record);
+                });
+
+                votings.sort((a,b) => (a.score < b.score) ? 1 : ((b.score < a.score) ? -1 : 0));
 
                 var listElement, voteElement;
-                $.each(votings, function (songnr, value) {
+                $.each(votings, function (idx, value) {
 
                     //get title and interpret
-                    
 
                     listElement =
                         '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
-                        songnr +
+                        (idx +1) +
                         '</div></div><div class="w3-col s11 m11 l7"><div><span class="w3-small"><b>' +
-                        value +
+                        "Score:" + value.score + " ChartPlace:" + value.orgPos +
                         "</b></span><br><span>" +
-                        value + '</span></div></div>';
+                        value.title + " " + value.interpret + '</span></div></div>';
 
-                    if (Meteor.user()) {
+                    /* if (Meteor.user()) {
                         listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + (index + 1) + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + (index + 1) + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + (index + 1) + '"><label>Top3</label></div></div></div>';
-                    }
+                    } */
                     listElement = listElement + '</div></li>';
 
                     $("#top").append($(listElement));
@@ -96,12 +101,9 @@ Template.charts.events({
     },
 
     'click .menu-toggle a'(event, instance) {
-        $(".menu").slideToggle(700);
-        if ($("#ySel").hasClass('fa-angle-double-down')) {
-            $("#ySel").addClass('fa-angle-double-up').removeClass('fa-angle-double-down');
-        } else {
-            $("#ySel").addClass('fa-angle-double-down').removeClass('fa-angle-double-up');
-        }
+
+        toggleYearSelection();
+      
     },
 
     'click #top100'(event, instance) {
@@ -129,6 +131,7 @@ Template.charts.events({
 
     'click .selectYear'(event) {
         event.preventDefault();
+        $('#id-name--1')[0].checked = false;
         buildTop100(event.currentTarget.dataset.year);
     },
 
@@ -224,10 +227,14 @@ function buildVoteMessage(year, song, top) {
 
 function buildDropDownEntries() {
 
-    var ddElement;
+    var aYear = [];
     $.each(allCharts, function (index, value) {
-        ddElement = $('<a class="w3-bar-item selectYear" href="javascript:void(0)" data-year="' + index + '">' + index + ' </a>');
-        $("#topyears").append(ddElement);
+        aYear.push(index);
+    });
+    aYear.reverse();
+
+    $.each(aYear, function (index, value) {
+        $('.flex-container').append('<li class="flex-item selectYear" data-year="' + value + '">' + value + '</li>');
     });
 
     buildTop100(Object.keys(allCharts)[0]);
@@ -267,5 +274,14 @@ function buildTop100(year) {
         $("#top").find($("input[value='" + year + '-' + yearRating['top1'] + "'][name='top1']")).prop('checked', true);
         $("#top").find($("input[value='" + year + '-' + yearRating['top2'] + "'][name='top2']")).prop('checked', true);
         $("#top").find($("input[value='" + year + '-' + yearRating['top3'] + "'][name='top3']")).prop('checked', true);
+    }
+}
+
+function toggleYearSelection(){
+    $(".menu").slideToggle(700);
+    if ($("#ySel").hasClass('fa-angle-double-down')) {
+        $("#ySel").addClass('fa-angle-double-up').removeClass('fa-angle-double-down');
+    } else {
+        $("#ySel").addClass('fa-angle-double-down').removeClass('fa-angle-double-up');
     }
 }
