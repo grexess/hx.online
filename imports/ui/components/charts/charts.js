@@ -59,33 +59,39 @@ Template.charts.events({
         document.getElementById("mySidebar").style.display = "none";
     },
 
-    'click #id-name--1'(event, instance) {
+    'click #toggleBtn'(event, instance) {
         var year = $('#toptitle').text();
         if (event.currentTarget.checked) {
             //get private charts
             $('#top').empty();
             Meteor.call('getVotedCharts', year, function (err, response) {
- 
+
                 var record, votings = [];
                 $.each(response, function (index, value) {
-                    record = { "score" : response[index].score, "orgPos" : response[index].song.pos, "title": response[index].song.title, "interpret":  response[index].song.interpret}
+                    record = { "score": response[index].score, "voter": response[index].voter, "voted": response[index].voted, "orgPos": response[index].song.pos, "title": response[index].song.title, "interpret": response[index].song.interpret }
                     votings.push(record);
                 });
 
-                votings.sort((a,b) => (a.score < b.score) ? 1 : ((b.score < a.score) ? -1 : 0));
+                votings.sort((a, b) => (a.score < b.score) ? 1 : ((b.score < a.score) ? -1 : 0));
 
                 var listElement, voteElement;
                 $.each(votings, function (idx, value) {
 
                     //get title and interpret
 
-                    listElement =
+                    listElement = '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s2 m1 l1"><div class="w3-xlarge w3-center">' +
+                        (idx + 1) + '<br><span class="w3-small">(' + value.orgPos + ')</span></div></div><div class="w3-col s10 m7 l8"><div><span class="w3-small"><b>' + value.interpret + '</b></span><br><span>' +
+                        value.title + '</span></div></div><div class="w3-col w3-center s12 m4 l3 w3-tiny"><div class="w3-col s4">Score<br><b> ' + value.score + '</b></div><div class="w3-col s4">Voted<br><b>' + value.voted
+                        
+                        + '</b></div><div class="w3-col s4">Voter<br><b>' + value.voter + '</b></div></div></div></div></div></div></li>';
+
+                    /* listElement =
                         '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
                         (idx +1) +
                         '</div></div><div class="w3-col s11 m11 l7"><div><span class="w3-small"><b>' +
                         "Score:" + value.score + " ChartPlace:" + value.orgPos +
                         "</b></span><br><span>" +
-                        value.title + " " + value.interpret + '</span></div></div>';
+                        value.title + " " + value.interpret + '</span></div></div>'; */
 
                     /* if (Meteor.user()) {
                         listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + (index + 1) + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + (index + 1) + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + (index + 1) + '"><label>Top3</label></div></div></div>';
@@ -103,7 +109,7 @@ Template.charts.events({
     'click .menu-toggle a'(event, instance) {
 
         toggleYearSelection();
-      
+
     },
 
     'click #top100'(event, instance) {
@@ -131,7 +137,10 @@ Template.charts.events({
 
     'click .selectYear'(event) {
         event.preventDefault();
-        $('#id-name--1')[0].checked = false;
+        if (Meteor.user()) {
+            $('#toggleBtn')[0].checked = false;
+        }
+        $('.menu').hide();
         buildTop100(event.currentTarget.dataset.year);
     },
 
@@ -179,18 +188,6 @@ Template.charts.events({
 
                 //is place already voted update voting
                 if (!tops) {
-                    // Insert voting into into the collection
-                    /*  id = Votings.insert({
-                         votedBy: Meteor.user().emails[0].address,
-                         year: year,
-                         ['top' + place]: song,
-                         createdAt: new Date(),
-                     }, function (error, result) {
-                         if (error) console.log(error); //info about what went wrong
-                         if (result) {
-                             buildVoteMessage(year, song, place);
-                         } //the _id of new object if successful);
-                     }); */
                     id = Votings.insert({
                         votedBy: Meteor.user().emails[0].address,
                         [year]: { ['top' + place]: song },
@@ -277,7 +274,7 @@ function buildTop100(year) {
     }
 }
 
-function toggleYearSelection(){
+function toggleYearSelection() {
     $(".menu").slideToggle(700);
     if ($("#ySel").hasClass('fa-angle-double-down')) {
         $("#ySel").addClass('fa-angle-double-up').removeClass('fa-angle-double-down');

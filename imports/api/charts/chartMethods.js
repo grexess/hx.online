@@ -19,6 +19,7 @@ Meteor.methods({
     var query = Votings.find({ [year]: { $exists: true } }, { fields: { [year]: 1, "_id": 0 } }).fetch();
     var top100ofYear = JSON.parse(Assets.getText('top100.json'))[year];
     var results = {};
+    var voted = 0;
 
     //get each voting
     query.forEach(function (entry) {
@@ -28,26 +29,31 @@ Meteor.methods({
         if (results.hasOwnProperty(voting[place])) {
           switch (place) {
             case "top1":
-              results[voting[place]]["score"] = results[voting[place]]["score"] + 5;      
+              results[voting[place]]["score"] = results[voting[place]]["score"] + 5;
+              results[voting[place]]["voter"] = query.length;
+              results[voting[place]]["voted"] = voted;
               break;
             case "top2":
               results[voting[place]]["score"] = results[voting[place]]["score"] + 3;
-
+              results[voting[place]]["voter"] = query.length;
+              results[voting[place]]["voted"] = voted;
               break;
             case "top3":
               results[voting[place]]["score"] = results[voting[place]]["score"] + 1;
+              results[voting[place]]["voter"] = query.length;
+              results[voting[place]]["voted"] = voted;
               break;
           }
         } else {
           switch (place) {
             case "top1":
-              results[voting[place]] = {"score": 5, song: top100ofYear[voting[place]-1]};
+              results[voting[place]] = {"score": 5, song: top100ofYear[voting[place]-1], "voter": query.length, "voted" : voted};
               break;
             case "top2":
-            results[voting[place]] = {"score": 3, song: top100ofYear[voting[place]-1]};
+            results[voting[place]] = {"score": 3, song: top100ofYear[voting[place]-1], "voter": query.length,"voted" : voted};
               break;
             case "top3":
-            results[voting[place]] = {"score": 1, song: top100ofYear[voting[place]-1]};
+            results[voting[place]] = {"score": 1, song: top100ofYear[voting[place]-1], "voter": query.length,"voted" : voted};
               break;
           }
         }
