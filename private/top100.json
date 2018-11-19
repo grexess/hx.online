@@ -1,4 +1,7809 @@
-{"1988":[
+{   "1959": [
+  {
+    "pos": "1",
+    "interpret": "Freddy",
+    "title": "Die Gitarre und das Meer"
+  },
+  {
+    "pos": "2",
+    "interpret": "Die Nilsen Brothers",
+    "title": "Tom Dooley"
+  },
+  {
+    "pos": "3",
+    "interpret": "Peter Kraus / Orchester Werner Scharfenberger",
+    "title": "Sugar-Baby"
+  },
+  {
+    "pos": "4",
+    "interpret": "Gitta Lind & Christa Williams",
+    "title": "My Happiness (immer will ich treu dir sein)"
+  },
+  {
+    "pos": "5",
+    "interpret": "Chris Barber's Jazz Band",
+    "title": "Petite fleur"
+  },
+  {
+    "pos": "6",
+    "interpret": "Dalida",
+    "title": "Am Tag als der Regen kam"
+  },
+  {
+    "pos": "7",
+    "interpret": "Caterina Valente",
+    "title": "Tschau tschau Bambina...!"
+  },
+  {
+    "pos": "8",
+    "interpret": "Chris Howland",
+    "title": "Das hab ich in Paris gelernt"
+  },
+  {
+    "pos": "9",
+    "interpret": "Peter Kraus",
+    "title": "Kitty Cat"
+  },
+  {
+    "pos": "10",
+    "interpret": "Rocco Granata",
+    "title": "Marina"
+  },
+  {
+    "pos": "11",
+    "interpret": "Ivo Robić",
+    "title": "Morgen"
+  },
+  {
+    "pos": "12",
+    "interpret": "Billy Vaughn Orchestra",
+    "title": "Blue Hawaii"
+  },
+  {
+    "pos": "13",
+    "interpret": "Tom und Tommy",
+    "title": "Eine Handvoll Heimaterde"
+  },
+  {
+    "pos": "14",
+    "interpret": "Peter Alexander",
+    "title": "Pedro (Mandolinen um Mitternacht)"
+  },
+  {
+    "pos": "15",
+    "interpret": "Heidi Brühl",
+    "title": "Chico Chico Charlie"
+  },
+  {
+    "pos": "16",
+    "interpret": "Trio San José",
+    "title": "Ave Maria no morro"
+  },
+  {
+    "pos": "17",
+    "interpret": "Hans Blum",
+    "title": "Charly Brown"
+  },
+  {
+    "pos": "18",
+    "interpret": "Melitta Berg / Horst Wende Tanzsolisten",
+    "title": "Nur du"
+  },
+  {
+    "pos": "19",
+    "interpret": "Freddy",
+    "title": "Unter fremden Sternen (Fährt ein weißes Schiff nach Hongkong)"
+  },
+  {
+    "pos": "20",
+    "interpret": "Conny",
+    "title": "Mr. Music"
+  }
+],
+"1960": [
+  {
+    "pos": "1",
+    "interpret": "Rocco Granata",
+    "title": "Marina"
+  },
+  {
+    "pos": "2",
+    "interpret": "Jan und Kjeld",
+    "title": "Banjo Boy"
+  },
+  {
+    "pos": "3",
+    "interpret": "Freddy",
+    "title": "Unter fremden Sternen (Fährt ein weißes Schiff nach Hongkong)"
+  },
+  {
+    "pos": "4",
+    "interpret": "Lale Andersen",
+    "title": "Ein Schiff wird kommen"
+  },
+  {
+    "pos": "5",
+    "interpret": "Lolita",
+    "title": "Seemann"
+  },
+  {
+    "pos": "6",
+    "interpret": "Elvis Presley",
+    "title": "It's Now Or Never"
+  },
+  {
+    "pos": "7",
+    "interpret": "Heidi Brühl",
+    "title": "Wir wollen niemals auseinandergehn"
+  },
+  {
+    "pos": "8",
+    "interpret": "Freddy",
+    "title": "Melodie der Nacht"
+  },
+  {
+    "pos": "9",
+    "interpret": "René Carol",
+    "title": "Kein Land kann schöner sein"
+  },
+  {
+    "pos": "10",
+    "interpret": "Vico Torriani",
+    "title": "Kalkutta liegt am Ganges"
+  },
+  {
+    "pos": "11",
+    "interpret": "Edith Piaf",
+    "title": "Milord"
+  },
+  {
+    "pos": "12",
+    "interpret": "Connie Francis",
+    "title": "Die Liebe ist ein seltsames Spiel"
+  },
+  {
+    "pos": "13",
+    "interpret": "Das Hellberg Duo",
+    "title": "Hohe Tannen"
+  },
+  {
+    "pos": "14",
+    "interpret": "Leo Leandros",
+    "title": "Mustafa"
+  },
+  {
+    "pos": "15",
+    "interpret": "Peter Kraus",
+    "title": "Va bene"
+  },
+  {
+    "pos": "16",
+    "interpret": "Jimmy Makulis",
+    "title": "Gitarren klingen leise durch die Nacht"
+  },
+  {
+    "pos": "17",
+    "interpret": "Die Mainzer Hofsänger",
+    "title": "So ein Tag so wunderschön wie heute"
+  },
+  {
+    "pos": "18",
+    "interpret": "Ted Herold",
+    "title": "Moonlight"
+  },
+  {
+    "pos": "19",
+    "interpret": "Club Honolulu",
+    "title": "Itsy Bitsy Teenie Weenie Honolulu Strand Bikini"
+  },
+  {
+    "pos": "20",
+    "interpret": "Peter Alexander",
+    "title": "Ich zähle täglich meine Sorgen"
+  },
+  {
+    "pos": "21",
+    "interpret": "Papa Bue's Viking Jazzband",
+    "title": "Schlafe mein Prinzchen"
+  },
+  {
+    "pos": "22",
+    "interpret": "Bert Kaempfert und sein Orchester",
+    "title": "Wunderland bei Nacht"
+  }
+],
+"1961": [
+  {
+    "pos": "1",
+    "interpret": "Ralf Bendix mit dem Twist-Baby und Waldi",
+    "title": "Babysitter-Twist"
+  },
+  {
+    "pos": "2",
+    "interpret": "Billy Vaughn",
+    "title": "Wheels"
+  },
+  {
+    "pos": "3",
+    "interpret": "Gus Backus",
+    "title": "Da sprach der alte Häuptling"
+  },
+  {
+    "pos": "4",
+    "interpret": "Nana Mouskouri",
+    "title": "Weiße Rosen aus Athen"
+  },
+  {
+    "pos": "5",
+    "interpret": "Die Blue Diamonds",
+    "title": "Ramona"
+  },
+  {
+    "pos": "6",
+    "interpret": "Lale Andersen",
+    "title": "Ein Schiff wird kommen"
+  },
+  {
+    "pos": "7",
+    "interpret": "Freddy",
+    "title": "La Paloma"
+  },
+  {
+    "pos": "8",
+    "interpret": "Jan und Kjeld",
+    "title": "Hello Mary Lou"
+  },
+  {
+    "pos": "9",
+    "interpret": "Elvis Presley",
+    "title": "Wooden Heart (muss i denn...)"
+  },
+  {
+    "pos": "10",
+    "interpret": "Ivo Robić",
+    "title": "Mit 17 fängt das Leben erst an"
+  },
+  {
+    "pos": "11",
+    "interpret": "Gerhard Wendland",
+    "title": "Tanze mit mir in den Morgen"
+  },
+  {
+    "pos": "12",
+    "interpret": "Connie Francis",
+    "title": "Schöner fremder Mann"
+  },
+  {
+    "pos": "13",
+    "interpret": "Bill Ramsey",
+    "title": "Zuckerpuppe (aus der Bauchtanz-Truppe)"
+  },
+  {
+    "pos": "14",
+    "interpret": "Los Machucambos",
+    "title": "Pepito"
+  },
+  {
+    "pos": "15",
+    "interpret": "Gus Backus",
+    "title": "Der Mann im Mond"
+  },
+  {
+    "pos": "16",
+    "interpret": "Willy Hagara",
+    "title": "Pepe"
+  },
+  {
+    "pos": "17",
+    "interpret": "Elvis Presley",
+    "title": "Are You Lonesome To-Night?"
+  },
+  {
+    "pos": "18",
+    "interpret": "Monika und Peter",
+    "title": "Drei weiße Birken"
+  },
+  {
+    "pos": "19",
+    "interpret": "Der flotte Franz und seine Bierbrummer",
+    "title": "So leben wir...! (Gute alte Bekannte) 1. Teil"
+  },
+  {
+    "pos": "20",
+    "interpret": "Conny",
+    "title": "Midi-Midinette"
+  },
+  {
+    "pos": "21",
+    "interpret": "Ping Ping",
+    "title": "Sucu Sucu"
+  },
+  {
+    "pos": "22",
+    "interpret": "Peter Beil",
+    "title": "Corinna"
+  },
+  {
+    "pos": "23",
+    "interpret": "Caterina Valente",
+    "title": "Der Sheriff von Arkansas ist 'ne Lady"
+  },
+  {
+    "pos": "24",
+    "interpret": "Willy Millowitsch",
+    "title": "Schnaps"
+  },
+  {
+    "pos": "25",
+    "interpret": "Old Merry Tale Jazzband",
+    "title": "Am Sonntag will mein Süßer mit mir segeln gehn"
+  },
+  {
+    "pos": "26",
+    "interpret": "Peter Kraus",
+    "title": "Schwarze Rose"
+  },
+  {
+    "pos": "27",
+    "interpret": "Gerd Böttcher",
+    "title": "Adieu"
+  },
+  {
+    "pos": "28",
+    "interpret": "Siw Malmkvist",
+    "title": "Danke für die Blumen"
+  },
+  {
+    "pos": "29",
+    "interpret": "Nina und Jimmy",
+    "title": "Weites Land"
+  },
+  {
+    "pos": "30",
+    "interpret": "Jörgen Ingmann",
+    "title": "Apache"
+  },
+  {
+    "pos": "31",
+    "interpret": "Die Blue Diamonds",
+    "title": "Wie damals in Paris"
+  },
+  {
+    "pos": "32",
+    "interpret": "Lou van Burg",
+    "title": "Freunde fürs Leben"
+  }
+],
+"1962": [
+  {
+    "pos": "1",
+    "interpret": "Bob Moore und sein Orchester",
+    "title": "Mexico"
+  },
+  {
+    "pos": "2",
+    "interpret": "Pat Boone",
+    "title": "Speedy Gonzales"
+  },
+  {
+    "pos": "3",
+    "interpret": "Mina",
+    "title": "Heißer Sand"
+  },
+  {
+    "pos": "4",
+    "interpret": "Conny Froboess",
+    "title": "Zwei kleine Italiener"
+  },
+  {
+    "pos": "5",
+    "interpret": "Nana Mouskouri",
+    "title": "Einmal weht der Südwind wieder"
+  },
+  {
+    "pos": "6",
+    "interpret": "Peter Kraus",
+    "title": "Schwarze Rose"
+  },
+  {
+    "pos": "7",
+    "interpret": "Caterina und Silvio",
+    "title": "The Peppermint-Twist"
+  },
+  {
+    "pos": "8",
+    "interpret": "Freddy",
+    "title": "Alo Ahe"
+  },
+  {
+    "pos": "9",
+    "interpret": "The Waikiki's",
+    "title": "Hawai Tattoo"
+  },
+  {
+    "pos": "10",
+    "interpret": "Gus Backus",
+    "title": "Sauerkraut-Polka"
+  },
+  {
+    "pos": "11",
+    "interpret": "Joey Dee and The Starliters",
+    "title": "Ya Ya"
+  },
+  {
+    "pos": "12",
+    "interpret": "Carmela Corren",
+    "title": "Eine Rose aus Santa Monica"
+  },
+  {
+    "pos": "13",
+    "interpret": "Gerd Böttcher",
+    "title": "Geld wie Heu"
+  },
+  {
+    "pos": "14",
+    "interpret": "Peter Hinnen",
+    "title": "Auf meiner Ranch bin ich König"
+  },
+  {
+    "pos": "15",
+    "interpret": "Gerhard Wendland",
+    "title": "Schläfst du schon?"
+  },
+  {
+    "pos": "16",
+    "interpret": "Petula Clark",
+    "title": "Monsieur"
+  },
+  {
+    "pos": "17",
+    "interpret": "Nana Mouskouri",
+    "title": "Am Horizont irgendwo"
+  },
+  {
+    "pos": "18",
+    "interpret": "Günter Kallmann-Chor / Orchester Werner Twardy",
+    "title": "Elisabeth Serenade"
+  },
+  {
+    "pos": "19",
+    "interpret": "Caterina Valente & Silvio Francesco",
+    "title": "Quando quando"
+  },
+  {
+    "pos": "20",
+    "interpret": "Peppino di Capri",
+    "title": "St. Tropez Twist"
+  },
+  {
+    "pos": "21",
+    "interpret": "Connie Francis",
+    "title": "Paradiso"
+  },
+  {
+    "pos": "22",
+    "interpret": "Elvis Presley",
+    "title": "Good Luck Charm"
+  },
+  {
+    "pos": "23",
+    "interpret": "Conny",
+    "title": "Lady Sunshine und Mr. Moon"
+  },
+  {
+    "pos": "24",
+    "interpret": "Will Brandes und die kleine Elisabeth",
+    "title": "Baby-Twist"
+  },
+  {
+    "pos": "25",
+    "interpret": "Die Blue Diamonds",
+    "title": "Blaues Boot der Sehnsucht"
+  },
+  {
+    "pos": "26",
+    "interpret": "Gerd Böttcher",
+    "title": "Ein Dutzend and're Männer"
+  },
+  {
+    "pos": "27",
+    "interpret": "Mr. Acker Bilk with The Leon Young String Chorale",
+    "title": "Stranger On The Shore"
+  },
+  {
+    "pos": "28",
+    "interpret": "Chris Howland",
+    "title": "Hämmerchen-Polka"
+  }
+],
+"1963": [
+  {
+    "pos": "1",
+    "interpret": "Freddy",
+    "title": "Junge"
+  },
+  {
+    "pos": "2",
+    "interpret": "Manuela",
+    "title": "Schuld war nur der Bossa Nova"
+  },
+  {
+    "pos": "3",
+    "interpret": "Billy Mo",
+    "title": "Ich kauf' mir lieber einen Tirolerhut"
+  },
+  {
+    "pos": "4",
+    "interpret": "Connie Francis",
+    "title": "Barcarole in der Nacht"
+  },
+  {
+    "pos": "5",
+    "interpret": "Gitte",
+    "title": "Ich will 'nen Cowboy als Mann"
+  },
+  {
+    "pos": "6",
+    "interpret": "Renate und Werner Leismann",
+    "title": "Gaucho Mexicano"
+  },
+  {
+    "pos": "7",
+    "interpret": "Die Tahiti-Tamourés",
+    "title": "Wini-Wini"
+  },
+  {
+    "pos": "8",
+    "interpret": "Peter Alexander",
+    "title": "Wenn erst der Abend kommt"
+  },
+  {
+    "pos": "9",
+    "interpret": "Gitte & Rex Gildo",
+    "title": "Vom Stadtpark die Laternen"
+  },
+  {
+    "pos": "10",
+    "interpret": "Peter Hinnen",
+    "title": "Siebentausend Rinder"
+  },
+  {
+    "pos": "11",
+    "interpret": "Rocco Granata",
+    "title": "Buona notte bambino"
+  },
+  {
+    "pos": "12",
+    "interpret": "Gerd Böttcher",
+    "title": "Für Gaby tu' ich alles"
+  },
+  {
+    "pos": "13",
+    "interpret": "Freddy",
+    "title": "Laß mich noch einmal in die Ferne"
+  },
+  {
+    "pos": "14",
+    "interpret": "Die Blue Diamonds",
+    "title": "Sukiyaki"
+  },
+  {
+    "pos": "15",
+    "interpret": "Petula Clark",
+    "title": "Casanova Baciami"
+  },
+  {
+    "pos": "16",
+    "interpret": "Rex Gildo",
+    "title": "Zwei blaue Vergissmeinnicht"
+  },
+  {
+    "pos": "17",
+    "interpret": "Manuela",
+    "title": "Ich geh' noch zur Schule"
+  },
+  {
+    "pos": "18",
+    "interpret": "Elvis Presley",
+    "title": "(You're The) Devil In Disguise"
+  },
+  {
+    "pos": "19",
+    "interpret": "Elvis Presley",
+    "title": "Kiss Me Quick"
+  },
+  {
+    "pos": "20",
+    "interpret": "Cliff Richard",
+    "title": "Rote Lippen soll man küssen"
+  },
+  {
+    "pos": "21",
+    "interpret": "Jacqueline Boyer",
+    "title": "Mitsou"
+  },
+  {
+    "pos": "22",
+    "interpret": "Medium Terzett",
+    "title": "Der Schatz im Silbersee"
+  },
+  {
+    "pos": "23",
+    "interpret": "Nana Mouskouri",
+    "title": "Rote Korallen"
+  },
+  {
+    "pos": "24",
+    "interpret": "Marlene Dietrich",
+    "title": "Sag mir wo die Blumen sind"
+  }
+],
+"1964": [
+  {
+    "pos": "1",
+    "interpret": "Siw Malmkvist",
+    "title": "Liebeskummer lohnt sich nicht"
+  },
+  {
+    "pos": "2",
+    "interpret": "Bernd Spier",
+    "title": "Das kannst du mir nicht verbieten"
+  },
+  {
+    "pos": "3",
+    "interpret": "Ronny",
+    "title": "Oh My Darling Caroline"
+  },
+  {
+    "pos": "4",
+    "interpret": "The Beatles",
+    "title": "I Want To Hold Your Hand"
+  },
+  {
+    "pos": "5",
+    "interpret": "Freddy",
+    "title": "Gib mir dein Wort"
+  },
+  {
+    "pos": "6",
+    "interpret": "Drafi Deutscher And His Magics",
+    "title": "Shake Hands"
+  },
+  {
+    "pos": "7",
+    "interpret": "Marika Kilius",
+    "title": "Wenn die Cowboys träumen"
+  },
+  {
+    "pos": "8",
+    "interpret": "Cliff Richard",
+    "title": "Sag "
+  },
+  {
+    "pos": "9",
+    "interpret": "Sœur Sourire",
+    "title": "Dominique"
+  },
+  {
+    "pos": "10",
+    "interpret": "Trini Lopez",
+    "title": "A-me-ri-ca"
+  },
+  {
+    "pos": "11",
+    "interpret": "Gigliola Cinquetti",
+    "title": "Non ho l'età"
+  },
+  {
+    "pos": "12",
+    "interpret": "Manuela und ihre 5 Dops",
+    "title": "Schwimmen lernt man im See"
+  },
+  {
+    "pos": "13",
+    "interpret": "Conny Froboess",
+    "title": "Drei Musketiere"
+  },
+  {
+    "pos": "14",
+    "interpret": "Peter Lauch und die Regenpfeifer",
+    "title": "Das kommt vom Rudern das kommt vom Segeln"
+  },
+  {
+    "pos": "15",
+    "interpret": "Sacha Distel",
+    "title": "Der Platz neben mir"
+  },
+  {
+    "pos": "16",
+    "interpret": "Suzie",
+    "title": "Du"
+  },
+  {
+    "pos": "17",
+    "interpret": "Millie",
+    "title": "My Boy Lollipop"
+  },
+  {
+    "pos": "18",
+    "interpret": "Jörgen Ingmann",
+    "title": "Drina-Marsch"
+  },
+  {
+    "pos": "19",
+    "interpret": "Johnny Rivers",
+    "title": "Memphis Tennessee"
+  },
+  {
+    "pos": "20",
+    "interpret": "Martin Lauer",
+    "title": "Sein bestes Pferd"
+  },
+  {
+    "pos": "21",
+    "interpret": "Paul Anka",
+    "title": "Zwei Mädchen aus Germany (Weißwürscht"
+  },
+  {
+    "pos": "22",
+    "interpret": "Tony Sheridan And The Beat Brothers",
+    "title": "Skinny Minny"
+  },
+  {
+    "pos": "23",
+    "interpret": "Hans-Jürgen Bäumler",
+    "title": "Wunderschönes fremdes Mädchen"
+  },
+  {
+    "pos": "24",
+    "interpret": "Ronny",
+    "title": "Kein Gold im Blue River"
+  },
+  {
+    "pos": "25",
+    "interpret": "Gitte & Rex Gildo",
+    "title": "Jetzt dreht die Welt sich nur um dich"
+  },
+  {
+    "pos": "26",
+    "interpret": "The Beatles",
+    "title": "A Hard Day's Night"
+  },
+  {
+    "pos": "27",
+    "interpret": "Freddy",
+    "title": "Vergangen vergessen vorüber"
+  },
+  {
+    "pos": "28",
+    "interpret": "Roy Orbison",
+    "title": "Oh"
+  }
+],
+"1965": [
+  {
+    "pos": "1",
+    "interpret": "Nini Rosso",
+    "title": "Il silenzio - Abschiedsmelodie"
+  },
+  {
+    "pos": "2",
+    "interpret": "Petula Clark",
+    "title": "Downtown"
+  },
+  {
+    "pos": "3",
+    "interpret": "Bernd Spier",
+    "title": "Das war mein schönster Tanz"
+  },
+  {
+    "pos": "4",
+    "interpret": "Sam The Sham And The Pharaohs",
+    "title": "Wooly Bully"
+  },
+  {
+    "pos": "5",
+    "interpret": "Wanda Jackson",
+    "title": "Santo Domingo"
+  },
+  {
+    "pos": "6",
+    "interpret": "Die Five Tops",
+    "title": "Rag Doll"
+  },
+  {
+    "pos": "7",
+    "interpret": "France Gall",
+    "title": "Poupée de cire"
+  },
+  {
+    "pos": "8",
+    "interpret": "Heinz Rudolf Kunze",
+    "title": "Du bist nicht allein"
+  },
+  {
+    "pos": "9",
+    "interpret": "Casey Jones & The Governors",
+    "title": "Don't Ha Ha"
+  },
+  {
+    "pos": "10",
+    "interpret": "Peggy March",
+    "title": "Mit 17 hat man noch Träume"
+  },
+  {
+    "pos": "11",
+    "interpret": "Drafi Deutscher And His Magics",
+    "title": "Heute male ich dein Bild"
+  },
+  {
+    "pos": "12",
+    "interpret": "Ronny",
+    "title": "Kleine Annabell"
+  },
+  {
+    "pos": "13",
+    "interpret": "The Beatles",
+    "title": "Help!"
+  },
+  {
+    "pos": "14",
+    "interpret": "Peter Alexander",
+    "title": "Schenk' mir ein Bild von dir"
+  },
+  {
+    "pos": "15",
+    "interpret": "Cliff Richard",
+    "title": "Das ist die Frage aller Fragen"
+  },
+  {
+    "pos": "16",
+    "interpret": "The Rolling Stones",
+    "title": "(I Can't Get No) Satisfaction"
+  },
+  {
+    "pos": "17",
+    "interpret": "Drafi Deutscher And His Magics",
+    "title": "Cinderella-Baby"
+  },
+  {
+    "pos": "18",
+    "interpret": "Jörgen Ingmann",
+    "title": "Zorba"
+  },
+  {
+    "pos": "19",
+    "interpret": "Freddy",
+    "title": "5000 Meilen von zu Haus'"
+  },
+  {
+    "pos": "20",
+    "interpret": "Suzie",
+    "title": "Du"
+  },
+  {
+    "pos": "21",
+    "interpret": "The Byrds",
+    "title": "Mr. Tambourine Man"
+  },
+  {
+    "pos": "22",
+    "interpret": "The Renegades",
+    "title": "Cadillac"
+  },
+  {
+    "pos": "23",
+    "interpret": "Freddy",
+    "title": "Vergangen vergessen vorüber"
+  },
+  {
+    "pos": "24",
+    "interpret": "Françoise Hardy",
+    "title": "Frag' den Abendwind"
+  },
+  {
+    "pos": "25",
+    "interpret": "Martin Lauer",
+    "title": "Taxi nach Texas"
+  },
+  {
+    "pos": "26",
+    "interpret": "The Supremes",
+    "title": "Stop! In The Name Of Love"
+  },
+  {
+    "pos": "27",
+    "interpret": "Manuela und die 5 Dops",
+    "title": "Küsse unterm Regenbogen"
+  },
+  {
+    "pos": "28",
+    "interpret": "Peppino di Capri",
+    "title": "Melancholie"
+  },
+  {
+    "pos": "29",
+    "interpret": "Radi Radenkovic",
+    "title": "Bin i Radi - bin i König"
+  },
+  {
+    "pos": "30",
+    "interpret": "Ronny",
+    "title": "Oh My Darling Caroline"
+  },
+  {
+    "pos": "31",
+    "interpret": "Udo Jürgens",
+    "title": "Sag' ihr"
+  },
+  {
+    "pos": "32",
+    "interpret": "Peter Alexander",
+    "title": "Fräulein Wunderbar"
+  },
+  {
+    "pos": "33",
+    "interpret": "Peggy March",
+    "title": "Good Bye"
+  },
+  {
+    "pos": "34",
+    "interpret": "Cliff Richard & The Shadows",
+    "title": "Es war keine so wunderbar wie du"
+  },
+  {
+    "pos": "35",
+    "interpret": "The Beatles",
+    "title": "I Feel Fine"
+  },
+  {
+    "pos": "36",
+    "interpret": "Roy Orbison",
+    "title": "Oh"
+  },
+  {
+    "pos": "37",
+    "interpret": "The Rolling Stones",
+    "title": "The Last Time"
+  },
+  {
+    "pos": "38",
+    "interpret": "Siw Malmkvist",
+    "title": "Küsse nie nach Mitternacht"
+  },
+  {
+    "pos": "39",
+    "interpret": "Hans-Jürgen Bäumler",
+    "title": "Sorry Little Baby"
+  },
+  {
+    "pos": "40",
+    "interpret": "Pierre Brice",
+    "title": "Ich steh' allein"
+  }
+],
+"1966": [
+  {
+    "pos": "1",
+    "interpret": "Frank Sinatra",
+    "title": "Strangers In The Night"
+  },
+  {
+    "pos": "2",
+    "interpret": "Freddy",
+    "title": "Hundert Mann und ein Befehl"
+  },
+  {
+    "pos": "3",
+    "interpret": "Nancy Sinatra",
+    "title": "These Boots Are Made For Walkin'"
+  },
+  {
+    "pos": "4",
+    "interpret": "The Mamas & The Papas",
+    "title": "Monday Monday"
+  },
+  {
+    "pos": "5",
+    "interpret": "Chris Andrews",
+    "title": "Yesterday Man"
+  },
+  {
+    "pos": "6",
+    "interpret": "The Beach Boys",
+    "title": "Barbara Ann"
+  },
+  {
+    "pos": "7",
+    "interpret": "The Beatles",
+    "title": "Michelle"
+  },
+  {
+    "pos": "8",
+    "interpret": "Roy Black",
+    "title": "Leg dein Herz in meine Hände"
+  },
+  {
+    "pos": "9",
+    "interpret": "The Beach Boys",
+    "title": "Sloop John B"
+  },
+  {
+    "pos": "10",
+    "interpret": "Roy Black",
+    "title": "Ganz in Weiss"
+  },
+  {
+    "pos": "11",
+    "interpret": "Graham Bonney",
+    "title": "Super Girl"
+  },
+  {
+    "pos": "12",
+    "interpret": "Udo Jürgens",
+    "title": "Siebzehn Jahr"
+  },
+  {
+    "pos": "13",
+    "interpret": "Chris Andrews",
+    "title": "To Whom It Concerns"
+  },
+  {
+    "pos": "14",
+    "interpret": "Nini Rosso",
+    "title": "Il silenzio - Abschiedsmelodie"
+  },
+  {
+    "pos": "15",
+    "interpret": "Dave Dee",
+    "title": " Dozy"
+  },
+  {
+    "pos": "16",
+    "interpret": "Tommy James And The Shondells",
+    "title": "Hanky Panky"
+  },
+  {
+    "pos": "17",
+    "interpret": "The Troggs",
+    "title": "Wild Thing"
+  },
+  {
+    "pos": "18",
+    "interpret": "The Beatles",
+    "title": "Yellow Submarine"
+  },
+  {
+    "pos": "19",
+    "interpret": "Marion",
+    "title": "Er ist wieder da"
+  },
+  {
+    "pos": "20",
+    "interpret": "Udo Jürgens",
+    "title": "Merci Cherie"
+  },
+  {
+    "pos": "21",
+    "interpret": "Dave Dee",
+    "title": " Dozy"
+  },
+  {
+    "pos": "22",
+    "interpret": "The Walker Brothers",
+    "title": "The Sun Ain't Gonna Shine Anymore"
+  },
+  {
+    "pos": "23",
+    "interpret": "Al Martino",
+    "title": "Spanish Eyes"
+  },
+  {
+    "pos": "24",
+    "interpret": "The Beatles",
+    "title": "We Can Work It Out"
+  },
+  {
+    "pos": "25",
+    "interpret": "André Brasseur",
+    "title": "Early Bird"
+  },
+  {
+    "pos": "26",
+    "interpret": "The Troggs",
+    "title": "With A Girl Like You"
+  },
+  {
+    "pos": "27",
+    "interpret": "The Beatles",
+    "title": "Paperback Writer"
+  },
+  {
+    "pos": "28",
+    "interpret": "The Rolling Stones",
+    "title": "Paint It"
+  },
+  {
+    "pos": "29",
+    "interpret": "Drafi Deutscher And His Magics",
+    "title": "Nimm mich so wie ich bin"
+  },
+  {
+    "pos": "30",
+    "interpret": "The Rolling Stones",
+    "title": "Get Off Of My Cloud"
+  },
+  {
+    "pos": "31",
+    "interpret": "Suzie",
+    "title": "Ich will immer nur dich"
+  },
+  {
+    "pos": "32",
+    "interpret": "The Spencer Davis Group",
+    "title": "Keep On Running"
+  },
+  {
+    "pos": "33",
+    "interpret": "The Kinks",
+    "title": "Sunny Afternoon"
+  },
+  {
+    "pos": "34",
+    "interpret": "The Peels",
+    "title": "Juanita Banana"
+  },
+  {
+    "pos": "35",
+    "interpret": "Simon & Garfunkel",
+    "title": "The Sounds Of Silence"
+  },
+  {
+    "pos": "36",
+    "interpret": "Ross McManus & The Joe Loss Blue Beats",
+    "title": "Patsy Girl"
+  },
+  {
+    "pos": "37",
+    "interpret": "The Rolling Stones",
+    "title": "19th Nervous Breakdown"
+  },
+  {
+    "pos": "38",
+    "interpret": "The Spencer Davis Group",
+    "title": "Somebody Help Me"
+  },
+  {
+    "pos": "39",
+    "interpret": "Wencke Myhre",
+    "title": "Beiss nicht gleich in jeden Apfel"
+  },
+  {
+    "pos": "40",
+    "interpret": "The Lovin' Spoonful",
+    "title": "Summer In The City"
+  },
+  {
+    "pos": "41",
+    "interpret": "Ronny",
+    "title": "Eine kleine Träne"
+  },
+  {
+    "pos": "42",
+    "interpret": "Dave Dee",
+    "title": " Dozy"
+  },
+  {
+    "pos": "43",
+    "interpret": "Heidi Brühl",
+    "title": "Hundert Mann und ein Befehl"
+  },
+  {
+    "pos": "44",
+    "interpret": "Udo Jürgens",
+    "title": "Sag mir wie"
+  },
+  {
+    "pos": "45",
+    "interpret": "The Beatles",
+    "title": "Nowhere Man"
+  },
+  {
+    "pos": "46",
+    "interpret": "Cliff Richard & The Shadows",
+    "title": "Du bist mein erster Gedanke"
+  },
+  {
+    "pos": "47",
+    "interpret": "Sonny & Cher",
+    "title": "Little Man"
+  },
+  {
+    "pos": "48",
+    "interpret": "The Kinks",
+    "title": "Dedicated Follower Of Fashion"
+  },
+  {
+    "pos": "49",
+    "interpret": "The Rattles",
+    "title": "Come On And Sing"
+  }
+],
+"1967": [
+  {
+    "pos": "1",
+    "interpret": "Maurice Jarre",
+    "title": "Schiwago-Melodie (Lara's Theme)"
+  },
+  {
+    "pos": "2",
+    "interpret": "Sandie Shaw",
+    "title": "Puppet On A String"
+  },
+  {
+    "pos": "3",
+    "interpret": "Roy Black",
+    "title": "Frag nur dein Herz"
+  },
+  {
+    "pos": "4",
+    "interpret": "Roy Black",
+    "title": "Meine Liebe zu dir"
+  },
+  {
+    "pos": "5",
+    "interpret": "David Garrick",
+    "title": "Dear Mrs. Applebee"
+  },
+  {
+    "pos": "6",
+    "interpret": "Ronny",
+    "title": "Laß die Sonne wieder scheinen"
+  },
+  {
+    "pos": "7",
+    "interpret": "Whistling Jack Smith",
+    "title": "I Was Kaiser Bill's Batman"
+  },
+  {
+    "pos": "8",
+    "interpret": "The Monkees",
+    "title": "I'm A Believer"
+  },
+  {
+    "pos": "9",
+    "interpret": "The Rolling Stones",
+    "title": "Let's Spend The Night Together"
+  },
+  {
+    "pos": "10",
+    "interpret": "Herman's Hermits",
+    "title": "No Milk Today"
+  },
+  {
+    "pos": "11",
+    "interpret": "Manfred Mann",
+    "title": "Ha! Ha! Said The Clown"
+  },
+  {
+    "pos": "12",
+    "interpret": "Peter Alexander",
+    "title": "Moderne Romanzen"
+  },
+  {
+    "pos": "13",
+    "interpret": "Dave Dee",
+    "title": " Dozy"
+  },
+  {
+    "pos": "14",
+    "interpret": "Scott McKenzie",
+    "title": "San Francisco (Be Sure To Wear Some Flowers In Your Hair)"
+  },
+  {
+    "pos": "15",
+    "interpret": "Peter Alexander",
+    "title": "Spanisch war die Nacht"
+  },
+  {
+    "pos": "16",
+    "interpret": "The Beatles",
+    "title": "All You Need Is Love"
+  },
+  {
+    "pos": "17",
+    "interpret": "Procol Harum",
+    "title": "A Whiter Shade Of Pale"
+  },
+  {
+    "pos": "18",
+    "interpret": "Nancy & Frank Sinatra",
+    "title": "Somethin' Stupid"
+  },
+  {
+    "pos": "19",
+    "interpret": "The Beatles",
+    "title": "Penny Lane"
+  },
+  {
+    "pos": "20",
+    "interpret": "Peggy March",
+    "title": "Memories Of Heidelberg"
+  },
+  {
+    "pos": "21",
+    "interpret": "Dave Dee",
+    "title": " Dozy"
+  },
+  {
+    "pos": "22",
+    "interpret": "Tom Jones",
+    "title": "Green"
+  },
+  {
+    "pos": "23",
+    "interpret": "The Kinks",
+    "title": "Dandy"
+  },
+  {
+    "pos": "24",
+    "interpret": "Dave Davies",
+    "title": "Death Of A Clown"
+  },
+  {
+    "pos": "25",
+    "interpret": "Peter Alexander",
+    "title": "Verbotene Träume"
+  },
+  {
+    "pos": "26",
+    "interpret": "Freddy",
+    "title": "Morgen beginnt die Welt"
+  },
+  {
+    "pos": "27",
+    "interpret": "The Who",
+    "title": "Happy Jack"
+  },
+  {
+    "pos": "28",
+    "interpret": "Al Martino",
+    "title": "Spanish Eyes"
+  },
+  {
+    "pos": "29",
+    "interpret": "Dave Dee",
+    "title": " Dozy"
+  },
+  {
+    "pos": "30",
+    "interpret": "Anna-Lena",
+    "title": "Dein Herz"
+  },
+  {
+    "pos": "31",
+    "interpret": "Udo Jürgens",
+    "title": "Immer wieder geht die Sonne auf"
+  },
+  {
+    "pos": "32",
+    "interpret": "The Hollies",
+    "title": "Carrie Anne"
+  },
+  {
+    "pos": "33",
+    "interpret": "The Kinks",
+    "title": "Waterloo Sunset"
+  },
+  {
+    "pos": "34",
+    "interpret": "The Creation",
+    "title": "Painter Man"
+  },
+  {
+    "pos": "35",
+    "interpret": "Nancy Sinatra & Lee Hazlewood",
+    "title": "Jackson"
+  },
+  {
+    "pos": "36",
+    "interpret": "The Smoke",
+    "title": "My Friend Jack"
+  },
+  {
+    "pos": "37",
+    "interpret": "Peggy March",
+    "title": "Romeo und Julia"
+  },
+  {
+    "pos": "38",
+    "interpret": "Ronny",
+    "title": "Adios"
+  },
+  {
+    "pos": "39",
+    "interpret": "Manuela",
+    "title": "Monsieur Dupont"
+  },
+  {
+    "pos": "40",
+    "interpret": "Adriano Celentano",
+    "title": "Una festa sui prati"
+  },
+  {
+    "pos": "41",
+    "interpret": "The Lords",
+    "title": "Glory Land"
+  },
+  {
+    "pos": "42",
+    "interpret": "Nini Rosso",
+    "title": "La Montanara"
+  },
+  {
+    "pos": "43",
+    "interpret": "The Hollies",
+    "title": "On A Carousel"
+  },
+  {
+    "pos": "44",
+    "interpret": "The Tremeloes",
+    "title": "Silence Is Golden"
+  },
+  {
+    "pos": "45",
+    "interpret": "Graham Bonney",
+    "title": "Das Girl mit dem La-La-La"
+  },
+  {
+    "pos": "46",
+    "interpret": "New Vaudeville Band",
+    "title": "Winchester Cathedral"
+  },
+  {
+    "pos": "47",
+    "interpret": "Ronny",
+    "title": "Dunja"
+  },
+  {
+    "pos": "48",
+    "interpret": "The Equals",
+    "title": "Baby"
+  },
+  {
+    "pos": "49",
+    "interpret": "The Beach Boys",
+    "title": "Good Vibrations"
+  },
+  {
+    "pos": "50",
+    "interpret": "Siw Malmkvist",
+    "title": "Frech geküßt ist halb gewonnen"
+  }
+],
+"1968": [
+  {
+    "pos": "1",
+    "interpret": "Heintje",
+    "title": "Mama"
+  },
+  {
+    "pos": "2",
+    "interpret": "Heintje",
+    "title": "Du sollst nicht weinen"
+  },
+  {
+    "pos": "3",
+    "interpret": "Tom Jones",
+    "title": "Delilah"
+  },
+  {
+    "pos": "4",
+    "interpret": "Peter Alexander",
+    "title": "Der letzte Walzer"
+  },
+  {
+    "pos": "5",
+    "interpret": "Peter Alexander",
+    "title": "Delilah"
+  },
+  {
+    "pos": "6",
+    "interpret": "Tom Jones",
+    "title": "Help Yourself"
+  },
+  {
+    "pos": "7",
+    "interpret": "Udo Jürgens",
+    "title": "Cotton Fields"
+  },
+  {
+    "pos": "8",
+    "interpret": "Roy Black",
+    "title": "Bleib bei mir"
+  },
+  {
+    "pos": "9",
+    "interpret": "Dorthe",
+    "title": "Sind Sie der Graf von Luxemburg?"
+  },
+  {
+    "pos": "10",
+    "interpret": "Heintje",
+    "title": "Heidschi Bumbeidschi"
+  },
+  {
+    "pos": "11",
+    "interpret": "Bee Gees",
+    "title": "World"
+  },
+  {
+    "pos": "12",
+    "interpret": "Manfred Mann",
+    "title": "Mighty Quinn"
+  },
+  {
+    "pos": "13",
+    "interpret": "Rita Pavone",
+    "title": "Arrivederci Hans"
+  },
+  {
+    "pos": "14",
+    "interpret": "Udo Jürgens",
+    "title": "Mathilda"
+  },
+  {
+    "pos": "15",
+    "interpret": "Peter Alexander",
+    "title": "Komm und bedien dich"
+  },
+  {
+    "pos": "16",
+    "interpret": "Small Faces",
+    "title": "Lazy Sunday"
+  },
+  {
+    "pos": "17",
+    "interpret": "Tommy James And The Shondells",
+    "title": "Mony Mony"
+  },
+  {
+    "pos": "18",
+    "interpret": "The Beatles",
+    "title": "Hello"
+  },
+  {
+    "pos": "19",
+    "interpret": "John Fred & His Playboy Band",
+    "title": "Judy In Disguise (With Glasses)"
+  },
+  {
+    "pos": "20",
+    "interpret": "Mary Hopkin",
+    "title": "Those Were The Days"
+  },
+  {
+    "pos": "21",
+    "interpret": "Ohio Express",
+    "title": "Yummy Yummy Yummy"
+  },
+  {
+    "pos": "22",
+    "interpret": "Roland W.",
+    "title": "Monja"
+  },
+  {
+    "pos": "23",
+    "interpret": "Bee Gees",
+    "title": "Massachusetts"
+  },
+  {
+    "pos": "24",
+    "interpret": "The Rolling Stones",
+    "title": "Jumpin' Jack Flash"
+  },
+  {
+    "pos": "25",
+    "interpret": "The Beatles",
+    "title": "Hey Jude"
+  },
+  {
+    "pos": "26",
+    "interpret": "The Union Gap feat. Gary Puckett",
+    "title": "Young Girl"
+  },
+  {
+    "pos": "27",
+    "interpret": "The Monkees",
+    "title": "Daydream Believer"
+  },
+  {
+    "pos": "28",
+    "interpret": "Bee Gees",
+    "title": "Words"
+  },
+  {
+    "pos": "29",
+    "interpret": "The Beatles",
+    "title": "Lady Madonna"
+  },
+  {
+    "pos": "30",
+    "interpret": "Cliff Richard",
+    "title": "Congratulations"
+  },
+  {
+    "pos": "31",
+    "interpret": "Adamo",
+    "title": "Es geht eine Träne auf Reisen"
+  },
+  {
+    "pos": "32",
+    "interpret": "Alexandra",
+    "title": "Sehnsucht"
+  },
+  {
+    "pos": "33",
+    "interpret": "The Crazy World Of Arthur Brown",
+    "title": "Fire"
+  },
+  {
+    "pos": "34",
+    "interpret": "Dave Dee",
+    "title": " Dozy"
+  },
+  {
+    "pos": "35",
+    "interpret": "1910 Fruitgum Co.",
+    "title": "Simon Says"
+  },
+  {
+    "pos": "36",
+    "interpret": "Esther & Abi Ofarim",
+    "title": "Morning Of My Life"
+  },
+  {
+    "pos": "37",
+    "interpret": "Engelbert",
+    "title": "A Man Without Love"
+  },
+  {
+    "pos": "38",
+    "interpret": "Scott McKenzie",
+    "title": "San Francisco (Be Sure To Wear Some Flowers In Your Hair)"
+  },
+  {
+    "pos": "39",
+    "interpret": "Peggy March",
+    "title": "Romeo und Julia"
+  },
+  {
+    "pos": "40",
+    "interpret": "Bee Gees",
+    "title": "Jumbo"
+  },
+  {
+    "pos": "41",
+    "interpret": "The Lords",
+    "title": "Glory Land"
+  },
+  {
+    "pos": "42",
+    "interpret": "The Beach Boys",
+    "title": "Do It Again"
+  },
+  {
+    "pos": "43",
+    "interpret": "Graham Bonney und die Jay Five",
+    "title": "Siebenmeilenstiefel"
+  },
+  {
+    "pos": "44",
+    "interpret": "Dave Dee",
+    "title": " Dozy"
+  },
+  {
+    "pos": "45",
+    "interpret": "The Rolling Stones",
+    "title": "2000 Light Years From Home"
+  },
+  {
+    "pos": "46",
+    "interpret": "Small Faces",
+    "title": "Tin Soldier"
+  },
+  {
+    "pos": "47",
+    "interpret": "Freddy",
+    "title": "Seemann"
+  },
+  {
+    "pos": "48",
+    "interpret": "Renate Kern",
+    "title": "Lieber mal weinen im Glück"
+  },
+  {
+    "pos": "49",
+    "interpret": "Siw Malmkvist",
+    "title": "Harlekin"
+  },
+  {
+    "pos": "50",
+    "interpret": "Esther & Abi Ofarim",
+    "title": "Cinderella Rockefella"
+  }
+],
+"1969": [
+  {
+    "pos": "1",
+    "interpret": "Barry Ryan",
+    "title": "Eloise"
+  },
+  {
+    "pos": "2",
+    "interpret": "The Edwin Hawkins Singers",
+    "title": "Oh"
+  },
+  {
+    "pos": "3",
+    "interpret": "Sir Douglas Quintet",
+    "title": "Mendocino"
+  },
+  {
+    "pos": "4",
+    "interpret": "Adamo",
+    "title": "Es geht eine Träne auf Reisen"
+  },
+  {
+    "pos": "5",
+    "interpret": "Heintje",
+    "title": "Heidschi Bumbeidschi"
+  },
+  {
+    "pos": "6",
+    "interpret": "Roy Black",
+    "title": "Das Mädchen Carina"
+  },
+  {
+    "pos": "7",
+    "interpret": "Roy Black",
+    "title": "Ich denk' an dich"
+  },
+  {
+    "pos": "8",
+    "interpret": "Chris Andrews",
+    "title": "Pretty Belinda"
+  },
+  {
+    "pos": "9",
+    "interpret": "Elvis Presley",
+    "title": "In The Ghetto"
+  },
+  {
+    "pos": "10",
+    "interpret": "Michael Holm",
+    "title": "Mendocino"
+  },
+  {
+    "pos": "11",
+    "interpret": "Peter Alexander",
+    "title": "Liebesleid"
+  },
+  {
+    "pos": "12",
+    "interpret": "Tommy Roe",
+    "title": "Dizzy"
+  },
+  {
+    "pos": "13",
+    "interpret": "Tommy James And The Shondells",
+    "title": "Crimson And Clover"
+  },
+  {
+    "pos": "14",
+    "interpret": "Christian Anders",
+    "title": "Geh' nicht vorbei"
+  },
+  {
+    "pos": "15",
+    "interpret": "Zager & Evans",
+    "title": "In The Year 2525"
+  },
+  {
+    "pos": "16",
+    "interpret": "The Tremeloes",
+    "title": "My Little Lady"
+  },
+  {
+    "pos": "17",
+    "interpret": "The Rolling Stones",
+    "title": "Honky Tonk Women"
+  },
+  {
+    "pos": "18",
+    "interpret": "Jane Birkin avec Serge Gainsbourg",
+    "title": "Je t'aime... moi non plus"
+  },
+  {
+    "pos": "19",
+    "interpret": "The Beatles",
+    "title": "The Ballad Of John And Yoko"
+  },
+  {
+    "pos": "20",
+    "interpret": "Desmond Dekker And The Aces",
+    "title": "Israelites"
+  },
+  {
+    "pos": "21",
+    "interpret": "Creedence Clearwater Revival",
+    "title": "Proud Mary"
+  },
+  {
+    "pos": "22",
+    "interpret": "Donovan",
+    "title": "Atlantis"
+  },
+  {
+    "pos": "23",
+    "interpret": "Heintje",
+    "title": "Ich sing' ein Lied für dich"
+  },
+  {
+    "pos": "24",
+    "interpret": "Mireille Mathieu",
+    "title": "Hinter den Kulissen von Paris"
+  },
+  {
+    "pos": "25",
+    "interpret": "Barry Ryan",
+    "title": "Love Is Love"
+  },
+  {
+    "pos": "26",
+    "interpret": "The Beatles with Billy Preston",
+    "title": "Get Back"
+  },
+  {
+    "pos": "27",
+    "interpret": "Wencke Myhre",
+    "title": "Er steht im Tor"
+  },
+  {
+    "pos": "28",
+    "interpret": "The Beatles",
+    "title": "Hey Jude"
+  },
+  {
+    "pos": "29",
+    "interpret": "Bee Gees",
+    "title": "First Of May"
+  },
+  {
+    "pos": "30",
+    "interpret": "Ohio Express",
+    "title": "Chewy Chewy"
+  },
+  {
+    "pos": "31",
+    "interpret": "Udo Jürgens",
+    "title": "Es wird Nacht"
+  },
+  {
+    "pos": "32",
+    "interpret": "Robin Gibb",
+    "title": "Saved By The Bell"
+  },
+  {
+    "pos": "33",
+    "interpret": "Plastic Ono Band",
+    "title": "Give Peace A Chance"
+  },
+  {
+    "pos": "34",
+    "interpret": "Manfred Mann",
+    "title": "Fox On The Run"
+  },
+  {
+    "pos": "35",
+    "interpret": "The Beatles",
+    "title": "Ob-La-Di"
+  },
+  {
+    "pos": "36",
+    "interpret": "Heintje",
+    "title": "Du sollst nicht weinen"
+  },
+  {
+    "pos": "37",
+    "interpret": "The 5th Dimension",
+    "title": "Aquarius / Let The Sunshine In"
+  },
+  {
+    "pos": "38",
+    "interpret": "Rex Gildo",
+    "title": "Dondolo"
+  },
+  {
+    "pos": "39",
+    "interpret": "Mary Hopkin",
+    "title": "Those Were The Days"
+  },
+  {
+    "pos": "40",
+    "interpret": "Karel Gott",
+    "title": "Schiwago Melodie (Weißt du wohin?)"
+  }
+],
+"1970": [
+  {
+    "pos": "1",
+    "interpret": "Simon & Garfunkel",
+    "title": "El condor pasa"
+  },
+  {
+    "pos": "2",
+    "interpret": "Peter Maffay",
+    "title": "Du"
+  },
+  {
+    "pos": "3",
+    "interpret": "The Soulful Dynamics",
+    "title": "Mademoiselle Ninette"
+  },
+  {
+    "pos": "4",
+    "interpret": "Roy Black",
+    "title": "Dein schönstes Geschenk"
+  },
+  {
+    "pos": "5",
+    "interpret": "Mungo Jerry",
+    "title": "In The Summertime"
+  },
+  {
+    "pos": "6",
+    "interpret": "The Beatles",
+    "title": "Let It Be"
+  },
+  {
+    "pos": "7",
+    "interpret": "Simon & Garfunkel",
+    "title": "Cecilia"
+  },
+  {
+    "pos": "8",
+    "interpret": "Miguel Rios",
+    "title": "A Song Of Joy"
+  },
+  {
+    "pos": "9",
+    "interpret": "Christie",
+    "title": "Yellow River"
+  },
+  {
+    "pos": "10",
+    "interpret": "Frijid Pink",
+    "title": "House Of The Rising Sun"
+  },
+  {
+    "pos": "11",
+    "interpret": "Chris Roberts",
+    "title": "Ein Mädchen nach Maß"
+  },
+  {
+    "pos": "12",
+    "interpret": "Creedence Clearwater Revival",
+    "title": "Down On The Corner"
+  },
+  {
+    "pos": "13",
+    "interpret": "Simon & Garfunkel",
+    "title": "Bridge Over Troubled Water"
+  },
+  {
+    "pos": "14",
+    "interpret": "Michael Holm",
+    "title": "Mendocino"
+  },
+  {
+    "pos": "15",
+    "interpret": "The Archies",
+    "title": "Sugar Sugar"
+  },
+  {
+    "pos": "16",
+    "interpret": "Tee Set",
+    "title": "Ma belle amie"
+  },
+  {
+    "pos": "17",
+    "interpret": "Led Zeppelin",
+    "title": "Whole Lotta Love"
+  },
+  {
+    "pos": "18",
+    "interpret": "The Kinks",
+    "title": "Lola"
+  },
+  {
+    "pos": "19",
+    "interpret": "Free",
+    "title": "All Right Now"
+  },
+  {
+    "pos": "20",
+    "interpret": "Michael Holm",
+    "title": "Barfuß im Regen"
+  },
+  {
+    "pos": "21",
+    "interpret": "Bee Gees",
+    "title": "I.O.I.O."
+  },
+  {
+    "pos": "22",
+    "interpret": "Creedence Clearwater Revival",
+    "title": "Up Around The Bend"
+  },
+  {
+    "pos": "23",
+    "interpret": "Shocking Blue",
+    "title": "Venus"
+  },
+  {
+    "pos": "24",
+    "interpret": "Norman Greenbaum",
+    "title": "Spirit In The Sky"
+  },
+  {
+    "pos": "25",
+    "interpret": "The Tremeloes",
+    "title": "(Call Me) Number One"
+  },
+  {
+    "pos": "26",
+    "interpret": "Mr. Bloe",
+    "title": "Groovin' With Mr. Bloe"
+  },
+  {
+    "pos": "27",
+    "interpret": "Die Flippers",
+    "title": "Sha La La"
+  },
+  {
+    "pos": "28",
+    "interpret": "Hotlegs",
+    "title": "Neanderthal Man"
+  },
+  {
+    "pos": "29",
+    "interpret": "Christian Anders",
+    "title": "Geh' nicht vorbei"
+  },
+  {
+    "pos": "30",
+    "interpret": "Die Minstrels",
+    "title": "Grüezi wohl"
+  },
+  {
+    "pos": "31",
+    "interpret": "Udo Jürgens",
+    "title": "Anuschka"
+  },
+  {
+    "pos": "32",
+    "interpret": "The Guess Who",
+    "title": "American Woman"
+  },
+  {
+    "pos": "33",
+    "interpret": "Howard Carpendale",
+    "title": "Das schöne Mädchen von Seite 1"
+  },
+  {
+    "pos": "34",
+    "interpret": "Shocking Blue",
+    "title": "Mighty Joe"
+  },
+  {
+    "pos": "35",
+    "interpret": "Mary Roos",
+    "title": "Arizona Man"
+  },
+  {
+    "pos": "36",
+    "interpret": "Creedence Clearwater Revival",
+    "title": "Lookin' Out My Back Door"
+  },
+  {
+    "pos": "37",
+    "interpret": "Barry Ryan",
+    "title": "Kitsch"
+  },
+  {
+    "pos": "38",
+    "interpret": "Deep Purple",
+    "title": "Black Night"
+  },
+  {
+    "pos": "39",
+    "interpret": "Ten Years After",
+    "title": "Love Like A Man"
+  },
+  {
+    "pos": "40",
+    "interpret": "Elvis Presley",
+    "title": "Suspicious Minds"
+  }
+],
+"1971": [
+  {
+    "pos": "1",
+    "interpret": "Danyel Gérard",
+    "title": "Butterfly"
+  },
+  {
+    "pos": "2",
+    "interpret": "Middle Of The Road",
+    "title": "Chirpy Chirpy Cheep Cheep"
+  },
+  {
+    "pos": "3",
+    "interpret": "Creedence Clearwater Revival",
+    "title": "Hey Tonight"
+  },
+  {
+    "pos": "4",
+    "interpret": "Roy Black",
+    "title": "Für dich allein (Du kannst nicht alles haben)"
+  },
+  {
+    "pos": "5",
+    "interpret": "Neil Diamond",
+    "title": "I Am... I Said"
+  },
+  {
+    "pos": "6",
+    "interpret": "Wolfgang",
+    "title": "Abraham (Das Lied vom Trödler)"
+  },
+  {
+    "pos": "7",
+    "interpret": "George Harrison",
+    "title": "My Sweet Lord"
+  },
+  {
+    "pos": "8",
+    "interpret": "Lynn Anderson",
+    "title": "Rose Garden"
+  },
+  {
+    "pos": "9",
+    "interpret": "Tony Marshall",
+    "title": "Schöne Maid"
+  },
+  {
+    "pos": "10",
+    "interpret": "Peter Alexander",
+    "title": "Hier ist ein Mensch"
+  },
+  {
+    "pos": "11",
+    "interpret": "Ulli Martin",
+    "title": "Monika"
+  },
+  {
+    "pos": "12",
+    "interpret": "Heintje",
+    "title": "Schneeglöckchen im Februar"
+  },
+  {
+    "pos": "13",
+    "interpret": "George Harrison",
+    "title": "What Is Life"
+  },
+  {
+    "pos": "14",
+    "interpret": "Chris Roberts",
+    "title": "Ich bin verliebt in die Liebe"
+  },
+  {
+    "pos": "15",
+    "interpret": "Roy Black & Anita",
+    "title": "Schön ist es auf der Welt zu sein"
+  },
+  {
+    "pos": "16",
+    "interpret": "T. Rex",
+    "title": "Hot Love"
+  },
+  {
+    "pos": "17",
+    "interpret": "Marianne Rosenberg",
+    "title": "Fremder Mann"
+  },
+  {
+    "pos": "18",
+    "interpret": "José Feliciano",
+    "title": "Che sarà"
+  },
+  {
+    "pos": "19",
+    "interpret": "Tony Christie",
+    "title": "I Did What I Did For Maria"
+  },
+  {
+    "pos": "20",
+    "interpret": "Dave Edmunds",
+    "title": "I Hear You Knocking"
+  },
+  {
+    "pos": "21",
+    "interpret": "Peret",
+    "title": "Borriquito..."
+  },
+  {
+    "pos": "22",
+    "interpret": "The Rolling Stones",
+    "title": "Brown Sugar"
+  },
+  {
+    "pos": "23",
+    "interpret": "The Sweet",
+    "title": "Funny"
+  },
+  {
+    "pos": "24",
+    "interpret": "Bata Illic",
+    "title": "Judy"
+  },
+  {
+    "pos": "25",
+    "interpret": "Melanie",
+    "title": "Ruby Tuesday"
+  },
+  {
+    "pos": "26",
+    "interpret": "Led Zeppelin",
+    "title": "Immigrant Song"
+  },
+  {
+    "pos": "27",
+    "interpret": "Dawn",
+    "title": "Knock Three Times"
+  },
+  {
+    "pos": "28",
+    "interpret": "Chris Roberts",
+    "title": "Hab' ich dir heute schon gesagt"
+  },
+  {
+    "pos": "29",
+    "interpret": "Ringo Starr",
+    "title": "It Don't Come Easy"
+  },
+  {
+    "pos": "30",
+    "interpret": "Creedence Clearwater Revival",
+    "title": "Sweet Hitch-Hiker"
+  },
+  {
+    "pos": "31",
+    "interpret": "Mungo Jerry",
+    "title": "Lady Rose"
+  },
+  {
+    "pos": "32",
+    "interpret": "Miguel Rios",
+    "title": "A Song Of Joy"
+  },
+  {
+    "pos": "33",
+    "interpret": "T. Rex",
+    "title": "Get It On"
+  },
+  {
+    "pos": "34",
+    "interpret": "Chris Roberts",
+    "title": "Mein Name ist Hase"
+  },
+  {
+    "pos": "35",
+    "interpret": "Tom Jones",
+    "title": "She's A Lady"
+  },
+  {
+    "pos": "36",
+    "interpret": "Heino",
+    "title": "Mohikana Shalali"
+  },
+  {
+    "pos": "37",
+    "interpret": "Martin Mann",
+    "title": "Meilenweit"
+  },
+  {
+    "pos": "38",
+    "interpret": "Middle Of The Road",
+    "title": "Tweedle Dee Tweedle Dum"
+  },
+  {
+    "pos": "39",
+    "interpret": "Janis Joplin",
+    "title": "Me And Bobby McGee"
+  },
+  {
+    "pos": "40",
+    "interpret": "The Kinks",
+    "title": "Apeman"
+  },
+  {
+    "pos": "41",
+    "interpret": "Michael Holm",
+    "title": "Ein verrückter Tag"
+  },
+  {
+    "pos": "42",
+    "interpret": "Deep Purple",
+    "title": "Strange Kind Of Woman"
+  },
+  {
+    "pos": "43",
+    "interpret": "John Lennon / Plastic Ono Band",
+    "title": "Power To The People"
+  },
+  {
+    "pos": "44",
+    "interpret": "Freddy",
+    "title": "St. Helena"
+  },
+  {
+    "pos": "45",
+    "interpret": "Bolland & Bolland",
+    "title": "Summer Of '71"
+  },
+  {
+    "pos": "46",
+    "interpret": "Christie",
+    "title": "San Bernadino"
+  },
+  {
+    "pos": "47",
+    "interpret": "McGuinness Flint",
+    "title": "When I'm Dead And Gone"
+  },
+  {
+    "pos": "48",
+    "interpret": "Randolph Rose",
+    "title": "Silver Moon Baby"
+  },
+  {
+    "pos": "49",
+    "interpret": "Don Fardon",
+    "title": "Indian Reservation"
+  },
+  {
+    "pos": "50",
+    "interpret": "New World",
+    "title": "Tom-Tom Turnaround"
+  }
+],
+"1972": [
+  {
+    "pos": "1",
+    "interpret": "Tony Marshall",
+    "title": "Komm gib mir deine Hand"
+  },
+  {
+    "pos": "2",
+    "interpret": "The Cats",
+    "title": "One Way Wind"
+  },
+  {
+    "pos": "3",
+    "interpret": "Middle Of The Road",
+    "title": "Sacramento"
+  },
+  {
+    "pos": "4",
+    "interpret": "Tony Marshall",
+    "title": "Schöne Maid"
+  },
+  {
+    "pos": "5",
+    "interpret": "Bata Illic",
+    "title": "Michaela"
+  },
+  {
+    "pos": "6",
+    "interpret": "Christian Anders",
+    "title": "Es fährt ein Zug nach Nirgendwo"
+  },
+  {
+    "pos": "7",
+    "interpret": "Mouth & MacNeal",
+    "title": "Hello-A"
+  },
+  {
+    "pos": "8",
+    "interpret": "The Cats",
+    "title": "Let's Dance"
+  },
+  {
+    "pos": "9",
+    "interpret": "Middle Of The Road",
+    "title": "Samson And Delilah"
+  },
+  {
+    "pos": "10",
+    "interpret": "Jürgen Marcus",
+    "title": "Eine neue Liebe ist wie ein neues Leben"
+  },
+  {
+    "pos": "11",
+    "interpret": "Windows",
+    "title": "How Do You Do"
+  },
+  {
+    "pos": "12",
+    "interpret": "The Sweet",
+    "title": "Poppa Joe"
+  },
+  {
+    "pos": "13",
+    "interpret": "Daniel Boone",
+    "title": "Beautiful Sunday"
+  },
+  {
+    "pos": "14",
+    "interpret": "The Sweet",
+    "title": "Little Willy"
+  },
+  {
+    "pos": "15",
+    "interpret": "Vicky Leandros",
+    "title": "Ich hab' die Liebe geseh'n"
+  },
+  {
+    "pos": "16",
+    "interpret": "Juliane Werding",
+    "title": "Am Tag als Conny Kramer starb"
+  },
+  {
+    "pos": "17",
+    "interpret": "Ulli Martin",
+    "title": "Ich träume mit offenen Augen von dir"
+  },
+  {
+    "pos": "18",
+    "interpret": "T. Rex",
+    "title": "Metal Guru"
+  },
+  {
+    "pos": "19",
+    "interpret": "Daisy Door",
+    "title": "Du lebst in deiner Welt (Highlights Of My Dream)"
+  },
+  {
+    "pos": "20",
+    "interpret": "Neil Diamond",
+    "title": "Song Sung Blue"
+  },
+  {
+    "pos": "21",
+    "interpret": "Neil Young",
+    "title": "Heart Of Gold"
+  },
+  {
+    "pos": "22",
+    "interpret": "Gary Glitter",
+    "title": "Rock And Roll Part 2!"
+  },
+  {
+    "pos": "23",
+    "interpret": "Tony Christie",
+    "title": "Don't Go Down To Reno"
+  },
+  {
+    "pos": "24",
+    "interpret": "Hot Butter",
+    "title": "Popcorn"
+  },
+  {
+    "pos": "25",
+    "interpret": "Tony Marshall",
+    "title": "Ich fang' für euch den Sonnenschein"
+  },
+  {
+    "pos": "26",
+    "interpret": "Middle Of The Road",
+    "title": "Soley Soley"
+  },
+  {
+    "pos": "27",
+    "interpret": "T. Rex",
+    "title": "Jeepster"
+  },
+  {
+    "pos": "28",
+    "interpret": "Freddy Breck",
+    "title": "Überall auf der Welt"
+  },
+  {
+    "pos": "29",
+    "interpret": "Don McLean",
+    "title": "American Pie"
+  },
+  {
+    "pos": "30",
+    "interpret": "Dr. Hook And The Medicine Show",
+    "title": "Sylvia's Mother"
+  },
+  {
+    "pos": "31",
+    "interpret": "Springwater",
+    "title": "I Will Return"
+  },
+  {
+    "pos": "32",
+    "interpret": "Alice Cooper",
+    "title": "School's Out"
+  },
+  {
+    "pos": "33",
+    "interpret": "Pop Tops",
+    "title": "Mamy Blue"
+  },
+  {
+    "pos": "34",
+    "interpret": "The New Seekers",
+    "title": "Beg"
+  },
+  {
+    "pos": "35",
+    "interpret": "The Les Humphries Singers",
+    "title": "We Are Goin' Down Jordan"
+  },
+  {
+    "pos": "36",
+    "interpret": "Mouth & MacNeal",
+    "title": "How Do You Do"
+  },
+  {
+    "pos": "37",
+    "interpret": "Marianne Rosenberg",
+    "title": "Er ist nicht wie du"
+  },
+  {
+    "pos": "38",
+    "interpret": "Imca Marina",
+    "title": "Viva España [deutsch]"
+  },
+  {
+    "pos": "39",
+    "interpret": "Roy Black & Anita",
+    "title": "Schön ist es auf der Welt zu sein"
+  },
+  {
+    "pos": "40",
+    "interpret": "Hawkwind",
+    "title": "Silver Machine"
+  },
+  {
+    "pos": "41",
+    "interpret": "Barry Ryan",
+    "title": "Zeit macht nur vor dem Teufel halt"
+  },
+  {
+    "pos": "42",
+    "interpret": "Chris Roberts",
+    "title": "Hab' Sonne im Herzen"
+  },
+  {
+    "pos": "43",
+    "interpret": "Union Express",
+    "title": "Ring A Ring Of Roses"
+  },
+  {
+    "pos": "44",
+    "interpret": "Vicky Leandros",
+    "title": "Dann kamst du"
+  },
+  {
+    "pos": "45",
+    "interpret": "Ricky Shayne",
+    "title": "Mamy Blue"
+  },
+  {
+    "pos": "46",
+    "interpret": "The Les Humphries Singers",
+    "title": "Old Man Moses"
+  },
+  {
+    "pos": "47",
+    "interpret": "Mireille Mathieu",
+    "title": "Akropolis adieu"
+  },
+  {
+    "pos": "48",
+    "interpret": "Bruce Low",
+    "title": "Noah"
+  },
+  {
+    "pos": "49",
+    "interpret": "The Pop-Corn Makers",
+    "title": "Pop Corn"
+  },
+  {
+    "pos": "50",
+    "interpret": "The Sweet",
+    "title": "Wig-Wam Bam"
+  }
+],
+"1973": [
+  {
+    "pos": "1",
+    "interpret": "Demis Roussos",
+    "title": "Goodbye"
+  },
+  {
+    "pos": "2",
+    "interpret": "Gilbert O'Sullivan",
+    "title": "Get Down"
+  },
+  {
+    "pos": "3",
+    "interpret": "Kincade",
+    "title": "Dreams Are Ten A Penny (Jenny Jenny)"
+  },
+  {
+    "pos": "4",
+    "interpret": "Guido & Maurizio De Angelis",
+    "title": "Flying Through The Air"
+  },
+  {
+    "pos": "5",
+    "interpret": "Bernd Clüver",
+    "title": "Der Junge mit der Mundharmonika"
+  },
+  {
+    "pos": "6",
+    "interpret": "The Les Humphries Singers",
+    "title": "Mama Loo"
+  },
+  {
+    "pos": "7",
+    "interpret": "Wum's Gesang",
+    "title": "Ich wünsch mir 'ne kleine Miezekatze"
+  },
+  {
+    "pos": "8",
+    "interpret": "Freddy Breck",
+    "title": "Bianca"
+  },
+  {
+    "pos": "9",
+    "interpret": "Suzi Quatro",
+    "title": "Can The Can"
+  },
+  {
+    "pos": "10",
+    "interpret": "Albert Hammond",
+    "title": "The Free Electric Band"
+  },
+  {
+    "pos": "11",
+    "interpret": "Medicine Head",
+    "title": "One & One Is One"
+  },
+  {
+    "pos": "12",
+    "interpret": "The Osmonds",
+    "title": "Crazy Horses"
+  },
+  {
+    "pos": "13",
+    "interpret": "Freddy Breck",
+    "title": "Rote Rosen"
+  },
+  {
+    "pos": "14",
+    "interpret": "The Sweet",
+    "title": "Hell Raiser"
+  },
+  {
+    "pos": "15",
+    "interpret": "Cindy & Bert",
+    "title": "Immer wieder sonntags"
+  },
+  {
+    "pos": "16",
+    "interpret": "The Sweet",
+    "title": "Block Buster"
+  },
+  {
+    "pos": "17",
+    "interpret": "Vicky Leandros",
+    "title": "Die Bouzouki klang durch die Sommernacht"
+  },
+  {
+    "pos": "18",
+    "interpret": "Thin Lizzy",
+    "title": "Whisky In The Jar"
+  },
+  {
+    "pos": "19",
+    "interpret": "Cliff Richard",
+    "title": "Power To All Our Friends"
+  },
+  {
+    "pos": "20",
+    "interpret": "Julio Iglesias",
+    "title": "Wenn ein Schiff vorüberfährt"
+  },
+  {
+    "pos": "21",
+    "interpret": "Elton John",
+    "title": "Crocodile Rock"
+  },
+  {
+    "pos": "22",
+    "interpret": "Jürgen Marcus",
+    "title": "Ein Festival der Liebe"
+  },
+  {
+    "pos": "23",
+    "interpret": "Katja Ebstein",
+    "title": "Der Stern von Mykonos"
+  },
+  {
+    "pos": "24",
+    "interpret": "Heino",
+    "title": "Blau blüht der Enzian"
+  },
+  {
+    "pos": "25",
+    "interpret": "The Les Humphries Singers",
+    "title": "Mexico"
+  },
+  {
+    "pos": "26",
+    "interpret": "Rex Gildo",
+    "title": "Fiesta Mexicana"
+  },
+  {
+    "pos": "27",
+    "interpret": "Bernd Clüver",
+    "title": "Der kleine Prinz (Ein Engel"
+  },
+  {
+    "pos": "28",
+    "interpret": "David Cassidy",
+    "title": "Rock Me Baby"
+  },
+  {
+    "pos": "29",
+    "interpret": "Albert Hammond",
+    "title": "It Never Rains In Southern California"
+  },
+  {
+    "pos": "30",
+    "interpret": "Slade",
+    "title": "Gudbuy T'Jane"
+  },
+  {
+    "pos": "31",
+    "interpret": "Dawn feat. Tony Orlando",
+    "title": "Tie A Yellow Ribbon Round The Ole Oak Tree"
+  },
+  {
+    "pos": "32",
+    "interpret": "Middle Of The Road",
+    "title": "Yellow Boomerang"
+  },
+  {
+    "pos": "33",
+    "interpret": "Alice Cooper",
+    "title": "Elected!"
+  },
+  {
+    "pos": "34",
+    "interpret": "Julio Iglesias",
+    "title": "Un canto a Galicia"
+  },
+  {
+    "pos": "35",
+    "interpret": "Ireen Sheer",
+    "title": "Goodbye Mama"
+  },
+  {
+    "pos": "36",
+    "interpret": "Suzi Quatro",
+    "title": "48 Crash"
+  },
+  {
+    "pos": "37",
+    "interpret": "Tony Marshall",
+    "title": "...und in der Heimat"
+  },
+  {
+    "pos": "38",
+    "interpret": "Jürgen Marcus",
+    "title": "Schmetterlinge können nicht weinen"
+  },
+  {
+    "pos": "39",
+    "interpret": "Wizzard",
+    "title": "See My Baby Jive"
+  },
+  {
+    "pos": "40",
+    "interpret": "Slade",
+    "title": "Skweeze Me"
+  },
+  {
+    "pos": "41",
+    "interpret": "The Sweet",
+    "title": "Wig-Wam Bam"
+  },
+  {
+    "pos": "42",
+    "interpret": "Cindy & Bert",
+    "title": "Ich komm' bald wieder"
+  },
+  {
+    "pos": "43",
+    "interpret": "The Rolling Stones",
+    "title": "Angie"
+  },
+  {
+    "pos": "44",
+    "interpret": "Slade",
+    "title": "Cum On Feel The Noize"
+  },
+  {
+    "pos": "45",
+    "interpret": "Heino",
+    "title": "Tampico"
+  },
+  {
+    "pos": "46",
+    "interpret": "T. Rex",
+    "title": "Solid Gold - Easy Action"
+  },
+  {
+    "pos": "47",
+    "interpret": "Christian Anders",
+    "title": "In den Augen der andern"
+  },
+  {
+    "pos": "48",
+    "interpret": "Chris Roberts",
+    "title": "Mein Schatz"
+  },
+  {
+    "pos": "49",
+    "interpret": "The Spotnicks",
+    "title": "If You Could Read My Mind"
+  },
+  {
+    "pos": "50",
+    "interpret": "Albert West",
+    "title": "Ginny Come Lately"
+  }
+],
+"1974": [
+  {
+    "pos": "1",
+    "interpret": "The Rubettes",
+    "title": "Sugar Baby Love"
+  },
+  {
+    "pos": "2",
+    "interpret": "Dan The Banjo Man",
+    "title": "Dan The Banjo Man"
+  },
+  {
+    "pos": "3",
+    "interpret": "Vicky Leandros",
+    "title": "Theo"
+  },
+  {
+    "pos": "4",
+    "interpret": "Terry Jacks",
+    "title": "Seasons In The Sun"
+  },
+  {
+    "pos": "5",
+    "interpret": "ABBA",
+    "title": "Waterloo"
+  },
+  {
+    "pos": "6",
+    "interpret": "Nazareth",
+    "title": "This Flight Tonight"
+  },
+  {
+    "pos": "7",
+    "interpret": "Nick MacKenzie",
+    "title": "Juanita"
+  },
+  {
+    "pos": "8",
+    "interpret": "ABBA",
+    "title": "Honey Honey"
+  },
+  {
+    "pos": "9",
+    "interpret": "MFSB feat. The Three Degrees",
+    "title": "TSOP (The Sound Of Philadelphia)"
+  },
+  {
+    "pos": "10",
+    "interpret": "Santabarbara",
+    "title": "Charly"
+  },
+  {
+    "pos": "11",
+    "interpret": "Chris Roberts",
+    "title": "Du kannst nicht immer siebzehn sein"
+  },
+  {
+    "pos": "12",
+    "interpret": "George McCrae",
+    "title": "Rock Your Baby"
+  },
+  {
+    "pos": "13",
+    "interpret": "Bruce Low",
+    "title": "Das Kartenspiel"
+  },
+  {
+    "pos": "14",
+    "interpret": "The Hollies",
+    "title": "The Air That I Breathe"
+  },
+  {
+    "pos": "15",
+    "interpret": "Gunter Gabriel",
+    "title": "Hey Boss - ich brauch mehr Geld"
+  },
+  {
+    "pos": "16",
+    "interpret": "The Cats",
+    "title": "Be My Day"
+  },
+  {
+    "pos": "17",
+    "interpret": "Paper Lace",
+    "title": "The Night Chicago Died"
+  },
+  {
+    "pos": "18",
+    "interpret": "The Sweet",
+    "title": "Teenage Rampage"
+  },
+  {
+    "pos": "19",
+    "interpret": "The Sweet",
+    "title": "The Six Teens"
+  },
+  {
+    "pos": "20",
+    "interpret": "Nina & Mike",
+    "title": "Fahrende Musikanten"
+  },
+  {
+    "pos": "21",
+    "interpret": "Ike & Tina Turner",
+    "title": "Nutbush City Limits"
+  },
+  {
+    "pos": "22",
+    "interpret": "Bata Illic",
+    "title": "Schwarze Madonna"
+  },
+  {
+    "pos": "23",
+    "interpret": "The Les Humphries Singers",
+    "title": "Kansas City"
+  },
+  {
+    "pos": "24",
+    "interpret": "Suzi Quatro",
+    "title": "Devil Gate Drive"
+  },
+  {
+    "pos": "25",
+    "interpret": "Alvin Stardust",
+    "title": "My Coo Ca Choo"
+  },
+  {
+    "pos": "26",
+    "interpret": "Mireille Mathieu",
+    "title": "La Paloma ade"
+  },
+  {
+    "pos": "27",
+    "interpret": "Lobo",
+    "title": "I'd Love You To Want Me"
+  },
+  {
+    "pos": "28",
+    "interpret": "Albert Hammond",
+    "title": "I'm A Train"
+  },
+  {
+    "pos": "29",
+    "interpret": "Golden Earring",
+    "title": "Radar Love"
+  },
+  {
+    "pos": "30",
+    "interpret": "Mud",
+    "title": "Tiger Feet"
+  },
+  {
+    "pos": "31",
+    "interpret": "Cindy & Bert",
+    "title": "Spaniens Gitarren"
+  },
+  {
+    "pos": "32",
+    "interpret": "Heino",
+    "title": "La Montanara"
+  },
+  {
+    "pos": "33",
+    "interpret": "Suzi Quatro",
+    "title": "Daytona Demon"
+  },
+  {
+    "pos": "34",
+    "interpret": "Bernd Clüver",
+    "title": "Das Tor zum Garten der Träume"
+  },
+  {
+    "pos": "35",
+    "interpret": "Leo Sayer",
+    "title": "The Show Must Go On"
+  },
+  {
+    "pos": "36",
+    "interpret": "The Rubettes",
+    "title": "Tonight"
+  },
+  {
+    "pos": "37",
+    "interpret": "Paul McCartney & Wings",
+    "title": "Jet"
+  },
+  {
+    "pos": "38",
+    "interpret": "The Glitter Band",
+    "title": "Angel Face"
+  },
+  {
+    "pos": "39",
+    "interpret": "Demis Roussos",
+    "title": "Schönes Mädchen aus Arcadia"
+  },
+  {
+    "pos": "40",
+    "interpret": "John Kincade",
+    "title": "Till I Kissed You"
+  },
+  {
+    "pos": "41",
+    "interpret": "Christian Anders",
+    "title": "Einsamkeit hat viele Namen"
+  },
+  {
+    "pos": "42",
+    "interpret": "Alvin Stardust",
+    "title": "Jealous Mind"
+  },
+  {
+    "pos": "43",
+    "interpret": "The Hues Corporation",
+    "title": "Rock The Boat"
+  },
+  {
+    "pos": "44",
+    "interpret": "Mud",
+    "title": "Rocket"
+  },
+  {
+    "pos": "45",
+    "interpret": "Ringo Starr",
+    "title": "Photograph"
+  },
+  {
+    "pos": "46",
+    "interpret": "Cindy & Bert",
+    "title": "Aber am Abend da spielt der Zigeuner"
+  },
+  {
+    "pos": "47",
+    "interpret": "Insterburg & Co.",
+    "title": "Ich liebte ein Mädchen"
+  },
+  {
+    "pos": "48",
+    "interpret": "Walter Scheel",
+    "title": "Hoch auf dem gelben Wagen"
+  },
+  {
+    "pos": "49",
+    "interpret": "Costa Cordalis",
+    "title": "Steig' in das Boot heute nacht"
+  },
+  {
+    "pos": "50",
+    "interpret": "Cozy Powell",
+    "title": "Dance With The Devil"
+  }
+],
+"1975": [
+  {
+    "pos": "1",
+    "interpret": "George Baker Selection",
+    "title": "Paloma Blanca"
+  },
+  {
+    "pos": "2",
+    "interpret": "Udo Jürgens",
+    "title": "Griechischer Wein"
+  },
+  {
+    "pos": "3",
+    "interpret": "The Sweet",
+    "title": "Fox On The Run"
+  },
+  {
+    "pos": "4",
+    "interpret": "Fox",
+    "title": "Only You Can"
+  },
+  {
+    "pos": "5",
+    "interpret": "Billy Swan",
+    "title": "I Can Help"
+  },
+  {
+    "pos": "6",
+    "interpret": "Howard Carpendale",
+    "title": "Deine Spuren im Sand"
+  },
+  {
+    "pos": "7",
+    "interpret": "Bachman-Turner Overdrive",
+    "title": "You Ain't Seen Nothin' Yet"
+  },
+  {
+    "pos": "8",
+    "interpret": "Neil Diamond",
+    "title": "Longfellow Serenade"
+  },
+  {
+    "pos": "9",
+    "interpret": "Katja Ebstein",
+    "title": "Es war einmal ein Jäger"
+  },
+  {
+    "pos": "10",
+    "interpret": "Demis Roussos",
+    "title": "Schön wie Mona Lisa (Wenn ich ein Maler wär')"
+  },
+  {
+    "pos": "11",
+    "interpret": "Shirley And Company",
+    "title": "Shame"
+  },
+  {
+    "pos": "12",
+    "interpret": "Frank Zander",
+    "title": "Ich trink' auf dein Wohl"
+  },
+  {
+    "pos": "13",
+    "interpret": "Jürgen Marcus",
+    "title": "Ein Lied zieht hinaus in die Welt"
+  },
+  {
+    "pos": "14",
+    "interpret": "The Rubettes",
+    "title": "Juke Box Jive"
+  },
+  {
+    "pos": "15",
+    "interpret": "Alain Barrière",
+    "title": "Tu t'en vas"
+  },
+  {
+    "pos": "16",
+    "interpret": "Hank The Knife And The Jets",
+    "title": "Guitar King"
+  },
+  {
+    "pos": "17",
+    "interpret": "Michael Holm",
+    "title": "Tränen lügen nicht"
+  },
+  {
+    "pos": "18",
+    "interpret": "ABBA",
+    "title": "S.O.S."
+  },
+  {
+    "pos": "19",
+    "interpret": "Van McCoy & The Soul City Symphony",
+    "title": "The Hustle"
+  },
+  {
+    "pos": "20",
+    "interpret": "The Rubettes",
+    "title": "I Can Do It"
+  },
+  {
+    "pos": "21",
+    "interpret": "Mud",
+    "title": "Oh Boy"
+  },
+  {
+    "pos": "22",
+    "interpret": "Bay City Rollers",
+    "title": "Bye Bye Baby"
+  },
+  {
+    "pos": "23",
+    "interpret": "The Sweet",
+    "title": "Action"
+  },
+  {
+    "pos": "24",
+    "interpret": "Carl Douglas",
+    "title": "Kung Fu Fighting"
+  },
+  {
+    "pos": "25",
+    "interpret": "Gloria Gaynor",
+    "title": "Reach Out"
+  },
+  {
+    "pos": "26",
+    "interpret": "Dennie Christian",
+    "title": "Rosamunde"
+  },
+  {
+    "pos": "27",
+    "interpret": "Status Quo",
+    "title": "Down"
+  },
+  {
+    "pos": "28",
+    "interpret": "ABBA",
+    "title": "I Do"
+  },
+  {
+    "pos": "29",
+    "interpret": "Barry White",
+    "title": "You're The First"
+  },
+  {
+    "pos": "30",
+    "interpret": "Carl Douglas",
+    "title": "Dance The Kung Fu"
+  },
+  {
+    "pos": "31",
+    "interpret": "John Kincade",
+    "title": "When"
+  },
+  {
+    "pos": "32",
+    "interpret": "Penny McLean",
+    "title": "Lady Bump"
+  },
+  {
+    "pos": "33",
+    "interpret": "Heino",
+    "title": "Die schwarze Barbara"
+  },
+  {
+    "pos": "34",
+    "interpret": "Bohannon",
+    "title": "Disco Stomp"
+  },
+  {
+    "pos": "35",
+    "interpret": "Ralph McTell",
+    "title": "Streets Of London"
+  },
+  {
+    "pos": "36",
+    "interpret": "Carpenters",
+    "title": "Please Mr. Postman"
+  },
+  {
+    "pos": "37",
+    "interpret": "Telly Savalas",
+    "title": "If"
+  },
+  {
+    "pos": "38",
+    "interpret": "George McCrae",
+    "title": "I Can't Leave You Alone"
+  },
+  {
+    "pos": "39",
+    "interpret": "Marianne Rosenberg",
+    "title": "Er gehört zu mir"
+  },
+  {
+    "pos": "40",
+    "interpret": "Lars",
+    "title": "Es war einmal eine Gitarre"
+  },
+  {
+    "pos": "41",
+    "interpret": "Kraftwerk",
+    "title": "Autobahn"
+  },
+  {
+    "pos": "42",
+    "interpret": "10cc",
+    "title": "I'm Not In Love"
+  },
+  {
+    "pos": "43",
+    "interpret": "Labelle",
+    "title": "Voulez vous coucher avec moi ce soir? (Lady Marmalade)"
+  },
+  {
+    "pos": "44",
+    "interpret": "I Santo California",
+    "title": "Torneró"
+  },
+  {
+    "pos": "45",
+    "interpret": "Vicky Leandros",
+    "title": "Rot ist die Liebe"
+  },
+  {
+    "pos": "46",
+    "interpret": "Bachman-Turner Overdrive",
+    "title": "Hey You"
+  },
+  {
+    "pos": "47",
+    "interpret": "Howard Carpendale",
+    "title": "Du fängst den Wind niemals ein"
+  },
+  {
+    "pos": "48",
+    "interpret": "Henry Valentino und Paul Bistes Rag-Time-Band",
+    "title": "Ich hab' dein Knie geseh'n"
+  },
+  {
+    "pos": "49",
+    "interpret": "Gloria Gaynor",
+    "title": "Never Can Say Goodbye"
+  },
+  {
+    "pos": "50",
+    "interpret": "Smokey",
+    "title": "If You Think You Know How To Love Me"
+  }
+],
+"1976": [
+  {
+    "pos": "1",
+    "interpret": "Peter Alexander",
+    "title": "Die kleine Kneipe"
+  },
+  {
+    "pos": "2",
+    "interpret": "Pussycat",
+    "title": "Mississippi"
+  },
+  {
+    "pos": "3",
+    "interpret": "Nico Haak",
+    "title": "Schmidtchen Schleicher"
+  },
+  {
+    "pos": "4",
+    "interpret": "ABBA",
+    "title": "Fernando"
+  },
+  {
+    "pos": "5",
+    "interpret": "Frank Farian",
+    "title": "Rocky"
+  },
+  {
+    "pos": "6",
+    "interpret": "Sailor",
+    "title": "A Glass Of Champagne"
+  },
+  {
+    "pos": "7",
+    "interpret": "Sailor",
+    "title": "Girls"
+  },
+  {
+    "pos": "8",
+    "interpret": "Bellamy Brothers",
+    "title": "Let Your Love Flow"
+  },
+  {
+    "pos": "9",
+    "interpret": "Jürgen Drews",
+    "title": "Ein Bett im Kornfeld"
+  },
+  {
+    "pos": "10",
+    "interpret": "Pussycat",
+    "title": "Georgie"
+  },
+  {
+    "pos": "11",
+    "interpret": "Harpo",
+    "title": "Moviestar"
+  },
+  {
+    "pos": "12",
+    "interpret": "Marianne Rosenberg",
+    "title": "Lieder der Nacht"
+  },
+  {
+    "pos": "13",
+    "interpret": "Harpo",
+    "title": "Horoscope"
+  },
+  {
+    "pos": "14",
+    "interpret": "ABBA",
+    "title": "Mamma Mia"
+  },
+  {
+    "pos": "15",
+    "interpret": "Roger Whittaker",
+    "title": "River Lady (A Little Goodbye)"
+  },
+  {
+    "pos": "16",
+    "interpret": "George Baker Selection",
+    "title": "Morning Sky"
+  },
+  {
+    "pos": "17",
+    "interpret": "Boney M.",
+    "title": "Daddy Cool"
+  },
+  {
+    "pos": "18",
+    "interpret": "Brotherhood Of Man",
+    "title": "Save Your Kisses For Me"
+  },
+  {
+    "pos": "19",
+    "interpret": "Silver Convention",
+    "title": "Fly"
+  },
+  {
+    "pos": "20",
+    "interpret": "Udo Jürgens",
+    "title": "Aber bitte mit Sahne"
+  },
+  {
+    "pos": "21",
+    "interpret": "Tina Charles",
+    "title": "I Love To Love"
+  },
+  {
+    "pos": "22",
+    "interpret": "ABBA",
+    "title": "Dancing Queen"
+  },
+  {
+    "pos": "23",
+    "interpret": "Jean-Claude Borelly",
+    "title": "Dolannes Melodie"
+  },
+  {
+    "pos": "24",
+    "interpret": "Penny McLean",
+    "title": "1-2-3-4... Fire!"
+  },
+  {
+    "pos": "25",
+    "interpret": "Hot Chocolate",
+    "title": "You Sexy Thing"
+  },
+  {
+    "pos": "26",
+    "interpret": "Penny McLean",
+    "title": "Lady Bump"
+  },
+  {
+    "pos": "27",
+    "interpret": "Christian Anders",
+    "title": "Der Brief"
+  },
+  {
+    "pos": "28",
+    "interpret": "Donna Summer",
+    "title": "Love To Love You Baby"
+  },
+  {
+    "pos": "29",
+    "interpret": "Waterloo & Robinson",
+    "title": "My Little World"
+  },
+  {
+    "pos": "30",
+    "interpret": "Hello",
+    "title": "New York Groove"
+  },
+  {
+    "pos": "31",
+    "interpret": "5000 Volts",
+    "title": "I'm On Fire"
+  },
+  {
+    "pos": "32",
+    "interpret": "Gunter Gabriel",
+    "title": "Komm' unter meine Decke"
+  },
+  {
+    "pos": "33",
+    "interpret": "Peter Maffay",
+    "title": "Josie"
+  },
+  {
+    "pos": "34",
+    "interpret": "Johnny Wakelin",
+    "title": "In Zaire"
+  },
+  {
+    "pos": "35",
+    "interpret": "Rod Stewart",
+    "title": "Sailing"
+  },
+  {
+    "pos": "36",
+    "interpret": "John Miles",
+    "title": "Music"
+  },
+  {
+    "pos": "37",
+    "interpret": "Smokey",
+    "title": "Don't Play Your Rock'n Roll To Me"
+  },
+  {
+    "pos": "38",
+    "interpret": "The Sweet",
+    "title": "The Lies In Your Eyes"
+  },
+  {
+    "pos": "39",
+    "interpret": "Ricky King",
+    "title": "Verde"
+  },
+  {
+    "pos": "40",
+    "interpret": "Elton John & Kiki Dee",
+    "title": "Don't Go Breaking My Heart"
+  },
+  {
+    "pos": "41",
+    "interpret": "Slik",
+    "title": "Forever And Ever"
+  },
+  {
+    "pos": "42",
+    "interpret": "Two Man Sound",
+    "title": "Charlie Brown"
+  },
+  {
+    "pos": "43",
+    "interpret": "Vicky Leandros",
+    "title": "Ich liebe das Leben"
+  },
+  {
+    "pos": "44",
+    "interpret": "Smokie",
+    "title": "Wild Wild Angels"
+  },
+  {
+    "pos": "45",
+    "interpret": "Andrea True Connection",
+    "title": "More More More"
+  },
+  {
+    "pos": "46",
+    "interpret": "Harpo",
+    "title": "Motorcycle Mama"
+  },
+  {
+    "pos": "47",
+    "interpret": "Queen",
+    "title": "Bohemian Rhapsody"
+  },
+  {
+    "pos": "48",
+    "interpret": "Gilla",
+    "title": "Tu' es!"
+  },
+  {
+    "pos": "49",
+    "interpret": "Juliane Werding",
+    "title": "Wenn du denkst du denkst dann denkst du nur du denkst"
+  },
+  {
+    "pos": "50",
+    "interpret": "Lena Valaitis",
+    "title": "Ein schöner Tag"
+  }
+],
+"1977": [
+  {
+    "pos": "1",
+    "interpret": "Julie Covington",
+    "title": "Don't Cry For Me Argentina"
+  },
+  {
+    "pos": "2",
+    "interpret": "Boney M.",
+    "title": "Ma Baker"
+  },
+  {
+    "pos": "3",
+    "interpret": "Baccara",
+    "title": "Yes Sir"
+  },
+  {
+    "pos": "4",
+    "interpret": "Smokie",
+    "title": "Living Next Door To Alice"
+  },
+  {
+    "pos": "5",
+    "interpret": "Frank Zander",
+    "title": "Oh"
+  },
+  {
+    "pos": "6",
+    "interpret": "Oliver Onions",
+    "title": "Orzowei"
+  },
+  {
+    "pos": "7",
+    "interpret": "Jeanette [ES]",
+    "title": "Porque te vas"
+  },
+  {
+    "pos": "8",
+    "interpret": "Bonnie Tyler",
+    "title": "Lost In France"
+  },
+  {
+    "pos": "9",
+    "interpret": "ABBA",
+    "title": "Knowing Me"
+  },
+  {
+    "pos": "10",
+    "interpret": "Space",
+    "title": "Magic Fly"
+  },
+  {
+    "pos": "11",
+    "interpret": "Smokie",
+    "title": "Lay Back In The Arms Of Someone"
+  },
+  {
+    "pos": "12",
+    "interpret": "Boney M.",
+    "title": "Sunny"
+  },
+  {
+    "pos": "13",
+    "interpret": "John Paul Young",
+    "title": "Standing In The Rain"
+  },
+  {
+    "pos": "14",
+    "interpret": "Chicago",
+    "title": "If You Leave Me Now"
+  },
+  {
+    "pos": "15",
+    "interpret": "Costa Cordalis",
+    "title": "Anita"
+  },
+  {
+    "pos": "16",
+    "interpret": "Ricky King",
+    "title": "Le rêve"
+  },
+  {
+    "pos": "17",
+    "interpret": "Showaddywaddy",
+    "title": "Under The Moon Of Love"
+  },
+  {
+    "pos": "18",
+    "interpret": "Rose Royce",
+    "title": "Car Wash"
+  },
+  {
+    "pos": "19",
+    "interpret": "Marianne Rosenberg",
+    "title": "Marleen"
+  },
+  {
+    "pos": "20",
+    "interpret": "Eagles",
+    "title": "Hotel California"
+  },
+  {
+    "pos": "21",
+    "interpret": "ABBA",
+    "title": "Money"
+  },
+  {
+    "pos": "22",
+    "interpret": "Smokie",
+    "title": "It's Your Life"
+  },
+  {
+    "pos": "23",
+    "interpret": "Bay City Rollers",
+    "title": "It's A Game"
+  },
+  {
+    "pos": "24",
+    "interpret": "Hot Chocolate",
+    "title": "So You Win Again"
+  },
+  {
+    "pos": "25",
+    "interpret": "Kenny Rogers",
+    "title": "Lucille"
+  },
+  {
+    "pos": "26",
+    "interpret": "Michael Holm",
+    "title": "Mußt du jetzt grade gehen Lucille"
+  },
+  {
+    "pos": "27",
+    "interpret": "Donna Summer",
+    "title": "I Feel Love"
+  },
+  {
+    "pos": "28",
+    "interpret": "David Dundas",
+    "title": "Another Funny Honeymoon"
+  },
+  {
+    "pos": "29",
+    "interpret": "Bernhard Brink",
+    "title": "Liebe auf Zeit"
+  },
+  {
+    "pos": "30",
+    "interpret": "Willem",
+    "title": "Tarzan ist wieder da"
+  },
+  {
+    "pos": "31",
+    "interpret": "Baccara",
+    "title": "Sorry"
+  },
+  {
+    "pos": "32",
+    "interpret": "Thelma Houston",
+    "title": "Don't Leave Me This Way"
+  },
+  {
+    "pos": "33",
+    "interpret": "David Dundas",
+    "title": "Jeans On"
+  },
+  {
+    "pos": "34",
+    "interpret": "Tina Rainford",
+    "title": "Silver Bird"
+  },
+  {
+    "pos": "35",
+    "interpret": "Smokie",
+    "title": "Needles And Pins"
+  },
+  {
+    "pos": "36",
+    "interpret": "Amanda Lear",
+    "title": "Blood & Honey"
+  },
+  {
+    "pos": "37",
+    "interpret": "Ricky King",
+    "title": "Verde"
+  },
+  {
+    "pos": "38",
+    "interpret": "Lynsey De Paul & Mike Moran",
+    "title": "Rock Bottom"
+  },
+  {
+    "pos": "39",
+    "interpret": "Amanda Lear",
+    "title": "Queen Of China-Town"
+  },
+  {
+    "pos": "40",
+    "interpret": "Vicky Leandros",
+    "title": "Auf dem Mond da blühen keine Rosen"
+  },
+  {
+    "pos": "41",
+    "interpret": "George Baker Selection",
+    "title": "Beautiful Rose"
+  },
+  {
+    "pos": "42",
+    "interpret": "David Bowie",
+    "title": "Sound And Vision"
+  },
+  {
+    "pos": "43",
+    "interpret": "Jürgen Drews",
+    "title": "Barfuß durch den Sommer"
+  },
+  {
+    "pos": "44",
+    "interpret": "Boney M.",
+    "title": "Daddy Cool"
+  },
+  {
+    "pos": "45",
+    "interpret": "Peter",
+    "title": " Sue & Marc"
+  },
+  {
+    "pos": "46",
+    "interpret": "Heart",
+    "title": "Barracuda"
+  },
+  {
+    "pos": "47",
+    "interpret": "Daliah Lavi",
+    "title": "Weißt du"
+  },
+  {
+    "pos": "48",
+    "interpret": "Howard Carpendale",
+    "title": "Tür an Tür mit Alice"
+  },
+  {
+    "pos": "49",
+    "interpret": "Van McCoy",
+    "title": "Soul Cha Cha"
+  },
+  {
+    "pos": "50",
+    "interpret": "Bay City Rollers",
+    "title": "Yesterdays Hero"
+  }
+],
+"1978": [
+  {
+    "pos": "1",
+    "interpret": "Vader Abraham",
+    "title": "Das Lied der Schlümpfe"
+  },
+  {
+    "pos": "2",
+    "interpret": "Boney M.",
+    "title": "Rivers Of Babylon"
+  },
+  {
+    "pos": "3",
+    "interpret": "Wings",
+    "title": "Mull Of Kintyre"
+  },
+  {
+    "pos": "4",
+    "interpret": "John Travolta / Olivia Newton-John",
+    "title": "You're The One That I Want"
+  },
+  {
+    "pos": "5",
+    "interpret": "Bee Gees",
+    "title": "Stayin' Alive"
+  },
+  {
+    "pos": "6",
+    "interpret": "Amanda Lear",
+    "title": "Follow Me"
+  },
+  {
+    "pos": "7",
+    "interpret": "Bee Gees",
+    "title": "Night Fever"
+  },
+  {
+    "pos": "8",
+    "interpret": "Gerry Rafferty",
+    "title": "Baker Street"
+  },
+  {
+    "pos": "9",
+    "interpret": "Wishful Thinking",
+    "title": "Hiroshima"
+  },
+  {
+    "pos": "10",
+    "interpret": "Eruption feat. Precious Wilson",
+    "title": "I Can't Stand The Rain"
+  },
+  {
+    "pos": "11",
+    "interpret": "Andrea Jürgens",
+    "title": "...und dabei liebe ich euch beide"
+  },
+  {
+    "pos": "12",
+    "interpret": "Gitti und Erica",
+    "title": "Heidi"
+  },
+  {
+    "pos": "13",
+    "interpret": "ABBA",
+    "title": "Take A Chance On Me"
+  },
+  {
+    "pos": "14",
+    "interpret": "John Paul Young",
+    "title": "Love Is In The Air"
+  },
+  {
+    "pos": "15",
+    "interpret": "La Bionda",
+    "title": "One For You"
+  },
+  {
+    "pos": "16",
+    "interpret": "Plastic Bertrand",
+    "title": "Ça plane pour moi"
+  },
+  {
+    "pos": "17",
+    "interpret": "Luisa Fernandez",
+    "title": "Lay Love On You"
+  },
+  {
+    "pos": "18",
+    "interpret": "Genesis",
+    "title": "Follow You Follow Me"
+  },
+  {
+    "pos": "19",
+    "interpret": "Queen",
+    "title": "We Are The Champions"
+  },
+  {
+    "pos": "20",
+    "interpret": "Bonnie Tyler",
+    "title": "It's A Heartache"
+  },
+  {
+    "pos": "21",
+    "interpret": "Howard Carpendale",
+    "title": "Ti amo"
+  },
+  {
+    "pos": "22",
+    "interpret": "Smokie",
+    "title": "Oh Carol"
+  },
+  {
+    "pos": "23",
+    "interpret": "Uriah Heep",
+    "title": "Free Me"
+  },
+  {
+    "pos": "24",
+    "interpret": "Suzi Quatro",
+    "title": "If You Can't Give Me Love"
+  },
+  {
+    "pos": "25",
+    "interpret": "Dee D. Jackson",
+    "title": "Automatic Lover"
+  },
+  {
+    "pos": "26",
+    "interpret": "Andrea Jürgens",
+    "title": "Ich zeige dir mein Paradies"
+  },
+  {
+    "pos": "27",
+    "interpret": "Uriah Heep",
+    "title": "Lady In Black"
+  },
+  {
+    "pos": "28",
+    "interpret": "Udo Jürgens und die Fußball-Nationalmannschaft",
+    "title": "Buenos dias Argentina"
+  },
+  {
+    "pos": "29",
+    "interpret": "Marshall",
+    "title": " Hain"
+  },
+  {
+    "pos": "30",
+    "interpret": "Status Quo",
+    "title": "Rockin' All Over The World"
+  },
+  {
+    "pos": "31",
+    "interpret": "Henry Valentino + Uschi",
+    "title": "Im Wagen vor mir"
+  },
+  {
+    "pos": "32",
+    "interpret": "Smokie",
+    "title": "For A Few Dollars More"
+  },
+  {
+    "pos": "33",
+    "interpret": "ABBA",
+    "title": "Eagle"
+  },
+  {
+    "pos": "34",
+    "interpret": "Bino",
+    "title": "Mama Leone"
+  },
+  {
+    "pos": "35",
+    "interpret": "El Pasador",
+    "title": "Amada mia amore mio"
+  },
+  {
+    "pos": "36",
+    "interpret": "Supermax",
+    "title": "Lovemachine"
+  },
+  {
+    "pos": "37",
+    "interpret": "Santa Esmeralda starring Leroy Gomez",
+    "title": "Don't Let Me Be Misunderstood + Esmeralda Suite"
+  },
+  {
+    "pos": "38",
+    "interpret": "Clout",
+    "title": "Substitute"
+  },
+  {
+    "pos": "39",
+    "interpret": "The Teens",
+    "title": "Gimme Gimme Gimme Gimme Gimme Your Love (Heartache Number One)"
+  },
+  {
+    "pos": "40",
+    "interpret": "Roland Kaiser",
+    "title": "Sieben Fässer Wein"
+  },
+  {
+    "pos": "41",
+    "interpret": "Lesley Hamilton",
+    "title": "No Hollywood Movie"
+  },
+  {
+    "pos": "42",
+    "interpret": "Johanna von Koczian",
+    "title": "Das bisschen Haushalt... sagt mein Mann"
+  },
+  {
+    "pos": "43",
+    "interpret": "The Rolling Stones",
+    "title": "Miss You"
+  },
+  {
+    "pos": "44",
+    "interpret": "Belle Epoque",
+    "title": "Miss Broadway"
+  },
+  {
+    "pos": "45",
+    "interpret": "Kate Bush",
+    "title": "Wuthering Heights"
+  },
+  {
+    "pos": "46",
+    "interpret": "Tony Marshall",
+    "title": "Bora Bora"
+  },
+  {
+    "pos": "47",
+    "interpret": "The Sweet",
+    "title": "Love Is Like Oxygen"
+  },
+  {
+    "pos": "48",
+    "interpret": "Belle Epoque",
+    "title": "Black Is Black"
+  },
+  {
+    "pos": "49",
+    "interpret": "Bruce Low",
+    "title": "Die Legende von Babylon"
+  },
+  {
+    "pos": "50",
+    "interpret": "Boney M.",
+    "title": "Rasputin"
+  },
+  {
+    "pos": "pos",
+    "interpret": "interpret",
+    "title": "title"
+  }
+],
+"1979": [
+  {
+    "pos": "1",
+    "interpret": "Peter Maffay",
+    "title": "So bist du"
+  },
+  {
+    "pos": "2",
+    "interpret": "Patrick Hernandez",
+    "title": "Born To Be Alive"
+  },
+  {
+    "pos": "3",
+    "interpret": "Village People",
+    "title": "Y.M.C.A."
+  },
+  {
+    "pos": "4",
+    "interpret": "Blondie",
+    "title": "Heart Of Glass"
+  },
+  {
+    "pos": "5",
+    "interpret": "Art Garfunkel",
+    "title": "Bright Eyes"
+  },
+  {
+    "pos": "6",
+    "interpret": "Dschinghis Khan",
+    "title": "Dschinghis Khan"
+  },
+  {
+    "pos": "7",
+    "interpret": "M",
+    "title": "Pop Muzik"
+  },
+  {
+    "pos": "8",
+    "interpret": "ABBA",
+    "title": "Chiquitita"
+  },
+  {
+    "pos": "9",
+    "interpret": "Dschinghis Khan",
+    "title": "Moskau"
+  },
+  {
+    "pos": "10",
+    "interpret": "Racey",
+    "title": "Some Girls"
+  },
+  {
+    "pos": "11",
+    "interpret": "Peter Alexander",
+    "title": "Und manchmal weinst du sicher ein paar Tränen"
+  },
+  {
+    "pos": "12",
+    "interpret": "KISS",
+    "title": "I Was Made For Lovin' You"
+  },
+  {
+    "pos": "13",
+    "interpret": "Eruption",
+    "title": "One Way Ticket"
+  },
+  {
+    "pos": "14",
+    "interpret": "Boney M.",
+    "title": "El Lute"
+  },
+  {
+    "pos": "15",
+    "interpret": "Luv'",
+    "title": "Trojan Horse"
+  },
+  {
+    "pos": "16",
+    "interpret": "Richard Clayderman",
+    "title": "Ballade pour Adeline"
+  },
+  {
+    "pos": "17",
+    "interpret": "Donna Summer",
+    "title": "Hot Stuff"
+  },
+  {
+    "pos": "18",
+    "interpret": "Jonny Hill",
+    "title": "Ruf' Teddybär eins-vier"
+  },
+  {
+    "pos": "19",
+    "interpret": "Nick Straker Band",
+    "title": "A Walk In The Park"
+  },
+  {
+    "pos": "20",
+    "interpret": "Promises",
+    "title": "Baby It's You"
+  },
+  {
+    "pos": "21",
+    "interpret": "Clout",
+    "title": "Save Me"
+  },
+  {
+    "pos": "22",
+    "interpret": "Gebrüder Blattschuss",
+    "title": "Kreuzberger Nächte"
+  },
+  {
+    "pos": "23",
+    "interpret": "Oliver Onions",
+    "title": "Bulldozer"
+  },
+  {
+    "pos": "24",
+    "interpret": "Dieter Hallervorden / Helga Feddersen",
+    "title": "Du"
+  },
+  {
+    "pos": "25",
+    "interpret": "Chic",
+    "title": "Le Freak"
+  },
+  {
+    "pos": "26",
+    "interpret": "Chris Norman & Suzi Quatro",
+    "title": "Stumblin' In"
+  },
+  {
+    "pos": "27",
+    "interpret": "Boney M.",
+    "title": "Hooray! Hooray! It's A Holi-Holiday"
+  },
+  {
+    "pos": "28",
+    "interpret": "Bee Gees",
+    "title": "Too Much Heaven"
+  },
+  {
+    "pos": "29",
+    "interpret": "Baccara",
+    "title": "The Devil Sent You To Lorado"
+  },
+  {
+    "pos": "30",
+    "interpret": "Bee Gees",
+    "title": "Tragedy"
+  },
+  {
+    "pos": "31",
+    "interpret": "Amii Stewart",
+    "title": "Knock On Wood"
+  },
+  {
+    "pos": "32",
+    "interpret": "Paola",
+    "title": "Blue Bayou"
+  },
+  {
+    "pos": "33",
+    "interpret": "Frankie Miller",
+    "title": "Darlin'"
+  },
+  {
+    "pos": "34",
+    "interpret": "Anita Ward",
+    "title": "Ring My Bell"
+  },
+  {
+    "pos": "35",
+    "interpret": "Blondie",
+    "title": "Sunday Girl"
+  },
+  {
+    "pos": "36",
+    "interpret": "Umberto Tozzi",
+    "title": "Gloria"
+  },
+  {
+    "pos": "37",
+    "interpret": "Exile",
+    "title": "Kiss You All Over"
+  },
+  {
+    "pos": "38",
+    "interpret": "Manuel & Pony",
+    "title": "Das Lied von Manuel"
+  },
+  {
+    "pos": "39",
+    "interpret": "Rod Stewart",
+    "title": "Da' Ya' Think I'm Sexy"
+  },
+  {
+    "pos": "40",
+    "interpret": "Exile",
+    "title": "How Could This Go Wrong"
+  },
+  {
+    "pos": "41",
+    "interpret": "Snoopy",
+    "title": "No Time For A Tango"
+  },
+  {
+    "pos": "42",
+    "interpret": "Cliff Richard",
+    "title": "We Don't Talk Anymore"
+  },
+  {
+    "pos": "43",
+    "interpret": "Supertramp",
+    "title": "The Logical Song"
+  },
+  {
+    "pos": "44",
+    "interpret": "Luv'",
+    "title": "You're The Greatest Lover"
+  },
+  {
+    "pos": "45",
+    "interpret": "Dr. Hook",
+    "title": "When You're In Love With A Beautiful Woman"
+  },
+  {
+    "pos": "46",
+    "interpret": "Saragossa Band",
+    "title": "Rasta Man"
+  },
+  {
+    "pos": "47",
+    "interpret": "Gloria Gaynor",
+    "title": "I Will Survive"
+  },
+  {
+    "pos": "48",
+    "interpret": "The Boomtown Rats",
+    "title": "I Don't Like Mondays"
+  },
+  {
+    "pos": "49",
+    "interpret": "Racey",
+    "title": "Boy Oh Boy"
+  },
+  {
+    "pos": "50",
+    "interpret": "Boney M.",
+    "title": "Mary's Boy Child / Oh My Lord"
+  }
+],
+"1980": [
+  {
+    "pos": "1",
+    "interpret": "Goombay Dance Band",
+    "title": "Sun Of Jamaica"
+  },
+  {
+    "pos": "2",
+    "interpret": "Pink Floyd",
+    "title": "Another Brick In The Wall (Part II)"
+  },
+  {
+    "pos": "3",
+    "interpret": "Ottawan",
+    "title": "D.I.S.C.O."
+  },
+  {
+    "pos": "4",
+    "interpret": "Peter Kent",
+    "title": "It's A Real Good Feeling"
+  },
+  {
+    "pos": "5",
+    "interpret": "Styx",
+    "title": "Boat On The River"
+  },
+  {
+    "pos": "6",
+    "interpret": "Frank Zappa",
+    "title": "Bobby Brown"
+  },
+  {
+    "pos": "7",
+    "interpret": "Marti Webb",
+    "title": "Take That Look Off Your Face"
+  },
+  {
+    "pos": "8",
+    "interpret": "Earth & Fire",
+    "title": "Weekend"
+  },
+  {
+    "pos": "9",
+    "interpret": "Garland Jeffreys",
+    "title": "Matador"
+  },
+  {
+    "pos": "10",
+    "interpret": "Mike Krüger",
+    "title": "Der Nippel"
+  },
+  {
+    "pos": "11",
+    "interpret": "Sugarhill Gang",
+    "title": "Rapper's Delight"
+  },
+  {
+    "pos": "12",
+    "interpret": "Marianne Faithfull",
+    "title": "The Ballad Of Lucy Jordan"
+  },
+  {
+    "pos": "13",
+    "interpret": "Lipps",
+    "title": " Inc."
+  },
+  {
+    "pos": "14",
+    "interpret": "Secret Service",
+    "title": "Oh Susie"
+  },
+  {
+    "pos": "15",
+    "interpret": "Gibson Brothers",
+    "title": "Que sera mi vida (If You Should Go)"
+  },
+  {
+    "pos": "16",
+    "interpret": "Olivia Newton-John & Electric Light Orchestra",
+    "title": "Xanadu"
+  },
+  {
+    "pos": "17",
+    "interpret": "Saragossa Band",
+    "title": "Zabadak"
+  },
+  {
+    "pos": "18",
+    "interpret": "Dr. Hook",
+    "title": "Sexy Eyes"
+  },
+  {
+    "pos": "19",
+    "interpret": "ABBA",
+    "title": "I Have A Dream"
+  },
+  {
+    "pos": "20",
+    "interpret": "Matchbox",
+    "title": "Midnite Dynamos"
+  },
+  {
+    "pos": "21",
+    "interpret": "Hot Chocolate",
+    "title": "No Doubt About It"
+  },
+  {
+    "pos": "22",
+    "interpret": "Oliver Onions",
+    "title": "Santa Maria"
+  },
+  {
+    "pos": "23",
+    "interpret": "Johnny Logan",
+    "title": "What's Another Year"
+  },
+  {
+    "pos": "24",
+    "interpret": "Eruption",
+    "title": "Go Johnnie Go (Keep On Walking"
+  },
+  {
+    "pos": "25",
+    "interpret": "Boney M.",
+    "title": "I See A Boat On The River"
+  },
+  {
+    "pos": "26",
+    "interpret": "Secret Service",
+    "title": "Ten O'Clock Postman"
+  },
+  {
+    "pos": "27",
+    "interpret": "Orlando Riva Sound",
+    "title": "Indian Reservation"
+  },
+  {
+    "pos": "28",
+    "interpret": "Dschinghis Khan",
+    "title": "Rom"
+  },
+  {
+    "pos": "29",
+    "interpret": "AC/DC",
+    "title": "Highway To Hell"
+  },
+  {
+    "pos": "30",
+    "interpret": "Electric Light Orchestra",
+    "title": "Confusion"
+  },
+  {
+    "pos": "31",
+    "interpret": "ABBA",
+    "title": "The Winner Takes It All"
+  },
+  {
+    "pos": "32",
+    "interpret": "Thom Pace",
+    "title": "Maybe"
+  },
+  {
+    "pos": "33",
+    "interpret": "The Alan Parsons Project",
+    "title": "Lucifer"
+  },
+  {
+    "pos": "34",
+    "interpret": "Spargo",
+    "title": "You And Me"
+  },
+  {
+    "pos": "35",
+    "interpret": "Gitte",
+    "title": "Freu' dich bloß nicht zu früh"
+  },
+  {
+    "pos": "36",
+    "interpret": "Chilly",
+    "title": "We Are The Popkings"
+  },
+  {
+    "pos": "37",
+    "interpret": "Howard Carpendale",
+    "title": "Wie frei willst du sein?"
+  },
+  {
+    "pos": "38",
+    "interpret": "Tony Holiday",
+    "title": "Nie mehr allein sein"
+  },
+  {
+    "pos": "39",
+    "interpret": "Orlando Riva Sound",
+    "title": "Fire On The Water"
+  },
+  {
+    "pos": "40",
+    "interpret": "Goombay Dance Band",
+    "title": "Aloha-Oe"
+  },
+  {
+    "pos": "41",
+    "interpret": "Roland Kaiser",
+    "title": "Santa Maria"
+  },
+  {
+    "pos": "42",
+    "interpret": "Blondie",
+    "title": "Call Me"
+  },
+  {
+    "pos": "43",
+    "interpret": "Buggles",
+    "title": "Video Killed The Radio Star"
+  },
+  {
+    "pos": "44",
+    "interpret": "Diana Ross",
+    "title": "Upside Down"
+  },
+  {
+    "pos": "45",
+    "interpret": "AC/DC",
+    "title": "Touch Too Much"
+  },
+  {
+    "pos": "46",
+    "interpret": "Truck Stop",
+    "title": "Der wilde wilde Westen"
+  },
+  {
+    "pos": "47",
+    "interpret": "Fleetwood Mac",
+    "title": "Tusk"
+  },
+  {
+    "pos": "48",
+    "interpret": "B. A. Robertson",
+    "title": "Bang Bang"
+  },
+  {
+    "pos": "49",
+    "interpret": "Matchbox",
+    "title": "Rockabilly Rebel"
+  },
+  {
+    "pos": "50",
+    "interpret": "Ottawan",
+    "title": "You're O.K."
+  },
+  {
+    "pos": "51",
+    "interpret": "Sheila & B. Devotion",
+    "title": "Spacer"
+  },
+  {
+    "pos": "52",
+    "interpret": "Gottlieb Wendehals",
+    "title": "Herbert"
+  },
+  {
+    "pos": "53",
+    "interpret": "Gibson Brothers",
+    "title": "Mariana"
+  },
+  {
+    "pos": "54",
+    "interpret": "ABBA",
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)"
+  },
+  {
+    "pos": "55",
+    "interpret": "Dschinghis Khan",
+    "title": "Hadschi Halef Omar"
+  },
+  {
+    "pos": "56",
+    "interpret": "Queen",
+    "title": "Crazy Little Thing Called Love"
+  },
+  {
+    "pos": "57",
+    "interpret": "Spinners",
+    "title": "Working My Way Back To You"
+  },
+  {
+    "pos": "58",
+    "interpret": "Katja Ebstein",
+    "title": "Abschied ist ein bißchen wie sterben"
+  },
+  {
+    "pos": "59",
+    "interpret": "Boney M.",
+    "title": "I'm Born Again"
+  },
+  {
+    "pos": "60",
+    "interpret": "Joe Bataan",
+    "title": "Rap-O Clap-O"
+  },
+  {
+    "pos": "61",
+    "interpret": "Bob Marley & The Wailers",
+    "title": "Could You Be Loved"
+  },
+  {
+    "pos": "62",
+    "interpret": "Blondie",
+    "title": "Dreaming"
+  },
+  {
+    "pos": "63",
+    "interpret": "Howard Carpendale",
+    "title": "Nachts"
+  },
+  {
+    "pos": "64",
+    "interpret": "Paul McCartney",
+    "title": "Coming Up"
+  },
+  {
+    "pos": "65",
+    "interpret": "Gianna Nannini",
+    "title": "America"
+  },
+  {
+    "pos": "66",
+    "interpret": "Tony Christie",
+    "title": "Sweet September"
+  },
+  {
+    "pos": "67",
+    "interpret": "Barbara Dickson",
+    "title": "January - February"
+  },
+  {
+    "pos": "68",
+    "interpret": "Kelly Family",
+    "title": "David's Song (Who'll Come With Me)"
+  },
+  {
+    "pos": "69",
+    "interpret": "Robert Palmer",
+    "title": "What's It Take?"
+  },
+  {
+    "pos": "70",
+    "interpret": "Howard Carpendale",
+    "title": "Es geht um mehr"
+  },
+  {
+    "pos": "71",
+    "interpret": "Racey",
+    "title": "Such A Night"
+  },
+  {
+    "pos": "72",
+    "interpret": "Alan Sorrenti",
+    "title": "Tu sei l'unica donna per me"
+  },
+  {
+    "pos": "73",
+    "interpret": "Sky",
+    "title": "Toccata"
+  },
+  {
+    "pos": "74",
+    "interpret": "Peter Kent",
+    "title": "You're All I Need"
+  },
+  {
+    "pos": "75",
+    "interpret": "Alan Sorrenti",
+    "title": "Non so che darei"
+  }
+],
+"1981": [
+  {
+    "pos": "1",
+    "interpret": "Electronica's",
+    "title": "Dance Little Bird"
+  },
+  {
+    "pos": "2",
+    "interpret": "Stars On 45",
+    "title": "Stars On 45"
+  },
+  {
+    "pos": "3",
+    "interpret": "Kim Wilde",
+    "title": "Kids In America"
+  },
+  {
+    "pos": "4",
+    "interpret": "Visage",
+    "title": "Fade To Grey"
+  },
+  {
+    "pos": "5",
+    "interpret": "Phil Collins",
+    "title": "In The Air Tonight"
+  },
+  {
+    "pos": "6",
+    "interpret": "Barclay James Harvest",
+    "title": "Life Is For Living"
+  },
+  {
+    "pos": "7",
+    "interpret": "Roland Kaiser",
+    "title": "Lieb' mich ein letztes Mal"
+  },
+  {
+    "pos": "8",
+    "interpret": "Frank Duval & Orchestra",
+    "title": "Angel Of Mine"
+  },
+  {
+    "pos": "9",
+    "interpret": "Ottawan",
+    "title": "Hands Up (Give Me Your Heart)"
+  },
+  {
+    "pos": "10",
+    "interpret": "Kim Carnes",
+    "title": "Bette Davis Eyes"
+  },
+  {
+    "pos": "11",
+    "interpret": "ABBA",
+    "title": "Super Trouper"
+  },
+  {
+    "pos": "12",
+    "interpret": "Bernie Paul",
+    "title": "Oh No No"
+  },
+  {
+    "pos": "13",
+    "interpret": "Jona Lewie",
+    "title": "Stop The Cavalry"
+  },
+  {
+    "pos": "14",
+    "interpret": "Queen",
+    "title": "Flash"
+  },
+  {
+    "pos": "15",
+    "interpret": "Shakin' Stevens",
+    "title": "Marie"
+  },
+  {
+    "pos": "16",
+    "interpret": "Robert Palmer",
+    "title": "Johnny And Mary"
+  },
+  {
+    "pos": "17",
+    "interpret": "Joe Dolce Music Theatre",
+    "title": "Shaddap You Face"
+  },
+  {
+    "pos": "18",
+    "interpret": "Robert Palmer",
+    "title": "Looking For Clues"
+  },
+  {
+    "pos": "19",
+    "interpret": "Hanne Haller",
+    "title": "Samstag abend"
+  },
+  {
+    "pos": "20",
+    "interpret": "John Lennon",
+    "title": "Woman"
+  },
+  {
+    "pos": "21",
+    "interpret": "Shakin' Stevens",
+    "title": "You Drive Me Crazy"
+  },
+  {
+    "pos": "22",
+    "interpret": "Shakin' Stevens",
+    "title": "This Ole House"
+  },
+  {
+    "pos": "23",
+    "interpret": "Secret Service",
+    "title": "Ye-si-ca"
+  },
+  {
+    "pos": "24",
+    "interpret": "Kim Wilde",
+    "title": "Chequered Love"
+  },
+  {
+    "pos": "25",
+    "interpret": "The Boomtown Rats",
+    "title": "Banana Republic"
+  },
+  {
+    "pos": "26",
+    "interpret": "Boney M.",
+    "title": "Felicidad (Margherita)"
+  },
+  {
+    "pos": "27",
+    "interpret": "Nicole",
+    "title": "Flieg nicht so hoch"
+  },
+  {
+    "pos": "28",
+    "interpret": "Goombay Dance Band",
+    "title": "Seven Tears"
+  },
+  {
+    "pos": "29",
+    "interpret": "John Lennon",
+    "title": "(Just Like) Starting Over"
+  },
+  {
+    "pos": "30",
+    "interpret": "Telly Savalas",
+    "title": "Some Broken Hearts Never Mend"
+  },
+  {
+    "pos": "31",
+    "interpret": "Eddy Grant",
+    "title": "Do You Feel My Love?"
+  },
+  {
+    "pos": "32",
+    "interpret": "Barbra Streisand",
+    "title": "Woman In Love"
+  },
+  {
+    "pos": "33",
+    "interpret": "Keith Marshall",
+    "title": "Only Crying"
+  },
+  {
+    "pos": "34",
+    "interpret": "Loretta Goggi",
+    "title": "Maledetta primavera"
+  },
+  {
+    "pos": "35",
+    "interpret": "Emmylou Harris",
+    "title": "Mister Sandman"
+  },
+  {
+    "pos": "36",
+    "interpret": "Nana Mouskouri",
+    "title": "La Provence (du blühendes Land)"
+  },
+  {
+    "pos": "37",
+    "interpret": "Electric Light Orchestra",
+    "title": "Hold On Tight"
+  },
+  {
+    "pos": "38",
+    "interpret": "Peter Maffay",
+    "title": "Über sieben Brücken mußt du gehn"
+  },
+  {
+    "pos": "39",
+    "interpret": "Dschinghis Khan",
+    "title": "Loreley"
+  },
+  {
+    "pos": "40",
+    "interpret": "Ricchi & Poveri",
+    "title": "Sarà perché ti amo"
+  },
+  {
+    "pos": "41",
+    "interpret": "Bucks Fizz",
+    "title": "Making Your Mind Up"
+  },
+  {
+    "pos": "42",
+    "interpret": "The Police",
+    "title": "De Do Do Do De Da Da Da"
+  },
+  {
+    "pos": "43",
+    "interpret": "Peter Kent",
+    "title": "Stop 'N' Go"
+  },
+  {
+    "pos": "44",
+    "interpret": "Goombay Dance Band",
+    "title": "Eldorado"
+  },
+  {
+    "pos": "45",
+    "interpret": "Saragossa Band",
+    "title": "Agadou"
+  },
+  {
+    "pos": "46",
+    "interpret": "Lio",
+    "title": "Amoureux solitaires"
+  },
+  {
+    "pos": "47",
+    "interpret": "Arabesque",
+    "title": "Marigot Bay"
+  },
+  {
+    "pos": "48",
+    "interpret": "Precious Wilson",
+    "title": "We Are On The Race Track"
+  },
+  {
+    "pos": "49",
+    "interpret": "Max Werner",
+    "title": "Rain In May"
+  },
+  {
+    "pos": "50",
+    "interpret": "Odyssey",
+    "title": "Going Back To My Roots"
+  },
+  {
+    "pos": "51",
+    "interpret": "John Lennon / Plastic Ono Band",
+    "title": "Imagine"
+  },
+  {
+    "pos": "52",
+    "interpret": "Roland Kaiser",
+    "title": "Santa Maria"
+  },
+  {
+    "pos": "53",
+    "interpret": "Secret Service",
+    "title": "L.A. Goodbye"
+  },
+  {
+    "pos": "54",
+    "interpret": "Stars On 45",
+    "title": "Stars On 45 Vol. 2"
+  },
+  {
+    "pos": "55",
+    "interpret": "Fred Sonnenschein und seine Freunde",
+    "title": "Ja"
+  },
+  {
+    "pos": "56",
+    "interpret": "Rod Stewart",
+    "title": "Passion"
+  },
+  {
+    "pos": "57",
+    "interpret": "Adam And The Ants",
+    "title": "Stand And Deliver"
+  },
+  {
+    "pos": "58",
+    "interpret": "Paola",
+    "title": "Der Teufel und der junge Mann"
+  },
+  {
+    "pos": "59",
+    "interpret": "Kool & The Gang",
+    "title": "Celebration"
+  },
+  {
+    "pos": "60",
+    "interpret": "Rex Gildo",
+    "title": "Wenn ich je deine Liebe verlier"
+  },
+  {
+    "pos": "61",
+    "interpret": "G.G. Anderson",
+    "title": "Mama Lorraine"
+  },
+  {
+    "pos": "62",
+    "interpret": "Shakin' Stevens",
+    "title": "Green Door"
+  },
+  {
+    "pos": "63",
+    "interpret": "Visage",
+    "title": "Mind Of A Toy"
+  },
+  {
+    "pos": "64",
+    "interpret": "Ultravox",
+    "title": "Vienna"
+  },
+  {
+    "pos": "65",
+    "interpret": "Howard Carpendale",
+    "title": "Wem"
+  },
+  {
+    "pos": "66",
+    "interpret": "Leo Sayer",
+    "title": "More Than I Can Say"
+  },
+  {
+    "pos": "67",
+    "interpret": "Grace Jones",
+    "title": "I've Seen That Face Before (Libertango)"
+  },
+  {
+    "pos": "68",
+    "interpret": "Aneka",
+    "title": "Japanese Boy"
+  },
+  {
+    "pos": "69",
+    "interpret": "Roland Kaiser",
+    "title": "Dich zu lieben"
+  },
+  {
+    "pos": "70",
+    "interpret": "Doris D And The Pins",
+    "title": "Shine Up"
+  },
+  {
+    "pos": "71",
+    "interpret": "Queen",
+    "title": "Another One Bites The Dust"
+  },
+  {
+    "pos": "72",
+    "interpret": "REO Speedwagon",
+    "title": "Keep On Loving You"
+  },
+  {
+    "pos": "73",
+    "interpret": "Roxy Music",
+    "title": "Jealous Guy"
+  },
+  {
+    "pos": "74",
+    "interpret": "Sheena Easton",
+    "title": "For Your Eyes Only"
+  },
+  {
+    "pos": "75",
+    "interpret": "Blondie",
+    "title": "The Tide Is High"
+  }
+],
+"1982": [
+  {
+    "pos": "1",
+    "interpret": "OMD (Orchestral Manoeuvres In The Dark)",
+    "title": "Maid Of Orleans (The Waltz Joan Of Arc)"
+  },
+  {
+    "pos": "2",
+    "interpret": "Spider Murphy Gang",
+    "title": "Skandal im Sperrbezirk"
+  },
+  {
+    "pos": "3",
+    "interpret": "Al Bano & Romina Power",
+    "title": "Felicità"
+  },
+  {
+    "pos": "4",
+    "interpret": "Andy Borg",
+    "title": "Adios amor"
+  },
+  {
+    "pos": "5",
+    "interpret": "Falco",
+    "title": "Der Kommissar"
+  },
+  {
+    "pos": "6",
+    "interpret": "Trio",
+    "title": "Da da da ich lieb dich nicht du liebst mich nicht aha aha aha"
+  },
+  {
+    "pos": "7",
+    "interpret": "Joachim Witt",
+    "title": "Goldener Reiter"
+  },
+  {
+    "pos": "8",
+    "interpret": "Nicole",
+    "title": "Ein bißchen Frieden"
+  },
+  {
+    "pos": "9",
+    "interpret": "Alice",
+    "title": "Una notte speciale"
+  },
+  {
+    "pos": "10",
+    "interpret": "Markus",
+    "title": "Ich will Spaß"
+  },
+  {
+    "pos": "11",
+    "interpret": "Al Bano & Romina Power",
+    "title": "Sharazan"
+  },
+  {
+    "pos": "12",
+    "interpret": "Hubert Kah",
+    "title": "Rosemarie"
+  },
+  {
+    "pos": "13",
+    "interpret": "Imagination",
+    "title": "Just An Illusion"
+  },
+  {
+    "pos": "14",
+    "interpret": "Paul McCartney & Stevie Wonder",
+    "title": "Ebony And Ivory"
+  },
+  {
+    "pos": "15",
+    "interpret": "Kim Wilde",
+    "title": "Cambodia"
+  },
+  {
+    "pos": "16",
+    "interpret": "Grauzone",
+    "title": "Eisbär"
+  },
+  {
+    "pos": "17",
+    "interpret": "Spliff",
+    "title": "Carbonara"
+  },
+  {
+    "pos": "18",
+    "interpret": "Men At Work",
+    "title": "Down Under"
+  },
+  {
+    "pos": "19",
+    "interpret": "Christian Franke",
+    "title": "Ich wünsch' dir die Hölle auf Erden (wenn du heut' gehst)"
+  },
+  {
+    "pos": "20",
+    "interpret": "Gottlieb Wendehals",
+    "title": "Polonäse Blankenese"
+  },
+  {
+    "pos": "21",
+    "interpret": "Ricchi & Poveri",
+    "title": "Made In Italy"
+  },
+  {
+    "pos": "22",
+    "interpret": "Karat",
+    "title": "Der blaue Planet"
+  },
+  {
+    "pos": "23",
+    "interpret": "Shakin' Stevens",
+    "title": "Oh Julie"
+  },
+  {
+    "pos": "24",
+    "interpret": "Spider Murphy Gang",
+    "title": "Schickeria"
+  },
+  {
+    "pos": "25",
+    "interpret": "ABBA",
+    "title": "One Of Us"
+  },
+  {
+    "pos": "26",
+    "interpret": "Spider Murphy Gang",
+    "title": "Wo bist du?"
+  },
+  {
+    "pos": "27",
+    "interpret": "Claudia Mori",
+    "title": "Non succederà più"
+  },
+  {
+    "pos": "28",
+    "interpret": "Ph.D.",
+    "title": "I Won't Let You Down"
+  },
+  {
+    "pos": "29",
+    "interpret": "Dave Stewart with Barbara Gaskin",
+    "title": "It's My Party"
+  },
+  {
+    "pos": "30",
+    "interpret": "Jon And Vangelis",
+    "title": "I'll Find My Way Home"
+  },
+  {
+    "pos": "31",
+    "interpret": "Extrabreit",
+    "title": "Hurra"
+  },
+  {
+    "pos": "32",
+    "interpret": "Steve Miller Band",
+    "title": "Abracadabra"
+  },
+  {
+    "pos": "33",
+    "interpret": "UKW",
+    "title": "Sommersprossen"
+  },
+  {
+    "pos": "34",
+    "interpret": "Joan Jett & The Blackhearts",
+    "title": "I Love Rock'n Roll"
+  },
+  {
+    "pos": "35",
+    "interpret": "Soft Cell",
+    "title": "Tainted Love"
+  },
+  {
+    "pos": "36",
+    "interpret": "Peter Cornelius",
+    "title": "Du entschuldige - i kenn' di"
+  },
+  {
+    "pos": "37",
+    "interpret": "Roger Whittaker",
+    "title": "Albany"
+  },
+  {
+    "pos": "38",
+    "interpret": "ZaZa",
+    "title": "Zauberstab"
+  },
+  {
+    "pos": "39",
+    "interpret": "Hot Chocolate",
+    "title": "Girl Crazy"
+  },
+  {
+    "pos": "40",
+    "interpret": "The J. Geils Band",
+    "title": "Centerfold"
+  },
+  {
+    "pos": "41",
+    "interpret": "Ricky King",
+    "title": "Halé"
+  },
+  {
+    "pos": "42",
+    "interpret": "James Last",
+    "title": "Biscaya"
+  },
+  {
+    "pos": "43",
+    "interpret": "Kraftwerk",
+    "title": "Das Model"
+  },
+  {
+    "pos": "44",
+    "interpret": "Bucks Fizz",
+    "title": "The Land Of Make Believe"
+  },
+  {
+    "pos": "45",
+    "interpret": "Rheingold",
+    "title": "Dreiklangs-Dimensionen"
+  },
+  {
+    "pos": "46",
+    "interpret": "Tight Fit",
+    "title": "The Lion Sleeps Tonight"
+  },
+  {
+    "pos": "47",
+    "interpret": "F-R David",
+    "title": "Words"
+  },
+  {
+    "pos": "48",
+    "interpret": "David Christie",
+    "title": "Saddle Up"
+  },
+  {
+    "pos": "49",
+    "interpret": "Barrabas",
+    "title": "On The Road Again"
+  },
+  {
+    "pos": "50",
+    "interpret": "Adam Ant",
+    "title": "Goody Two Shoes"
+  },
+  {
+    "pos": "51",
+    "interpret": "Kim Wilde",
+    "title": "View From A Bridge"
+  },
+  {
+    "pos": "52",
+    "interpret": "Peter Maffay",
+    "title": "Lieber Gott..."
+  },
+  {
+    "pos": "53",
+    "interpret": "Yazoo",
+    "title": "Don't Go"
+  },
+  {
+    "pos": "54",
+    "interpret": "The Human League",
+    "title": "Don't You Want Me"
+  },
+  {
+    "pos": "55",
+    "interpret": "Asia",
+    "title": "Heat Of The Moment"
+  },
+  {
+    "pos": "56",
+    "interpret": "BAP",
+    "title": "Verdamp lang her"
+  },
+  {
+    "pos": "57",
+    "interpret": "Helen Schneider",
+    "title": "Rock'n'Roll Gypsy"
+  },
+  {
+    "pos": "58",
+    "interpret": "Karat",
+    "title": "Jede Stunde"
+  },
+  {
+    "pos": "59",
+    "interpret": "Jawoll",
+    "title": "Taxi"
+  },
+  {
+    "pos": "60",
+    "interpret": "Rolf und seine Freunde",
+    "title": "... und ganz doll mich (ich mag)"
+  },
+  {
+    "pos": "61",
+    "interpret": "Olivia Newton-John",
+    "title": "Physical"
+  },
+  {
+    "pos": "62",
+    "interpret": "Frank Zander",
+    "title": "Da da da ich weiß Bescheid"
+  },
+  {
+    "pos": "63",
+    "interpret": "Aneka",
+    "title": "Little Lady"
+  },
+  {
+    "pos": "64",
+    "interpret": "Ideal",
+    "title": "Eiszeit"
+  },
+  {
+    "pos": "65",
+    "interpret": "Peter Alexander",
+    "title": "Der Papa wird's schon richten"
+  },
+  {
+    "pos": "66",
+    "interpret": "Chicago",
+    "title": "Hard To Say I'm Sorry"
+  },
+  {
+    "pos": "67",
+    "interpret": "Udo Lindenberg & Pascal",
+    "title": "Wozu sind Kriege da?"
+  },
+  {
+    "pos": "68",
+    "interpret": "Shakin' Stevens",
+    "title": "Shirley"
+  },
+  {
+    "pos": "69",
+    "interpret": "Fred Sonnenschein und seine Freunde",
+    "title": "Ja"
+  },
+  {
+    "pos": "70",
+    "interpret": "Falco",
+    "title": "Maschine brennt"
+  },
+  {
+    "pos": "71",
+    "interpret": "Nena",
+    "title": "Nur geträumt"
+  },
+  {
+    "pos": "72",
+    "interpret": "Relax",
+    "title": "Weil i di mog"
+  },
+  {
+    "pos": "73",
+    "interpret": "Frl. Menke",
+    "title": "Hohe Berge"
+  },
+  {
+    "pos": "74",
+    "interpret": "Foreigner",
+    "title": "Urgent"
+  },
+  {
+    "pos": "75",
+    "interpret": "Frida",
+    "title": "I Know There's Something Going On"
+  }
+],
+"1983": [
+  {
+    "pos": "1",
+    "interpret": "Peter Schilling",
+    "title": "Major Tom (völlig losgelöst)"
+  },
+  {
+    "pos": "2",
+    "interpret": "Nena",
+    "title": "99 Luftballons"
+  },
+  {
+    "pos": "3",
+    "interpret": "Mike Oldfield",
+    "title": "Moonlight Shadow"
+  },
+  {
+    "pos": "4",
+    "interpret": "Robin Gibb",
+    "title": "Juliet"
+  },
+  {
+    "pos": "5",
+    "interpret": "Culture Club",
+    "title": "Do You Really Want To Hurt Me"
+  },
+  {
+    "pos": "6",
+    "interpret": "Tauchen Prokopetz",
+    "title": "Codo (...düse im Sauseschritt)"
+  },
+  {
+    "pos": "7",
+    "interpret": "Irene Cara",
+    "title": "Flashdance ...What A Feeling"
+  },
+  {
+    "pos": "8",
+    "interpret": "Geier Sturzflug",
+    "title": "Bruttosozialprodukt"
+  },
+  {
+    "pos": "9",
+    "interpret": "Rod Stewart",
+    "title": "Baby Jane"
+  },
+  {
+    "pos": "10",
+    "interpret": "Laid Back",
+    "title": "Sunshine Reggae"
+  },
+  {
+    "pos": "11",
+    "interpret": "Michael Jackson",
+    "title": "Billie Jean"
+  },
+  {
+    "pos": "12",
+    "interpret": "New Order",
+    "title": "Blue Monday"
+  },
+  {
+    "pos": "13",
+    "interpret": "Gazebo",
+    "title": "I Like Chopin"
+  },
+  {
+    "pos": "14",
+    "interpret": "Rose Laurens",
+    "title": "Africa (Voodoo Master)"
+  },
+  {
+    "pos": "15",
+    "interpret": "Captain Sensible",
+    "title": "Wot!"
+  },
+  {
+    "pos": "16",
+    "interpret": "Phil Collins",
+    "title": "You Can't Hurry Love"
+  },
+  {
+    "pos": "17",
+    "interpret": "Musical Youth",
+    "title": "Pass The Dutchie"
+  },
+  {
+    "pos": "18",
+    "interpret": "Kajagoogoo",
+    "title": "Too Shy"
+  },
+  {
+    "pos": "19",
+    "interpret": "David Bowie",
+    "title": "Let's Dance"
+  },
+  {
+    "pos": "20",
+    "interpret": "Men Without Hats",
+    "title": "The Safety Dance"
+  },
+  {
+    "pos": "21",
+    "interpret": "Eurythmics",
+    "title": "Sweet Dreams (Are Made Of This)"
+  },
+  {
+    "pos": "22",
+    "interpret": "Kiz",
+    "title": "Die Sennerin vom Königsee"
+  },
+  {
+    "pos": "23",
+    "interpret": "Eddy Grant",
+    "title": "I Don't Wanna Dance"
+  },
+  {
+    "pos": "24",
+    "interpret": "Trans-X",
+    "title": "Living On Video"
+  },
+  {
+    "pos": "25",
+    "interpret": "Ryan Paris",
+    "title": "Dolce Vita"
+  },
+  {
+    "pos": "26",
+    "interpret": "The Shorts",
+    "title": "Comment ça va [deutsche Version]"
+  },
+  {
+    "pos": "27",
+    "interpret": "Supertramp",
+    "title": "It's Raining Again"
+  },
+  {
+    "pos": "28",
+    "interpret": "Nickerbocker & Biene",
+    "title": "Hallo Klaus (i wü nur zruck)"
+  },
+  {
+    "pos": "29",
+    "interpret": "Righeira",
+    "title": "Vamos a la playa"
+  },
+  {
+    "pos": "30",
+    "interpret": "Michael Jackson",
+    "title": "Beat It"
+  },
+  {
+    "pos": "31",
+    "interpret": "Haysi Fantayzee",
+    "title": "John Wayne Is Big Leggy"
+  },
+  {
+    "pos": "32",
+    "interpret": "Nena",
+    "title": "Leuchtturm"
+  },
+  {
+    "pos": "33",
+    "interpret": "Udo Lindenberg",
+    "title": "Sonderzug nach Pankow"
+  },
+  {
+    "pos": "34",
+    "interpret": "Culture Club",
+    "title": "Karma Chameleon"
+  },
+  {
+    "pos": "35",
+    "interpret": "Dionne Warwick",
+    "title": "Heartbreaker"
+  },
+  {
+    "pos": "36",
+    "interpret": "Frank Duval",
+    "title": "Give Me Your Love"
+  },
+  {
+    "pos": "37",
+    "interpret": "Icehouse",
+    "title": "Hey Little Girl"
+  },
+  {
+    "pos": "38",
+    "interpret": "The Police",
+    "title": "Every Breath You Take"
+  },
+  {
+    "pos": "39",
+    "interpret": "Madness",
+    "title": "Our House"
+  },
+  {
+    "pos": "40",
+    "interpret": "Spliff",
+    "title": "Das Blech"
+  },
+  {
+    "pos": "41",
+    "interpret": "Spider Murphy Gang",
+    "title": "Ich schau' dich an"
+  },
+  {
+    "pos": "42",
+    "interpret": "F-R David",
+    "title": "Words"
+  },
+  {
+    "pos": "43",
+    "interpret": "Nazareth",
+    "title": "Dream On"
+  },
+  {
+    "pos": "44",
+    "interpret": "Andy Borg",
+    "title": "Arrivederci Claire"
+  },
+  {
+    "pos": "45",
+    "interpret": "Dexys Midnight Runners & The Emerald Express",
+    "title": "Come On Eileen"
+  },
+  {
+    "pos": "46",
+    "interpret": "The Flirts",
+    "title": "Passion"
+  },
+  {
+    "pos": "47",
+    "interpret": "Eurythmics",
+    "title": "Love Is A Stranger"
+  },
+  {
+    "pos": "48",
+    "interpret": "Paul Young",
+    "title": "Come Back And Stay"
+  },
+  {
+    "pos": "49",
+    "interpret": "Nicole",
+    "title": "Ich hab' dich doch lieb"
+  },
+  {
+    "pos": "50",
+    "interpret": "Trio",
+    "title": "Anna - Lassmichrein lassmichraus"
+  },
+  {
+    "pos": "51",
+    "interpret": "Roger Whittaker",
+    "title": "Wenn es dich noch gibt"
+  },
+  {
+    "pos": "52",
+    "interpret": "Tommy Steiner",
+    "title": "Die Fischer von San Juan"
+  },
+  {
+    "pos": "53",
+    "interpret": "Kano",
+    "title": "Another Life"
+  },
+  {
+    "pos": "54",
+    "interpret": "Freeez",
+    "title": "I.O.U."
+  },
+  {
+    "pos": "55",
+    "interpret": "Nena",
+    "title": "Nur geträumt"
+  },
+  {
+    "pos": "56",
+    "interpret": "Markus",
+    "title": "Kleine Taschenlampe brenn'"
+  },
+  {
+    "pos": "57",
+    "interpret": "Daryl Hall + John Oates",
+    "title": "Maneater"
+  },
+  {
+    "pos": "58",
+    "interpret": "Michael Sembello",
+    "title": "Maniac"
+  },
+  {
+    "pos": "59",
+    "interpret": "David Bowie",
+    "title": "China Girl"
+  },
+  {
+    "pos": "60",
+    "interpret": "Indeep",
+    "title": "Last Night A D.J. Saved My Life"
+  },
+  {
+    "pos": "61",
+    "interpret": "Renée & Renato",
+    "title": "Save Your Love"
+  },
+  {
+    "pos": "62",
+    "interpret": "Joe Cocker & Jennifer Warnes",
+    "title": "Up Where We Belong"
+  },
+  {
+    "pos": "63",
+    "interpret": "Eddy Grant",
+    "title": "Electric Avenue"
+  },
+  {
+    "pos": "64",
+    "interpret": "Peter Schilling",
+    "title": "Die Wüste lebt (Alarmsignal...)"
+  },
+  {
+    "pos": "65",
+    "interpret": "Styx",
+    "title": "Mr. Roboto"
+  },
+  {
+    "pos": "66",
+    "interpret": "Audrey Landers",
+    "title": "Manuel Goodbye"
+  },
+  {
+    "pos": "67",
+    "interpret": "Divine",
+    "title": "Shoot Your Shot"
+  },
+  {
+    "pos": "68",
+    "interpret": "Ultravox",
+    "title": "Hymn"
+  },
+  {
+    "pos": "69",
+    "interpret": "Ixi",
+    "title": "Der Knutschfleck"
+  },
+  {
+    "pos": "70",
+    "interpret": "Hans Hartz",
+    "title": "Die weißen Tauben sind müde"
+  },
+  {
+    "pos": "71",
+    "interpret": "Al Bano & Romina Power",
+    "title": "Tu"
+  },
+  {
+    "pos": "72",
+    "interpret": "Trio",
+    "title": "Bum Bum"
+  },
+  {
+    "pos": "73",
+    "interpret": "Ricchi & Poveri",
+    "title": "Mamma Maria"
+  },
+  {
+    "pos": "74",
+    "interpret": "Genesis",
+    "title": "Mama"
+  },
+  {
+    "pos": "75",
+    "interpret": "Donna Summer",
+    "title": "She Works Hard For The Money"
+  }
+],
+"1984": [
+  {
+    "pos": "1",
+    "interpret": "Laura Branigan",
+    "title": "Self Control"
+  },
+  {
+    "pos": "2",
+    "interpret": "Nino de Angelo",
+    "title": "Jenseits von Eden"
+  },
+  {
+    "pos": "3",
+    "interpret": "Frankie Goes To Hollywood",
+    "title": "Relax"
+  },
+  {
+    "pos": "4",
+    "interpret": "Talk Talk",
+    "title": "Such A Shame"
+  },
+  {
+    "pos": "5",
+    "interpret": "Alphaville",
+    "title": "Big In Japan"
+  },
+  {
+    "pos": "6",
+    "interpret": "Stevie Wonder",
+    "title": "I Just Called To Say I Love You"
+  },
+  {
+    "pos": "7",
+    "interpret": "Real Life",
+    "title": "Send Me An Angel"
+  },
+  {
+    "pos": "8",
+    "interpret": "Masquerade",
+    "title": "Guardian Angel"
+  },
+  {
+    "pos": "9",
+    "interpret": "Evelyn Thomas",
+    "title": "High Energy"
+  },
+  {
+    "pos": "10",
+    "interpret": "Frankie Goes To Hollywood",
+    "title": "Two Tribes"
+  },
+  {
+    "pos": "11",
+    "interpret": "Bronski Beat",
+    "title": "Smalltown Boy"
+  },
+  {
+    "pos": "12",
+    "interpret": "Depeche Mode",
+    "title": "People Are People"
+  },
+  {
+    "pos": "13",
+    "interpret": "The Flying Pickets",
+    "title": "Only You"
+  },
+  {
+    "pos": "14",
+    "interpret": "The Catch",
+    "title": "25 Years"
+  },
+  {
+    "pos": "15",
+    "interpret": "RAF",
+    "title": "Self Control"
+  },
+  {
+    "pos": "16",
+    "interpret": "Herbert Grönemeyer",
+    "title": "Männer"
+  },
+  {
+    "pos": "17",
+    "interpret": "Giorgio Moroder feat. Paul Engemann",
+    "title": "Reach Out"
+  },
+  {
+    "pos": "18",
+    "interpret": "Alphaville",
+    "title": "Sounds Like A Melody"
+  },
+  {
+    "pos": "19",
+    "interpret": "Limahl",
+    "title": "The Never Ending Story"
+  },
+  {
+    "pos": "20",
+    "interpret": "Pat Benatar",
+    "title": "Love Is A Battlefield"
+  },
+  {
+    "pos": "21",
+    "interpret": "Paul Young",
+    "title": "Come Back And Stay"
+  },
+  {
+    "pos": "22",
+    "interpret": "Klaus Lage Band",
+    "title": "1000 und 1 Nacht (Zoom!)"
+  },
+  {
+    "pos": "23",
+    "interpret": "Wham!",
+    "title": "Wake Me Up Before You Go-Go"
+  },
+  {
+    "pos": "24",
+    "interpret": "Nena",
+    "title": "? (Fragezeichen)"
+  },
+  {
+    "pos": "25",
+    "interpret": "Queen",
+    "title": "Radio Ga Ga"
+  },
+  {
+    "pos": "26",
+    "interpret": "Nik Kershaw",
+    "title": "Wouldn't It Be Good"
+  },
+  {
+    "pos": "27",
+    "interpret": "Lionel Richie",
+    "title": "Hello"
+  },
+  {
+    "pos": "28",
+    "interpret": "Slade",
+    "title": "My Oh My"
+  },
+  {
+    "pos": "29",
+    "interpret": "Kenny Loggins",
+    "title": "Footloose"
+  },
+  {
+    "pos": "30",
+    "interpret": "Fox The Fox",
+    "title": "Precious Little Diamond"
+  },
+  {
+    "pos": "31",
+    "interpret": "George Michael",
+    "title": "Careless Whisper"
+  },
+  {
+    "pos": "32",
+    "interpret": "Queen",
+    "title": "I Want To Break Free"
+  },
+  {
+    "pos": "33",
+    "interpret": "Depeche Mode",
+    "title": "Master And Servant"
+  },
+  {
+    "pos": "34",
+    "interpret": "Paul Young",
+    "title": "Love Of The Common People"
+  },
+  {
+    "pos": "35",
+    "interpret": "Tina Turner",
+    "title": "What's Love Got To Do With It"
+  },
+  {
+    "pos": "36",
+    "interpret": "Cyndi Lauper",
+    "title": "Time After Time"
+  },
+  {
+    "pos": "37",
+    "interpret": "Mike Oldfield & Maggie Reilly",
+    "title": "To France"
+  },
+  {
+    "pos": "38",
+    "interpret": "My Mine",
+    "title": "Hypnotic Tango"
+  },
+  {
+    "pos": "39",
+    "interpret": "Ray Parker Jr.",
+    "title": "Ghostbusters"
+  },
+  {
+    "pos": "40",
+    "interpret": "The Rock Steady Crew",
+    "title": "(Hey You) The Rock Steady Crew"
+  },
+  {
+    "pos": "41",
+    "interpret": "Wang Chung",
+    "title": "Dance Hall Days"
+  },
+  {
+    "pos": "42",
+    "interpret": "Gazebo",
+    "title": "Lunatic"
+  },
+  {
+    "pos": "43",
+    "interpret": "P. Lion",
+    "title": "Happy Children"
+  },
+  {
+    "pos": "44",
+    "interpret": "Propaganda",
+    "title": "Dr. Mabuse"
+  },
+  {
+    "pos": "45",
+    "interpret": "Howard Carpendale",
+    "title": "Hello Again"
+  },
+  {
+    "pos": "46",
+    "interpret": "Rockwell",
+    "title": "Somebody's Watching Me"
+  },
+  {
+    "pos": "47",
+    "interpret": "Cyndi Lauper",
+    "title": "Girls Just Want To Have Fun"
+  },
+  {
+    "pos": "48",
+    "interpret": "Pointer Sisters",
+    "title": "Jump (For My Love)"
+  },
+  {
+    "pos": "49",
+    "interpret": "Nena",
+    "title": "Irgendwie"
+  },
+  {
+    "pos": "50",
+    "interpret": "Lionel Richie",
+    "title": "All Night Long (All Night)"
+  },
+  {
+    "pos": "51",
+    "interpret": "Thompson Twins",
+    "title": "Hold Me Now"
+  },
+  {
+    "pos": "52",
+    "interpret": "Fancy",
+    "title": "Slice Me Nice"
+  },
+  {
+    "pos": "53",
+    "interpret": "Laid Back",
+    "title": "High Society Girl"
+  },
+  {
+    "pos": "54",
+    "interpret": "Savage Progress",
+    "title": "My Soul Unwraps Tonight"
+  },
+  {
+    "pos": "55",
+    "interpret": "Jermaine Jackson & Pia Zadora",
+    "title": "When The Rain Begins To Fall"
+  },
+  {
+    "pos": "56",
+    "interpret": "Patto",
+    "title": "Black & White"
+  },
+  {
+    "pos": "57",
+    "interpret": "Yes",
+    "title": "Owner Of A Lonely Heart"
+  },
+  {
+    "pos": "58",
+    "interpret": "Shannon",
+    "title": "Let The Music Play"
+  },
+  {
+    "pos": "59",
+    "interpret": "Duran Duran",
+    "title": "The Reflex"
+  },
+  {
+    "pos": "60",
+    "interpret": "Billy Idol",
+    "title": "Eyes Without A Face"
+  },
+  {
+    "pos": "61",
+    "interpret": "Roger Whittaker",
+    "title": "Abschied ist ein scharfes Schwert"
+  },
+  {
+    "pos": "62",
+    "interpret": "The Alan Parsons Project",
+    "title": "Don't Answer Me"
+  },
+  {
+    "pos": "63",
+    "interpret": "Stefan Waggershausen & Alice",
+    "title": "Zu nah am Feuer"
+  },
+  {
+    "pos": "64",
+    "interpret": "Real Life",
+    "title": "Catch Me I'm Falling"
+  },
+  {
+    "pos": "65",
+    "interpret": "Hypnosis",
+    "title": "Pulstar"
+  },
+  {
+    "pos": "66",
+    "interpret": "PiL",
+    "title": "This Is Not A Love Song"
+  },
+  {
+    "pos": "67",
+    "interpret": "Phil Collins",
+    "title": "Against All Odds (Take A Look At Me Now)"
+  },
+  {
+    "pos": "68",
+    "interpret": "Howard Jones",
+    "title": "What Is Love?"
+  },
+  {
+    "pos": "69",
+    "interpret": "Mike Oldfield and Roger Chapman",
+    "title": "Shadow On The Wall"
+  },
+  {
+    "pos": "70",
+    "interpret": "Trio",
+    "title": "Turaluraluralu - ich mach BuBu was machst du"
+  },
+  {
+    "pos": "71",
+    "interpret": "Limahl",
+    "title": "Only For Love"
+  },
+  {
+    "pos": "72",
+    "interpret": "Bronski Beat",
+    "title": "Why?"
+  },
+  {
+    "pos": "73",
+    "interpret": "Ultravox",
+    "title": "Dancing With Tears In My Eyes"
+  },
+  {
+    "pos": "74",
+    "interpret": "Madonna",
+    "title": "Holiday"
+  },
+  {
+    "pos": "75",
+    "interpret": "Fiction Factory",
+    "title": "(Feels Like) Heaven"
+  }
+],
+"1985": [
+  {
+    "pos": "1",
+    "interpret": "Opus",
+    "title": "Live Is Life"
+  },
+  {
+    "pos": "2",
+    "interpret": "Modern Talking",
+    "title": "You're My Heart"
+  },
+  {
+    "pos": "3",
+    "interpret": "Paul Hardcastle",
+    "title": "19"
+  },
+  {
+    "pos": "4",
+    "interpret": "Falco",
+    "title": "Rock Me Amadeus"
+  },
+  {
+    "pos": "5",
+    "interpret": "Sandra",
+    "title": "(I'll Never Be) Maria Magdalena"
+  },
+  {
+    "pos": "6",
+    "interpret": "Tina Turner",
+    "title": "We Don't Need Another Hero (Thunderdome)"
+  },
+  {
+    "pos": "7",
+    "interpret": "Murray Head",
+    "title": "One Night In Bangkok"
+  },
+  {
+    "pos": "8",
+    "interpret": "Tears For Fears",
+    "title": "Shout"
+  },
+  {
+    "pos": "9",
+    "interpret": "Baltimora",
+    "title": "Tarzan Boy"
+  },
+  {
+    "pos": "10",
+    "interpret": "Modern Talking",
+    "title": "You Can Win If You Want"
+  },
+  {
+    "pos": "11",
+    "interpret": "Duran Duran",
+    "title": "The Wild Boys"
+  },
+  {
+    "pos": "12",
+    "interpret": "Round One",
+    "title": "Theme From Rocky"
+  },
+  {
+    "pos": "13",
+    "interpret": "Harold Faltermeyer",
+    "title": "Axel F"
+  },
+  {
+    "pos": "14",
+    "interpret": "USA For Africa",
+    "title": "We Are The World"
+  },
+  {
+    "pos": "15",
+    "interpret": "Dead Or Alive",
+    "title": "You Spin Me Round (Like A Record)"
+  },
+  {
+    "pos": "16",
+    "interpret": "Foreigner",
+    "title": "I Want To Know What Love Is"
+  },
+  {
+    "pos": "17",
+    "interpret": "Band Aid",
+    "title": "Do They Know It's Christmas?"
+  },
+  {
+    "pos": "18",
+    "interpret": "Modern Talking",
+    "title": "Cheri"
+  },
+  {
+    "pos": "19",
+    "interpret": "Ashford & Simpson",
+    "title": "Solid"
+  },
+  {
+    "pos": "20",
+    "interpret": "Bad Boys Blue",
+    "title": "You're A Woman"
+  },
+  {
+    "pos": "21",
+    "interpret": "Madonna",
+    "title": "Into The Groove"
+  },
+  {
+    "pos": "22",
+    "interpret": "Raggio Di Luna (Moon Ray)",
+    "title": "Comanchero"
+  },
+  {
+    "pos": "23",
+    "interpret": "Simple Minds",
+    "title": "Don't You (Forget About Me)"
+  },
+  {
+    "pos": "24",
+    "interpret": "David Bowie / Pat Metheny Group",
+    "title": "This Is Not America"
+  },
+  {
+    "pos": "25",
+    "interpret": "Two Of Us",
+    "title": "Blue Night Shadow"
+  },
+  {
+    "pos": "26",
+    "interpret": "Commodores",
+    "title": "Nightshift"
+  },
+  {
+    "pos": "27",
+    "interpret": "Moti Special",
+    "title": "Cold Days"
+  },
+  {
+    "pos": "28",
+    "interpret": "Purple Schulz und Die Neue Heimat",
+    "title": "Sehnsucht"
+  },
+  {
+    "pos": "29",
+    "interpret": "Depeche Mode",
+    "title": "Shake The Disease"
+  },
+  {
+    "pos": "30",
+    "interpret": "Kate Bush",
+    "title": "Running Up That Hill"
+  },
+  {
+    "pos": "31",
+    "interpret": "Rick Springfield",
+    "title": "Celebrate Youth"
+  },
+  {
+    "pos": "32",
+    "interpret": "Kool & The Gang",
+    "title": "Cherish"
+  },
+  {
+    "pos": "33",
+    "interpret": "Valerie Dore",
+    "title": "The Night"
+  },
+  {
+    "pos": "34",
+    "interpret": "Duran Duran",
+    "title": "A View To A Kill"
+  },
+  {
+    "pos": "35",
+    "interpret": "Klaus & Klaus",
+    "title": "An der Nordseeküste"
+  },
+  {
+    "pos": "36",
+    "interpret": "Jermaine Jackson & Pia Zadora",
+    "title": "When The Rain Begins To Fall"
+  },
+  {
+    "pos": "37",
+    "interpret": "Lee Marrow",
+    "title": "Shanghai"
+  },
+  {
+    "pos": "38",
+    "interpret": "Eurythmics",
+    "title": "Sexcrime (Nineteen Eighty-Four)"
+  },
+  {
+    "pos": "39",
+    "interpret": "Marillion",
+    "title": "Kayleigh"
+  },
+  {
+    "pos": "40",
+    "interpret": "Madonna",
+    "title": "Like A Virgin"
+  },
+  {
+    "pos": "41",
+    "interpret": "Philip Bailey with Phil Collins",
+    "title": "Easy Lover"
+  },
+  {
+    "pos": "42",
+    "interpret": "Video Kids",
+    "title": "Woodpeckers From Space"
+  },
+  {
+    "pos": "43",
+    "interpret": "Frankie Goes To Hollywood",
+    "title": "The Power Of Love"
+  },
+  {
+    "pos": "44",
+    "interpret": "Glenn Frey",
+    "title": "The Heat Is On"
+  },
+  {
+    "pos": "45",
+    "interpret": "Eurythmics",
+    "title": "There Must Be An Angel (Playing With My Heart)"
+  },
+  {
+    "pos": "46",
+    "interpret": "a-ha",
+    "title": "Take On Me"
+  },
+  {
+    "pos": "47",
+    "interpret": "Princess",
+    "title": "Say I'm Your No. 1"
+  },
+  {
+    "pos": "48",
+    "interpret": "Flash And The Pan",
+    "title": "Midnight Man"
+  },
+  {
+    "pos": "49",
+    "interpret": "Band für Afrika",
+    "title": "Nackt im Wind"
+  },
+  {
+    "pos": "50",
+    "interpret": "Martinelli",
+    "title": "Cenerentola (Cinderella)"
+  },
+  {
+    "pos": "51",
+    "interpret": "Billy Ocean",
+    "title": "European Queen (No More Love On The Run)"
+  },
+  {
+    "pos": "52",
+    "interpret": "Scotch",
+    "title": "Delirio Mind"
+  },
+  {
+    "pos": "53",
+    "interpret": "Moti Special",
+    "title": "Don't Be So Shy"
+  },
+  {
+    "pos": "54",
+    "interpret": "Boney M. And Bobby Farrell With The School-Rebels",
+    "title": "Happy Song"
+  },
+  {
+    "pos": "55",
+    "interpret": "Silver Pozzoli",
+    "title": "Around My Dream"
+  },
+  {
+    "pos": "56",
+    "interpret": "Ivan",
+    "title": "Fotonovela"
+  },
+  {
+    "pos": "57",
+    "interpret": "Bläck Fööss",
+    "title": "Frankreich Frankreich"
+  },
+  {
+    "pos": "58",
+    "interpret": "Pia Zadora",
+    "title": "Let's Dance Tonight"
+  },
+  {
+    "pos": "59",
+    "interpret": "Pia Zadora",
+    "title": "Little Bit Of Heaven"
+  },
+  {
+    "pos": "60",
+    "interpret": "Bruce Springsteen",
+    "title": "I'm On Fire"
+  },
+  {
+    "pos": "61",
+    "interpret": "Scotch",
+    "title": "Disco Band"
+  },
+  {
+    "pos": "62",
+    "interpret": "Chaka Khan",
+    "title": "I Feel For You"
+  },
+  {
+    "pos": "63",
+    "interpret": "David Bowie And Mick Jagger",
+    "title": "Dancing In The Street"
+  },
+  {
+    "pos": "64",
+    "interpret": "Tullio de Piscopo",
+    "title": "Stop Bajon (Primavera)"
+  },
+  {
+    "pos": "65",
+    "interpret": "John Parr",
+    "title": "St. Elmo's Fire (Man In Motion)"
+  },
+  {
+    "pos": "66",
+    "interpret": "Tears For Fears",
+    "title": "Everybody Wants To Rule The World"
+  },
+  {
+    "pos": "67",
+    "interpret": "Billy Ocean",
+    "title": "Loverboy"
+  },
+  {
+    "pos": "68",
+    "interpret": "King",
+    "title": "Love & Pride"
+  },
+  {
+    "pos": "69",
+    "interpret": "Animotion",
+    "title": "Obsession"
+  },
+  {
+    "pos": "70",
+    "interpret": "Falco",
+    "title": "Vienna Calling"
+  },
+  {
+    "pos": "71",
+    "interpret": "David Cassidy",
+    "title": "The Last Kiss"
+  },
+  {
+    "pos": "72",
+    "interpret": "Nik Kershaw",
+    "title": "The Riddle"
+  },
+  {
+    "pos": "73",
+    "interpret": "Leinemann",
+    "title": "Mein Tuut Tuut"
+  },
+  {
+    "pos": "74",
+    "interpret": "Jennifer Rush",
+    "title": "Destiny"
+  },
+  {
+    "pos": "75",
+    "interpret": "Jennifer Rush",
+    "title": "The Power Of Love"
+  }
+],
+"1986": [
+  {
+    "pos": "1",
+    "interpret": "Falco",
+    "title": "Jeanny Part I"
+  },
+  {
+    "pos": "2",
+    "interpret": "Chris Norman",
+    "title": "Midnight Lady"
+  },
+  {
+    "pos": "3",
+    "interpret": "Level 42",
+    "title": "Lessons In Love"
+  },
+  {
+    "pos": "4",
+    "interpret": "Münchener Freiheit",
+    "title": "Ohne dich (schlaf ich heut Nacht nicht ein)"
+  },
+  {
+    "pos": "5",
+    "interpret": "M.C. Miker 'G' & Deejay Sven",
+    "title": "Holiday Rap"
+  },
+  {
+    "pos": "6",
+    "interpret": "Sam Cooke",
+    "title": "Wonderful World"
+  },
+  {
+    "pos": "7",
+    "interpret": "Samantha Fox",
+    "title": "Touch Me (I Want Your Body)"
+  },
+  {
+    "pos": "8",
+    "interpret": "Bruce & Bongo",
+    "title": "Geil"
+  },
+  {
+    "pos": "9",
+    "interpret": "Europe",
+    "title": "The Final Countdown"
+  },
+  {
+    "pos": "10",
+    "interpret": "Bananarama",
+    "title": "Venus"
+  },
+  {
+    "pos": "11",
+    "interpret": "Modern Talking",
+    "title": "Atlantis Is Calling (S.O.S. For Love)"
+  },
+  {
+    "pos": "12",
+    "interpret": "Elton John",
+    "title": "Nikita"
+  },
+  {
+    "pos": "13",
+    "interpret": "Pet Shop Boys",
+    "title": "West End Girls"
+  },
+  {
+    "pos": "14",
+    "interpret": "Modern Talking",
+    "title": "Brother Louie"
+  },
+  {
+    "pos": "15",
+    "interpret": "Frankie Goes To Hollywood",
+    "title": "Rage Hard"
+  },
+  {
+    "pos": "16",
+    "interpret": "Billy Ocean",
+    "title": "When The Going Gets Tough"
+  },
+  {
+    "pos": "17",
+    "interpret": "Stéphanie",
+    "title": "Irresistible"
+  },
+  {
+    "pos": "18",
+    "interpret": "Madonna",
+    "title": "Papa Don't Preach"
+  },
+  {
+    "pos": "19",
+    "interpret": "Animotion",
+    "title": "I Engineer"
+  },
+  {
+    "pos": "20",
+    "interpret": "Peter Gabriel",
+    "title": "Sledgehammer"
+  },
+  {
+    "pos": "21",
+    "interpret": "Sheila E.",
+    "title": "A Love Bizarre"
+  },
+  {
+    "pos": "22",
+    "interpret": "Bangles",
+    "title": "Manic Monday"
+  },
+  {
+    "pos": "23",
+    "interpret": "Nu Shooz",
+    "title": "I Can't Wait"
+  },
+  {
+    "pos": "24",
+    "interpret": "Queen",
+    "title": "A Kind Of Magic"
+  },
+  {
+    "pos": "25",
+    "interpret": "The Human League",
+    "title": "Being Boiled"
+  },
+  {
+    "pos": "26",
+    "interpret": "Sandra",
+    "title": "In The Heat Of The Night"
+  },
+  {
+    "pos": "27",
+    "interpret": "Falco",
+    "title": "The Sound Of Musik"
+  },
+  {
+    "pos": "28",
+    "interpret": "Prince & The Revolution",
+    "title": "Kiss"
+  },
+  {
+    "pos": "29",
+    "interpret": "Cock Robin",
+    "title": "The Promise You Made"
+  },
+  {
+    "pos": "30",
+    "interpret": "Survivor",
+    "title": "Burning Heart"
+  },
+  {
+    "pos": "31",
+    "interpret": "Mike Oldfield",
+    "title": "Pictures In The Dark"
+  },
+  {
+    "pos": "32",
+    "interpret": "Bronski Beat",
+    "title": "Hit That Perfect Beat"
+  },
+  {
+    "pos": "33",
+    "interpret": "Wham!",
+    "title": "The Edge Of Heaven"
+  },
+  {
+    "pos": "34",
+    "interpret": "a-ha",
+    "title": "Take On Me"
+  },
+  {
+    "pos": "35",
+    "interpret": "Hubert Kah",
+    "title": "Limousine"
+  },
+  {
+    "pos": "36",
+    "interpret": "Falco",
+    "title": "Coming Home (Jeanny Part 2"
+  },
+  {
+    "pos": "37",
+    "interpret": "Tina Turner",
+    "title": "Typical Male"
+  },
+  {
+    "pos": "38",
+    "interpret": "Jennifer Rush",
+    "title": "Destiny"
+  },
+  {
+    "pos": "39",
+    "interpret": "a-ha",
+    "title": "The Sun Always Shines On T.V."
+  },
+  {
+    "pos": "40",
+    "interpret": "Miami Sound Machine",
+    "title": "Bad Boy"
+  },
+  {
+    "pos": "41",
+    "interpret": "Feargal Sharkey",
+    "title": "A Good Heart"
+  },
+  {
+    "pos": "42",
+    "interpret": "Grace Jones",
+    "title": "Slave To The Rhythm"
+  },
+  {
+    "pos": "43",
+    "interpret": "Berlin",
+    "title": "Take My Breath Away"
+  },
+  {
+    "pos": "44",
+    "interpret": "Johnny Nash",
+    "title": "Rock Me Baby"
+  },
+  {
+    "pos": "45",
+    "interpret": "Trio Rio",
+    "title": "New York - Rio - Tokyo"
+  },
+  {
+    "pos": "46",
+    "interpret": "Sigue Sigue Sputnik",
+    "title": "Love Missile F1-11"
+  },
+  {
+    "pos": "47",
+    "interpret": "Samantha Fox",
+    "title": "Do Ya Do Ya (Wanna Please Me)"
+  },
+  {
+    "pos": "48",
+    "interpret": "Depeche Mode",
+    "title": "Stripped"
+  },
+  {
+    "pos": "49",
+    "interpret": "Lionel Richie",
+    "title": "Say You"
+  },
+  {
+    "pos": "50",
+    "interpret": "Sting",
+    "title": "Russians"
+  },
+  {
+    "pos": "51",
+    "interpret": "Van Halen",
+    "title": "Why Can't This Be Love"
+  },
+  {
+    "pos": "52",
+    "interpret": "Diana Ross",
+    "title": "Chain Reaction"
+  },
+  {
+    "pos": "53",
+    "interpret": "Münchener Freiheit",
+    "title": "Tausendmal du"
+  },
+  {
+    "pos": "54",
+    "interpret": "Mr. Mister",
+    "title": "Kyrie"
+  },
+  {
+    "pos": "55",
+    "interpret": "Chris De Burgh",
+    "title": "The Lady In Red"
+  },
+  {
+    "pos": "56",
+    "interpret": "Erste Allgemeine Verunsicherung",
+    "title": "Ba Ba Banküberfall"
+  },
+  {
+    "pos": "57",
+    "interpret": "Mr. Mister",
+    "title": "Broken Wings"
+  },
+  {
+    "pos": "58",
+    "interpret": "a-ha",
+    "title": "Hunting High And Low"
+  },
+  {
+    "pos": "59",
+    "interpret": "Depeche Mode",
+    "title": "A Question Of Lust"
+  },
+  {
+    "pos": "60",
+    "interpret": "Doctor & The Medics",
+    "title": "Spirit In The Sky"
+  },
+  {
+    "pos": "61",
+    "interpret": "Stan Ridgway",
+    "title": "Camouflage"
+  },
+  {
+    "pos": "62",
+    "interpret": "The Human League",
+    "title": "Human"
+  },
+  {
+    "pos": "63",
+    "interpret": "Matia Bazar",
+    "title": "Ti sento"
+  },
+  {
+    "pos": "64",
+    "interpret": "Marietta",
+    "title": "Fire And Ice"
+  },
+  {
+    "pos": "65",
+    "interpret": "Mike & The Mechanics",
+    "title": "Silent Running (On Dangerous Ground)"
+  },
+  {
+    "pos": "66",
+    "interpret": "Heinz Rudolf Kunze",
+    "title": "Dein ist mein ganzes Herz"
+  },
+  {
+    "pos": "67",
+    "interpret": "C.C. Catch",
+    "title": "Strangers By Night"
+  },
+  {
+    "pos": "68",
+    "interpret": "The Real Thing",
+    "title": "You To Me Are Everything (The Decade Remix 76-86)"
+  },
+  {
+    "pos": "69",
+    "interpret": "C.C. Catch",
+    "title": "Cause You Are Young"
+  },
+  {
+    "pos": "70",
+    "interpret": "Depeche Mode",
+    "title": "A Question Of Time"
+  },
+  {
+    "pos": "71",
+    "interpret": "Communards with Sarah Jane Morris",
+    "title": "Don't Leave Me This Way"
+  },
+  {
+    "pos": "72",
+    "interpret": "George Michael",
+    "title": "A Different Corner"
+  },
+  {
+    "pos": "73",
+    "interpret": "David Bowie",
+    "title": "Absolute Beginners"
+  },
+  {
+    "pos": "74",
+    "interpret": "Madonna",
+    "title": "Live To Tell"
+  },
+  {
+    "pos": "75",
+    "interpret": "Karel Gott und Darinka",
+    "title": "Fang das Licht"
+  }
+],
+"1987": [
+  {
+    "pos": "1",
+    "interpret": "Desireless",
+    "title": "Voyage voyage"
+  },
+  {
+    "pos": "2",
+    "interpret": "Madonna",
+    "title": "La isla bonita"
+  },
+  {
+    "pos": "3",
+    "interpret": "Pet Shop Boys",
+    "title": "It's A Sin"
+  },
+  {
+    "pos": "4",
+    "interpret": "Mixed Emotions",
+    "title": "You Want Love (Maria, Maria...)"
+  },
+  {
+    "pos": "5",
+    "interpret": "Whitney Houston",
+    "title": "I Wanna Dance With Somebody (Who Loves Me)"
+  },
+  {
+    "pos": "6",
+    "interpret": "John Farnham",
+    "title": "You're The Voice"
+  },
+  {
+    "pos": "7",
+    "interpret": "Richard Sanderson",
+    "title": "Reality"
+  },
+  {
+    "pos": "8",
+    "interpret": "Jan Hammer",
+    "title": "Crockett's Theme"
+  },
+  {
+    "pos": "9",
+    "interpret": "Bonnie Bianco & Pierre Cosso",
+    "title": "Stay"
+  },
+  {
+    "pos": "10",
+    "interpret": "Billy Idol",
+    "title": "Sweet Sixteen"
+  },
+  {
+    "pos": "11",
+    "interpret": "Jürgen von der Lippe",
+    "title": "Guten Morgen liebe Sorgen"
+  },
+  {
+    "pos": "12",
+    "interpret": "Bee Gees",
+    "title": "You Win Again"
+  },
+  {
+    "pos": "13",
+    "interpret": "Mel & Kim",
+    "title": "Showing Out"
+  },
+  {
+    "pos": "14",
+    "interpret": "Rick Astley",
+    "title": "Never Gonna Give You Up"
+  },
+  {
+    "pos": "15",
+    "interpret": "Mel & Kim",
+    "title": "Respectable"
+  },
+  {
+    "pos": "16",
+    "interpret": "The Housemartins",
+    "title": "Caravan Of Love"
+  },
+  {
+    "pos": "17",
+    "interpret": "Off",
+    "title": "Electrica Salsa (Baba Baba)"
+  },
+  {
+    "pos": "18",
+    "interpret": "George Michael",
+    "title": "I Want Your Sex"
+  },
+  {
+    "pos": "19",
+    "interpret": "Clowns & Helden",
+    "title": "Ich liebe dich"
+  },
+  {
+    "pos": "20",
+    "interpret": "Starship",
+    "title": "Nothing's Gonna Stop Us Now"
+  },
+  {
+    "pos": "21",
+    "interpret": "Ben E. King",
+    "title": "Stand By Me"
+  },
+  {
+    "pos": "22",
+    "interpret": "Madonna",
+    "title": "Who's That Girl"
+  },
+  {
+    "pos": "23",
+    "interpret": "The Other Ones",
+    "title": "Holiday"
+  },
+  {
+    "pos": "24",
+    "interpret": "Sabrina",
+    "title": "Boys"
+  },
+  {
+    "pos": "25",
+    "interpret": "Stephan Remmler",
+    "title": "Keine Sterne in Athen (3-4-5 x in 1 Monat)"
+  },
+  {
+    "pos": "26",
+    "interpret": "Michael Jackson",
+    "title": "I Just Can't Stop Loving You"
+  },
+  {
+    "pos": "27",
+    "interpret": "Erasure",
+    "title": "Sometimes"
+  },
+  {
+    "pos": "28",
+    "interpret": "Bangles",
+    "title": "Walk Like An Egyptian"
+  },
+  {
+    "pos": "29",
+    "interpret": "Den Harrow",
+    "title": "Don't Break My Heart"
+  },
+  {
+    "pos": "30",
+    "interpret": "Jackie Wilson",
+    "title": "Reet Petite"
+  },
+  {
+    "pos": "31",
+    "interpret": "Living In A Box",
+    "title": "Living In A Box"
+  },
+  {
+    "pos": "32",
+    "interpret": "U2",
+    "title": "With Or Without You"
+  },
+  {
+    "pos": "33",
+    "interpret": "Hot Chocolate",
+    "title": "You Sexy Thing"
+  },
+  {
+    "pos": "34",
+    "interpret": "Johnny Logan",
+    "title": "Hold Me Now"
+  },
+  {
+    "pos": "35",
+    "interpret": "Samantha Fox",
+    "title": "Nothing's Gonna Stop Me Now"
+  },
+  {
+    "pos": "36",
+    "interpret": "Robbie Nevil",
+    "title": "C'est la vie"
+  },
+  {
+    "pos": "37",
+    "interpret": "Oran \"Juice\" Jones",
+    "title": "The Rain"
+  },
+  {
+    "pos": "38",
+    "interpret": "Jan Hammer",
+    "title": "Miami Vice Theme"
+  },
+  {
+    "pos": "39",
+    "interpret": "Don Johnson",
+    "title": "Heartbeat"
+  },
+  {
+    "pos": "40",
+    "interpret": "Status Quo",
+    "title": "In The Army Now"
+  },
+  {
+    "pos": "41",
+    "interpret": "Bonnie Bianco",
+    "title": "Miss You So"
+  },
+  {
+    "pos": "42",
+    "interpret": "Tina Charles",
+    "title": "I Love To Love [1987]"
+  },
+  {
+    "pos": "43",
+    "interpret": "Depeche Mode",
+    "title": "Strangelove"
+  },
+  {
+    "pos": "44",
+    "interpret": "Bolland & Bolland",
+    "title": "Tears Of Ice"
+  },
+  {
+    "pos": "45",
+    "interpret": "Pet Shop Boys with Dusty Springfield",
+    "title": "What Have I Done To Deserve This?"
+  },
+  {
+    "pos": "46",
+    "interpret": "Ferry Aid",
+    "title": "Let It Be"
+  },
+  {
+    "pos": "47",
+    "interpret": "Mixed Emotions",
+    "title": "Bring Back (Sha na na)"
+  },
+  {
+    "pos": "48",
+    "interpret": "Jennifer Rush",
+    "title": "I Come Undone"
+  },
+  {
+    "pos": "49",
+    "interpret": "Los Lobos",
+    "title": "La Bamba"
+  },
+  {
+    "pos": "50",
+    "interpret": "Spagna",
+    "title": "Call Me"
+  },
+  {
+    "pos": "51",
+    "interpret": "William Pitt",
+    "title": "City Lights"
+  },
+  {
+    "pos": "52",
+    "interpret": "Aretha Franklin & George Michael",
+    "title": "I Knew You Were Waiting (For Me)"
+  },
+  {
+    "pos": "53",
+    "interpret": "Depeche Mode",
+    "title": "Never Let Me Down Again"
+  },
+  {
+    "pos": "54",
+    "interpret": "Francesco Napoli",
+    "title": "Balla... Balla!"
+  },
+  {
+    "pos": "55",
+    "interpret": "Pet Shop Boys",
+    "title": "Suburbia"
+  },
+  {
+    "pos": "56",
+    "interpret": "a-ha",
+    "title": "The Living Daylights"
+  },
+  {
+    "pos": "57",
+    "interpret": "Genesis",
+    "title": "Land Of Confusion"
+  },
+  {
+    "pos": "58",
+    "interpret": "Mental As Anything",
+    "title": "Live It Up"
+  },
+  {
+    "pos": "59",
+    "interpret": "Sandra",
+    "title": "Everlasting Love"
+  },
+  {
+    "pos": "60",
+    "interpret": "Fancy",
+    "title": "Lady Of Ice"
+  },
+  {
+    "pos": "61",
+    "interpret": "Club Nouveau",
+    "title": "Lean On Me"
+  },
+  {
+    "pos": "62",
+    "interpret": "Johnny Hates Jazz",
+    "title": "Shattered Dreams"
+  },
+  {
+    "pos": "63",
+    "interpret": "Pepsi & Shirlie",
+    "title": "Heartache"
+  },
+  {
+    "pos": "64",
+    "interpret": "Jennifer Rush with Elton John",
+    "title": "Flames Of Paradise"
+  },
+  {
+    "pos": "65",
+    "interpret": "Frankie Goes To Hollywood",
+    "title": "Warriors (Of The Wasteland)"
+  },
+  {
+    "pos": "66",
+    "interpret": "16 Bit",
+    "title": "Where Are You?"
+  },
+  {
+    "pos": "67",
+    "interpret": "Cameo",
+    "title": "Word Up!"
+  },
+  {
+    "pos": "68",
+    "interpret": "New Order",
+    "title": "True Faith"
+  },
+  {
+    "pos": "69",
+    "interpret": "Black",
+    "title": "Wonderful Life"
+  },
+  {
+    "pos": "70",
+    "interpret": "Nick Kamen",
+    "title": "Each Time You Break My Heart"
+  },
+  {
+    "pos": "71",
+    "interpret": "Kool & The Gang",
+    "title": "Victory"
+  },
+  {
+    "pos": "72",
+    "interpret": "Boy George",
+    "title": "Everything I Own"
+  },
+  {
+    "pos": "73",
+    "interpret": "Mixed Emotions",
+    "title": "Sweetheart - Darlin' - My Deer (Lisa My Love)"
+  },
+  {
+    "pos": "74",
+    "interpret": "Alison Moyet",
+    "title": "Is This Love?"
+  },
+  {
+    "pos": "75",
+    "interpret": "Michael Jackson",
+    "title": "Bad"
+  }
+],
+"1988": [
+  {
+    "pos": "1",
+    "interpret": "Milli Vanilli",
+    "title": "Girl You Know It's True"
+  },
+  {
+    "pos": "2",
+    "interpret": "Ofra Haza",
+    "title": "Im nin' alu"
+  },
+  {
+    "pos": "3",
+    "interpret": "O. K.",
+    "title": "Okay!"
+  },
+  {
+    "pos": "4",
+    "interpret": "Pet Shop Boys",
+    "title": "Always On My Mind"
+  },
+  {
+    "pos": "5",
+    "interpret": "France Gall",
+    "title": "Ella elle l'a"
+  },
+  {
+    "pos": "6",
+    "interpret": "Rainhard Fendrich",
+    "title": "Macho Macho"
+  },
+  {
+    "pos": "7",
+    "interpret": "Mory Kante",
+    "title": "Yé ké yé ké"
+  },
+  {
+    "pos": "8",
+    "interpret": "Taylor Dayne",
+    "title": "Tell It To My Heart"
+  },
+  {
+    "pos": "9",
+    "interpret": "Salt 'N' Pepa",
+    "title": "Push It (Again)"
+  },
+  {
+    "pos": "10",
+    "interpret": "Fat Boys with Chubby Checker",
+    "title": "The Twist"
+  },
+  {
+    "pos": "11",
+    "interpret": "Guillermo Marchena",
+    "title": "My Love Is A Tango"
+  },
+  {
+    "pos": "12",
+    "interpret": "Pet Shop Boys",
+    "title": "Heart"
+  },
+  {
+    "pos": "13",
+    "interpret": "B.V.S.M.P.",
+    "title": "I Need You"
+  },
+  {
+    "pos": "14",
+    "interpret": "Eddy Grant",
+    "title": "Gimme Hope Jo'anna"
+  },
+  {
+    "pos": "15",
+    "interpret": "Michael Jackson",
+    "title": "Dirty Diana"
+  },
+  {
+    "pos": "16",
+    "interpret": "Kylie Minogue",
+    "title": "I Should Be So Lucky"
+  },
+  {
+    "pos": "17",
+    "interpret": "Erste Allgemeine Verunsicherung",
+    "title": "Küss' die Hand, schöne Frau"
+  },
+  {
+    "pos": "18",
+    "interpret": "Herbert Grönemeyer",
+    "title": "Was soll das"
+  },
+  {
+    "pos": "19",
+    "interpret": "Blue System",
+    "title": "My Bed Is Too Big"
+  },
+  {
+    "pos": "20",
+    "interpret": "Yello",
+    "title": "The Race"
+  },
+  {
+    "pos": "21",
+    "interpret": "Koreana",
+    "title": "Hand In Hand"
+  },
+  {
+    "pos": "22",
+    "interpret": "S-Express",
+    "title": "Theme From S-Express"
+  },
+  {
+    "pos": "23",
+    "interpret": "Yazz And The Plastic Population",
+    "title": "The Only Way Is Up"
+  },
+  {
+    "pos": "24",
+    "interpret": "Münchener Freiheit mit dem London Symphony Orchestra",
+    "title": "So lang' man Träume noch leben kann"
+  },
+  {
+    "pos": "25",
+    "interpret": "Bill Medley & Jennifer Warnes",
+    "title": "(I've Had) The Time Of My Life"
+  },
+  {
+    "pos": "26",
+    "interpret": "Billy Ocean",
+    "title": "Get Outta My Dreams, Get Into My Car"
+  },
+  {
+    "pos": "27",
+    "interpret": "Joyce Sims",
+    "title": "Come Into My Life"
+  },
+  {
+    "pos": "28",
+    "interpret": "Rick Astley",
+    "title": "Whenever You Need Somebody"
+  },
+  {
+    "pos": "29",
+    "interpret": "Krush",
+    "title": "House Arrest"
+  },
+  {
+    "pos": "30",
+    "interpret": "Kim Wilde",
+    "title": "You Came"
+  },
+  {
+    "pos": "31",
+    "interpret": "Rainbirds",
+    "title": "Blueprint"
+  },
+  {
+    "pos": "32",
+    "interpret": "Whitney Houston",
+    "title": "One Moment In Time"
+  },
+  {
+    "pos": "33",
+    "interpret": "Terence Trent D'Arby",
+    "title": "Sign Your Name"
+  },
+  {
+    "pos": "34",
+    "interpret": "Jermaine Stewart",
+    "title": "Get Lucky"
+  },
+  {
+    "pos": "35",
+    "interpret": "Kylie Minogue",
+    "title": "The Loco-Motion"
+  },
+  {
+    "pos": "36",
+    "interpret": "T'Pau",
+    "title": "China In Your Hand"
+  },
+  {
+    "pos": "37",
+    "interpret": "Tolga \"Flim Flam\" Balkan",
+    "title": "Pump Up The Flim Flam"
+  },
+  {
+    "pos": "38",
+    "interpret": "Belinda Carlisle",
+    "title": "Heaven Is A Place On Earth"
+  },
+  {
+    "pos": "39",
+    "interpret": "Dominoe",
+    "title": "Here I Am"
+  },
+  {
+    "pos": "40",
+    "interpret": "Phil Collins",
+    "title": "A Groovy Kind Of Love"
+  },
+  {
+    "pos": "41",
+    "interpret": "New Order",
+    "title": "Blue Monday 1988"
+  },
+  {
+    "pos": "42",
+    "interpret": "Rick Astley",
+    "title": "Together Forever"
+  },
+  {
+    "pos": "43",
+    "interpret": "Bobby McFerrin",
+    "title": "Don't Worry, Be Happy"
+  },
+  {
+    "pos": "44",
+    "interpret": "Erasure",
+    "title": "Ship Of Fools"
+  },
+  {
+    "pos": "45",
+    "interpret": "Fairground Attraction",
+    "title": "Perfect"
+  },
+  {
+    "pos": "46",
+    "interpret": "Mandy Winter",
+    "title": "Julian"
+  },
+  {
+    "pos": "47",
+    "interpret": "Bros",
+    "title": "When Will I Be Famous?"
+  },
+  {
+    "pos": "48",
+    "interpret": "Bomb The Bass",
+    "title": "Beat Dis"
+  },
+  {
+    "pos": "49",
+    "interpret": "Natalie Cole",
+    "title": "Pink Cadillac"
+  },
+  {
+    "pos": "50",
+    "interpret": "Black",
+    "title": "Wonderful Life"
+  },
+  {
+    "pos": "51",
+    "interpret": "Eighth Wonder",
+    "title": "I'm Not Scared"
+  },
+  {
+    "pos": "52",
+    "interpret": "Hannes Kröger",
+    "title": "Der blonde Hans"
+  },
+  {
+    "pos": "53",
+    "interpret": "Sandra",
+    "title": "Heaven Can Wait"
+  },
+  {
+    "pos": "54",
+    "interpret": "Pet Shop Boys",
+    "title": "Domino Dancing"
+  },
+  {
+    "pos": "55",
+    "interpret": "Fancy",
+    "title": "Flames Of Love"
+  },
+  {
+    "pos": "56",
+    "interpret": "a-ha",
+    "title": "Stay On These Roads"
+  },
+  {
+    "pos": "57",
+    "interpret": "Climie Fisher",
+    "title": "Love Changes (Everything)"
+  },
+  {
+    "pos": "58",
+    "interpret": "Tiffany",
+    "title": "I Think We're Alone Now"
+  },
+  {
+    "pos": "59",
+    "interpret": "Kylie Minogue",
+    "title": "Got To Be Certain"
+  },
+  {
+    "pos": "60",
+    "interpret": "George Harrison",
+    "title": "Got My Mind Set On You"
+  },
+  {
+    "pos": "61",
+    "interpret": "Taylor Dayne",
+    "title": "Prove Your Love"
+  },
+  {
+    "pos": "62",
+    "interpret": "The Communards",
+    "title": "Never Can Say Goodbye"
+  },
+  {
+    "pos": "63",
+    "interpret": "Münchener Freiheit",
+    "title": "Bis wir uns wiederseh'n"
+  },
+  {
+    "pos": "64",
+    "interpret": "Womack & Womack",
+    "title": "Teardrops"
+  },
+  {
+    "pos": "65",
+    "interpret": "Bee Gees",
+    "title": "You Win Again"
+  },
+  {
+    "pos": "66",
+    "interpret": "INXS",
+    "title": "Need You Tonight"
+  },
+  {
+    "pos": "67",
+    "interpret": "Black",
+    "title": "Everything's Coming Up Roses"
+  },
+  {
+    "pos": "68",
+    "interpret": "Depeche Mode",
+    "title": "Behind The Wheel"
+  },
+  {
+    "pos": "69",
+    "interpret": "Chris Norman",
+    "title": "Broken Heroes"
+  },
+  {
+    "pos": "70",
+    "interpret": "Guesch Patti",
+    "title": "Etienne"
+  },
+  {
+    "pos": "71",
+    "interpret": "B.V.S.M.P.",
+    "title": "Be Gentle"
+  },
+  {
+    "pos": "72",
+    "interpret": "Elton John",
+    "title": "I Don't Wanna Go On With You Like That"
+  },
+  {
+    "pos": "73",
+    "interpret": "Vanessa Paradis",
+    "title": "Joe le taxi"
+  },
+  {
+    "pos": "74",
+    "interpret": "Patrick Swayze feat. Wendy Fraser",
+    "title": "She's Like The Wind"
+  },
+  {
+    "pos": "75",
+    "interpret": "The Winners",
+    "title": "Go For Gold"
+  }
+],
+  "1988":[
   {
     "pos": 1,
     "interpret": "Milli Vanilli",

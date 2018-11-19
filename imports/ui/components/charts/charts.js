@@ -67,8 +67,8 @@ Template.charts.events({
             Meteor.call('getVotedCharts', year, function (err, response) {
 
                 var record, votings = [];
-                $.each(response.results, function (index, value) {
-                    record = { "score": response.results[index].score, "voter": response.results[index].voter, "voted": response.results[index].voted, "orgPos": response.results[index].song.pos, "title": response.results[index].song.title, "interpret": response.results[index].song.interpret }
+                $.each(response, function (index, value) {
+                    record = { "score": response[index].score, "voter": response[index].voter, "voted": response[index].voted, "orgPos": response[index].song.pos, "title": response[index].song.title, "interpret": response[index].song.interpret }
                     votings.push(record);
                 });
 
