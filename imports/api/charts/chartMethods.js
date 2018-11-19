@@ -20,11 +20,22 @@ Meteor.methods({
     var top100ofYear = JSON.parse(Assets.getText('top100.json'))[year];
     var results = {};
     var voted = 0;
+    
+    var votCounter = {};
+    
 
     //get each voting
     query.forEach(function (entry) {
+
+      debugger;
       var voting = entry[Object.keys(entry)[0]];
       Object.keys(voting).forEach(function (place) {
+
+        if(votCounter.hasOwnProperty(voting[place])){
+          votCounter[voting[place]] = votCounter[voting[place]]++;
+        }else{
+          votCounter[voting[place]] = 1;
+        }
 
         if (results.hasOwnProperty(voting[place])) {
           switch (place) {
@@ -59,6 +70,8 @@ Meteor.methods({
         }
       });
     });
-    return results;
+
+    var response ={"results": results, "votCounter": votCounter};
+    return response;
   }
 });
