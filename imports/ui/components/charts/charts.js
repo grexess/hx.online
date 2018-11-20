@@ -23,9 +23,10 @@ function selectYear(year) {
 }
 
 Template.charts.helpers({
-    votings() {
-        return Votings.find({});
-    },
+
+    /*  votings() {
+         return Votings.find({});
+     }, */
 
     userEmail: function (user) {
         if (user.emails && user.emails.length > 0) {
@@ -64,7 +65,9 @@ Template.charts.events({
         if (event.currentTarget.checked) {
             //get private charts
             $('#top').empty();
-            Meteor.call('getVotedCharts', year, function (err, response) {
+            Meteor.call('getVotedCharts', year, function (err, zresponse) {
+
+                var response = zresponse.results;
 
                 var record, votings = [];
                 $.each(response, function (index, value) {
@@ -81,9 +84,8 @@ Template.charts.events({
 
                     listElement = '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s2 m1 l1"><div class="w3-xlarge w3-center">' +
                         (idx + 1) + '<br><span class="w3-small">(' + value.orgPos + ')</span></div></div><div class="w3-col s10 m7 l8"><div><span class="w3-small"><b>' + value.interpret + '</b></span><br><span>' +
-                        value.title + '</span></div></div><div class="w3-col w3-center s12 m4 l3 w3-tiny"><div class="w3-col s4">Score<br><b> ' + value.score + '</b></div><div class="w3-col s4">Voted<br><b><span data-voted="voted">' + value.voted
-                        
-                        + '<span></b></div><div class="w3-col s4">Voter<br><b>' + value.voter + '</b></div></div></div></div></div></div></li>';
+                        value.title + '</span></div></div><div class="w3-col w3-center s12 m4 l3 w3-tiny"><div class="w3-col s6">Score<br><b> ' + value.score + '</b></div><div class="w3-col s6">Voted<br><b><span data-voted="voted">' + value.voted
+                        + '<span></b></div></div></div></div></div></div></li>';
 
                     /* listElement =
                         '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
@@ -234,10 +236,23 @@ function buildDropDownEntries() {
         $('.flex-container').append('<li class="flex-item selectYear" data-year="' + value + '">' + value + '</li>');
     });
 
-    buildTop100(Object.keys(allCharts)[0]);
+    buildTop100(Object.keys(allCharts)[Object.keys(allCharts).length - 1]);
 }
 
 function buildTop100(year) {
+
+
+    Meteor.call('getVotingCount', year, function (err, response) {
+        $('.votCnt').text(response);
+        if (response > 0) {
+            $('#toggleBtn').prop('disabled', false);
+            $(".toggle--off").css("color", "#47a3da");
+        } else {
+            $("#toggleBtn").prop('disabled', true);
+            $(".toggle--off").css("color", "#9E9E9E");
+        }
+    });
+
 
     $("#toptitle").text(year);
 
@@ -246,13 +261,19 @@ function buildTop100(year) {
     var listElement, voteElement;
     $.each(allCharts[year], function (index, value) {
 
+        var img = '<img style="max-width: 50px" src="/img/cd.png" alt="noCover"/>';
+
+        if (value.img) {
+            img = '<img style="max-width: 50px" src="' + value.img + '" alt="Cover"/>';
+        }
+
         listElement =
-            '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
+            '<li class="w3-bar"><div class="w3-row"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
             value.pos +
-            '</div></div><div class="w3-col s11 m11 l7"><div><span class="w3-small"><b>' +
+            '</div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' +
             value.interpret +
             "</b></span><br><span>" +
-            value.title + '</span></div></div>';
+            value.title + '</span></div></div><div class="w3-col w3-center s1 m1 l1">' + img + '</div>';
 
         if (Meteor.user()) {
             listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + (index + 1) + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + (index + 1) + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + (index + 1) + '"><label>Top3</label></div></div></div>';

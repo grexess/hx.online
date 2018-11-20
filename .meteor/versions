@@ -1,5 +1,6 @@
 accounts-base@1.4.3
 accounts-password@1.5.1
+aldeed:simple-schema@1.5.4
 aldeed:template-extension@4.1.0
 allow-deny@1.1.0
 autoupdate@1.5.0
@@ -51,6 +52,8 @@ livedata@1.0.18
 lmieulet:meteor-coverage@1.1.4
 localstorage@1.2.0
 logging@1.1.20
+mdg:validated-method@1.2.0
+mdg:validation-error@0.2.0
 meteor@1.9.2
 meteor-base@1.4.0
 meteorhacks:picker@1.0.3

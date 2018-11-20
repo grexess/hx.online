@@ -27,3 +27,5 @@ accounts-password
 useraccounts:unstyled
 aldeed:template-extension
 themeteorchef:bert
+aldeed:simple-schema
+mdg:validated-method

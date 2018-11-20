@@ -14,9 +14,17 @@ Meteor.methods({
     return JSON.parse(Assets.getText('top100.json'))[year][index];
   },
 
-  'getVotedCharts'(year) {
+  //return the count of voting users per year
+  'getVotingCount'(year) {
+    var query = Votings.find({ [year]: { $exists: true } }, { fields: { [year]: 1, "votedBy": 1, "_id": 0 } }).fetch();
+    return query.length;
+  },
 
-    var query = Votings.find({ [year]: { $exists: true } }, { fields: { [year]: 1, "_id": 0 } }).fetch();
+  'getVotedCharts'(zyear) {
+
+    var year = zyear;
+    var query = Votings.find({ [year]: { $exists: true } }, { fields: { [year]: 1, "votedBy": 1, "_id": 0 } }).fetch();
+
     var top100ofYear = JSON.parse(Assets.getText('top100.json'))[year];
     var results = {};
     var voted = 0;
@@ -27,63 +35,64 @@ Meteor.methods({
     //get each voting
     query.forEach(function (entry) {
 
-      debugger;
-      var voting = entry[Object.keys(entry)[0]];
+      var voting = entry[year];
+      //var votedBy = entry["votedBy"];
 
       var aKeys = Object.keys(voting);
 
       aKeys.forEach(function (place) {
 
-        if (votCounter.hasOwnProperty(voting[place])) {
-          console.log('yes');
-          votCounter[voting[place]] = votCounter[voting[place]]++;
+        var vPlace = voting[place];
+
+        if (votCounter.hasOwnProperty(vPlace)) {
+          votCounter[vPlace].votings = votCounter[vPlace].votings + 1;
+          //votCounter[vPlace].votedBy.push(votedBy);
         } else {
-          console.log('no');
-          votCounter[voting[place]] = 1;
+          //votCounter[vPlace] = {"votings": 1, "votedBy": [votedBy]};
+          votCounter[vPlace] = {"votings": 1};
         }
 
-        if (results.hasOwnProperty(voting[place])) {
+        if (results.hasOwnProperty(vPlace)) {
+          var addScore;
           switch (place) {
             case "top1":
-              results[voting[place]]["score"] = results[voting[place]]["score"] + 5;
-              results[voting[place]]["voter"] = query.length;
-              results[voting[place]]["voted"] = voted;
+              addScore = results[vPlace]["score"] + 5;
               break;
             case "top2":
-              results[voting[place]]["score"] = results[voting[place]]["score"] + 3;
-              results[voting[place]]["voter"] = query.length;
-              results[voting[place]]["voted"] = voted;
+              addScore = results[vPlace]["score"] + 3;
               break;
             case "top3":
-              results[voting[place]]["score"] = results[voting[place]]["score"] + 1;
-              results[voting[place]]["voter"] = query.length;
-              results[voting[place]]["voted"] = voted;
+              addScore = results[vPlace]["score"] + 1;
               break;
           }
+
+          results[vPlace]["score"] = addScore;
+
         } else {
           switch (place) {
             case "top1":
-              results[voting[place]] = { "score": 5, song: top100ofYear[voting[place] - 1], "voter": query.length, "voted": voted };
+              results[vPlace] = { "score": 5, song: top100ofYear[vPlace - 1] };
               break;
             case "top2":
-              results[voting[place]] = { "score": 3, song: top100ofYear[voting[place] - 1], "voter": query.length, "voted": voted };
+              results[vPlace] = { "score": 3, song: top100ofYear[vPlace - 1] };
               break;
             case "top3":
-              results[voting[place]] = { "score": 1, song: top100ofYear[voting[place] - 1], "voter": query.length, "voted": voted };
+              results[vPlace] = { "score": 1, song: top100ofYear[vPlace - 1] };
               break;
           }
         }
-      });
 
-      //add total song votings and voters
-      (Object.keys(results)).forEach(function (song) {
-        debugger;
-        if (votCounter.hasOwnProperty(song)) {
-          results[song].voted = votCounter[song];
-        }
       });
-
-      return results;
     });
+
+    //add total song votings and voters
+    (Object.keys(results)).forEach(function (song) {
+      if (votCounter.hasOwnProperty(song)) {
+        results[song].voted = votCounter[song].votings;
+        //results[song].voter = votCounter[song].votedBy.length;
+      }
+    });
+    var response = { "results": results, "votings": query.length };
+    return response;
   }
 });
