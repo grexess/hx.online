@@ -1,7 +1,6 @@
 // Methods related to links
 
 import { Meteor } from 'meteor/meteor';
-import { HTTP } from 'meteor/http';
 
 import { Votings } from './votings.js';
 
@@ -84,21 +83,6 @@ Meteor.methods({
               break;
           }
         }
-
-
-        //getCover
-        try {
-          const result = HTTP.call('GET', 'https://itunes.apple.com/search?term=ed+sheeran+perfect', {
-            params: { user: userId }
-          });
-          return true;
-        } catch (e) {
-          // Got a network error, timeout, or HTTP error in the 400 or 500 range.
-          return false;
-        }
-      
-
-
       });
   });
 

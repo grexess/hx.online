@@ -36,6 +36,16 @@ Template.charts.helpers({
     }
 });
 
+/* Template.charts.onRendered(function() {
+          $(document).ready(function() {
+            var script = document.createElement("script");
+            script.type="text/javascript";
+            script.src = "https://itunes.apple.com/search?term&amp;callback=\"function(){alert('doit');\"";
+            $("body").append(script);
+          });
+    }); */
+
+
 Template.charts.onCreated(function () {
 
     Meteor.subscribe('votings');
@@ -71,43 +81,34 @@ Template.charts.events({
 
                 var record, votings = [];
                 $.each(response, function (index, value) {
-                    record = { "score": response[index].score, "img": response[index].song.img ,"voter": response[index].voter, "voted": response[index].voted, "orgPos": response[index].song.pos, "title": response[index].song.title, "interpret": response[index].song.interpret }
+                    record = { "score": response[index].score, "img": response[index].song.img, "voter": response[index].voter, "voted": response[index].voted, "orgPos": response[index].song.pos, "title": response[index].song.title, "interpret": response[index].song.interpret }
                     votings.push(record);
                 });
 
                 votings.sort((a, b) => (a.score < b.score) ? 1 : ((b.score < a.score) ? -1 : 0));
 
                 var listElement, voteElement;
+                var img = '<img class="coverimg" src="/img/cd.png" alt="noCover"/>';
+
                 $.each(votings, function (idx, value) {
 
-                    var img = '<img style="max-width: 50px; padding-right:16px" src="/img/cd.png" alt="noCover"/>';
 
-                    if (value.img) {
-                        img = '<img style="max-width: 50px; padding-right:16px" src="' + value.img + '" alt="Cover"/>';
-                    }
-            
+                    $.getJSON('https://itunes.apple.com/search?term=' + value.interpret + '+' + value.title + '&limit=1')
+                        .fail(function () {
+                            console.log("error");
+                        })
+                        .always(function (response) {
+                            img = '<img class="coverimg" src="' + response.results[0].artworkUrl100 + '" alt="Cover"/>';
+                            listElement = '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-xlarge w3-center">' +
+                                (idx + 1) + '<br><span class="w3-small">(' + value.orgPos + ')</span></div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' + value.interpret + '</b></span><br><span>' +
+                                value.title + '</span></div></div><div id="img' + idx + '" class="w3-col w3-center s1 m1 l1">' + img + '</div><div class="w3-col w3-center s12 m4 l3 w3-tiny"><div class="w3-col s6">Score<br><b> ' + value.score + '</b></div><div class="w3-col s6">Voted<br><b><span data-voted="voted">' + value.voted
+                                + '<span></b></div></div></div></div></div></div></li>';
 
-                    //get title and interpret
+                            listElement = listElement + '</div></li>';
 
-                    listElement = '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-xlarge w3-center">' +
-                        (idx + 1) + '<br><span class="w3-small">(' + value.orgPos + ')</span></div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' + value.interpret + '</b></span><br><span>' +
-                        value.title + '</span></div></div><div class="w3-col w3-center s1 m1 l1">' + img + '</div><div class="w3-col w3-center s12 m4 l3 w3-tiny"><div class="w3-col s6">Score<br><b> ' + value.score + '</b></div><div class="w3-col s6">Voted<br><b><span data-voted="voted">' + value.voted
-                        + '<span></b></div></div></div></div></div></div></li>';
+                            $("#top").append($(listElement));
+                        });
 
-                    /* listElement =
-                        '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
-                        (idx +1) +
-                        '</div></div><div class="w3-col s11 m11 l7"><div><span class="w3-small"><b>' +
-                        "Score:" + value.score + " ChartPlace:" + value.orgPos +
-                        "</b></span><br><span>" +
-                        value.title + " " + value.interpret + '</span></div></div>'; */
-
-                    /* if (Meteor.user()) {
-                        listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + (index + 1) + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + (index + 1) + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + (index + 1) + '"><label>Top3</label></div></div></div>';
-                    } */
-                    listElement = listElement + '</div></li>';
-
-                    $("#top").append($(listElement));
                 });
             });
         } else {
@@ -270,24 +271,34 @@ function buildTop100(year) {
 
         var img = '<img style="max-width: 50px; padding-right:16px" src="/img/cd.png" alt="noCover"/>';
 
-        if (value.img) {
-            img = '<img style="max-width: 50px; padding-right:16px" src="' + value.img + '" alt="Cover"/>';
-        }
+        //###
+        $.getJSON('https://itunes.apple.com/search?term=' + value.interpret + '+' + value.title + '&limit=1')
+            .fail(function () {
+                console.log("error");
+            })
+            .always(function (response) {
+                if (response && response.results && response.results[0] && response.results[0].artworkUrl100) {
+                    img = '<img class="coverimg" src="' + response.results[0].artworkUrl100 + '" alt="Cover"/>';
+                }
+                listElement =
+                    '<li class="w3-bar"><div class="w3-row"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
+                    value.pos +
+                    '</div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' +
+                    value.interpret +
+                    "</b></span><br><span>" +
+                    value.title + '</span></div></div><div class="w3-col w3-center s1 m1 l1">' + img + '</div>';
 
-        listElement =
-            '<li class="w3-bar"><div class="w3-row"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
-            value.pos +
-            '</div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' +
-            value.interpret +
-            "</b></span><br><span>" +
-            value.title + '</span></div></div><div class="w3-col w3-center s1 m1 l1">' + img + '</div>';
+                if (Meteor.user()) {
+                    listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + (index + 1) + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + (index + 1) + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + (index + 1) + '"><label>Top3</label></div></div></div>';
+                }
+                listElement = listElement + '</div></li>';
 
-        if (Meteor.user()) {
-            listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + (index + 1) + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + (index + 1) + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + (index + 1) + '"><label>Top3</label></div></div></div>';
-        }
-        listElement = listElement + '</div></li>';
+                $("#top").append($(listElement));
+            });
 
-        $("#top").append($(listElement));
+        //###
+
+
     });
 
     //setVotings
@@ -309,4 +320,8 @@ function toggleYearSelection() {
     } else {
         $("#ySel").addClass('fa-angle-double-down').removeClass('fa-angle-double-up');
     }
+}
+
+function getCover() {
+    console.log('getCover');
 }
