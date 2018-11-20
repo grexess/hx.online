@@ -49,3 +49,9 @@ meteoruser@localhost:~/meteorApps/top100$ cd bundle/programs/server/
 meteoruser@localhost:~/meteorApps/top100/bundle/programs/server$ npm install
 root@localhost:/# service meteorTop100 restart
 
+#### Pictures
+http://www.myuuzik.de/index.php?SearchIndex=Music&Keywords=Ed+Sheeran+Shape+of+you&ItemPage=1
+https://www.base64-image.de/
+Resize 150px
+Copy to /public/img/cover/<year>-<title>.png
+Add to json "img": "base64"
