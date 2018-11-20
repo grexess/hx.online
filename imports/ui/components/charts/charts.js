@@ -71,7 +71,7 @@ Template.charts.events({
 
                 var record, votings = [];
                 $.each(response, function (index, value) {
-                    record = { "score": response[index].score, "voter": response[index].voter, "voted": response[index].voted, "orgPos": response[index].song.pos, "title": response[index].song.title, "interpret": response[index].song.interpret }
+                    record = { "score": response[index].score, "img": response[index].song.img ,"voter": response[index].voter, "voted": response[index].voted, "orgPos": response[index].song.pos, "title": response[index].song.title, "interpret": response[index].song.interpret }
                     votings.push(record);
                 });
 
@@ -80,11 +80,18 @@ Template.charts.events({
                 var listElement, voteElement;
                 $.each(votings, function (idx, value) {
 
+                    var img = '<img style="max-width: 50px; padding-right:16px" src="/img/cd.png" alt="noCover"/>';
+
+                    if (value.img) {
+                        img = '<img style="max-width: 50px; padding-right:16px" src="' + value.img + '" alt="Cover"/>';
+                    }
+            
+
                     //get title and interpret
 
-                    listElement = '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s2 m1 l1"><div class="w3-xlarge w3-center">' +
-                        (idx + 1) + '<br><span class="w3-small">(' + value.orgPos + ')</span></div></div><div class="w3-col s10 m7 l8"><div><span class="w3-small"><b>' + value.interpret + '</b></span><br><span>' +
-                        value.title + '</span></div></div><div class="w3-col w3-center s12 m4 l3 w3-tiny"><div class="w3-col s6">Score<br><b> ' + value.score + '</b></div><div class="w3-col s6">Voted<br><b><span data-voted="voted">' + value.voted
+                    listElement = '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-xlarge w3-center">' +
+                        (idx + 1) + '<br><span class="w3-small">(' + value.orgPos + ')</span></div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' + value.interpret + '</b></span><br><span>' +
+                        value.title + '</span></div></div><div class="w3-col w3-center s1 m1 l1">' + img + '</div><div class="w3-col w3-center s12 m4 l3 w3-tiny"><div class="w3-col s6">Score<br><b> ' + value.score + '</b></div><div class="w3-col s6">Voted<br><b><span data-voted="voted">' + value.voted
                         + '<span></b></div></div></div></div></div></div></li>';
 
                     /* listElement =
@@ -261,10 +268,10 @@ function buildTop100(year) {
     var listElement, voteElement;
     $.each(allCharts[year], function (index, value) {
 
-        var img = '<img style="max-width: 50px" src="/img/cd.png" alt="noCover"/>';
+        var img = '<img style="max-width: 50px; padding-right:16px" src="/img/cd.png" alt="noCover"/>';
 
         if (value.img) {
-            img = '<img style="max-width: 50px" src="' + value.img + '" alt="Cover"/>';
+            img = '<img style="max-width: 50px; padding-right:16px" src="' + value.img + '" alt="Cover"/>';
         }
 
         listElement =
