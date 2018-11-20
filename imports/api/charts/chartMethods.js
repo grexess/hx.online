@@ -1,6 +1,7 @@
 // Methods related to links
 
 import { Meteor } from 'meteor/meteor';
+import { HTTP } from 'meteor/http';
 
 import { Votings } from './votings.js';
 
@@ -31,7 +32,6 @@ Meteor.methods({
 
     var votCounter = {};
 
-
     //get each voting
     query.forEach(function (entry) {
 
@@ -42,6 +42,9 @@ Meteor.methods({
 
       aKeys.forEach(function (place) {
 
+
+
+
         var vPlace = voting[place];
 
         if (votCounter.hasOwnProperty(vPlace)) {
@@ -49,7 +52,7 @@ Meteor.methods({
           //votCounter[vPlace].votedBy.push(votedBy);
         } else {
           //votCounter[vPlace] = {"votings": 1, "votedBy": [votedBy]};
-          votCounter[vPlace] = {"votings": 1};
+          votCounter[vPlace] = { "votings": 1 };
         }
 
         if (results.hasOwnProperty(vPlace)) {
@@ -82,17 +85,31 @@ Meteor.methods({
           }
         }
 
-      });
-    });
 
-    //add total song votings and voters
-    (Object.keys(results)).forEach(function (song) {
-      if (votCounter.hasOwnProperty(song)) {
-        results[song].voted = votCounter[song].votings;
-        //results[song].voter = votCounter[song].votedBy.length;
-      }
-    });
-    var response = { "results": results, "votings": query.length };
-    return response;
+        //getCover
+        try {
+          const result = HTTP.call('GET', 'https://itunes.apple.com/search?term=ed+sheeran+perfect', {
+            params: { user: userId }
+          });
+          return true;
+        } catch (e) {
+          // Got a network error, timeout, or HTTP error in the 400 or 500 range.
+          return false;
+        }
+      
+
+
+      });
+  });
+
+//add total song votings and voters
+(Object.keys(results)).forEach(function (song) {
+  if (votCounter.hasOwnProperty(song)) {
+    results[song].voted = votCounter[song].votings;
+    //results[song].voter = votCounter[song].votedBy.length;
+  }
+});
+var response = { "results": results, "votings": query.length };
+return response;
   }
 });
