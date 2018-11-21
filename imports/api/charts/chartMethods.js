@@ -4,6 +4,7 @@ import { Meteor } from 'meteor/meteor';
 
 import { Votings } from './votings.js';
 
+
 Meteor.methods({
 
   'getTop100'() {
@@ -31,20 +32,26 @@ Meteor.methods({
 
     var votCounter = {};
 
+
+
     //get each voting
     query.forEach(function (entry) {
 
       var voting = entry[year];
       //var votedBy = entry["votedBy"];
-
       var aKeys = Object.keys(voting);
-
       aKeys.forEach(function (place) {
 
-
-
-
         var vPlace = voting[place];
+
+        //check images
+        var song = top100ofYear[vPlace - 1];
+        var imgUrl = Images.findOne({ "original.name": year + "-" + song.pos +".jpg" });
+
+        if (imgUrl) {
+        } else {
+          storeImage(year, song);
+        }
 
         if (votCounter.hasOwnProperty(vPlace)) {
           votCounter[vPlace].votings = votCounter[vPlace].votings + 1;
@@ -84,16 +91,49 @@ Meteor.methods({
           }
         }
       });
+    });
+
+    //add total song votings and voters
+    (Object.keys(results)).forEach(function (song) {
+      if (votCounter.hasOwnProperty(song)) {
+        results[song].voted = votCounter[song].votings;
+        //results[song].voter = votCounter[song].votedBy.length;
+      }
+    });
+    var response = { "results": results, "votings": query.length };
+    return response;
+  }
+});
+
+/* store an URL into filesystem */
+function storeImage(year, song) {
+
+  var fs = Npm.require('fs');
+
+  var url = "https://itunes.apple.com/search?term=" + encodeURI(song.interpret) + "%20" + encodeURI(song.title) + "&limit=1";
+
+  let iTunesResponse = HTTP.call('GET', url);
+  var imgUrl = iTunesResponse.data.results[0].artworkUrl100;
+
+  let response = HTTP.call('GET', imgUrl, {
+    npmRequestOptions: {
+      encoding: null
+    }
   });
 
-//add total song votings and voters
-(Object.keys(results)).forEach(function (song) {
-  if (votCounter.hasOwnProperty(song)) {
-    results[song].voted = votCounter[song].votings;
-    //results[song].voter = votCounter[song].votedBy.length;
+  if (response.statusCode === 200) {
+    var newImg = new FS.File();
+    newImg.attachData(response.content, { type: 'utf8' });
+    newImg.name(year + '-' + song.pos + '.jpg');
+    Images.insert(newImg, function (error, fileObj) {
+      if (error) {
+        console.log('error', error);
+      } else {
+        // recreate upload file pattern
+        var fileName = newImg.collectionName + '-' + newImg._id + '-' + newImg.original.name;
+        var fileUrl = Meteor.absoluteUrl() + "/temp" + '/' + fileName;
+      }
+    }
+    )
   }
-});
-var response = { "results": results, "votings": query.length };
-return response;
-  }
-});
+}

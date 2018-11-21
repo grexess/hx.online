@@ -33,6 +33,9 @@ Template.charts.helpers({
             return user.emails[0].address;
         }
         return 'no email';
+    },
+    images: function () {
+        return Images.find(); // Where Images is an FS.Collection instance
     }
 });
 
@@ -90,7 +93,7 @@ Template.charts.events({
                 var listElement, voteElement;
                 var img = '<img class="coverimg" src="/img/cd.png" alt="noCover"/>';
 
-                $.each(votings, function (idx, value) {
+             /*    $.each(votings, function (idx, value) {
 
 
                     $.getJSON('https://itunes.apple.com/search?term=' + value.interpret + '+' + value.title + '&limit=1')
@@ -109,7 +112,7 @@ Template.charts.events({
                             $("#top").append($(listElement));
                         });
 
-                });
+                }); */
             });
         } else {
             buildTop100(year)
@@ -269,34 +272,20 @@ function buildTop100(year) {
     var listElement, voteElement;
     $.each(allCharts[year], function (index, value) {
 
-        var img = '<img style="max-width: 50px; padding-right:16px" src="/img/cd.png" alt="noCover"/>';
+        listElement =
+            '<li class="w3-bar"><div class="w3-row"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
+            value.pos +
+            '</div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' +
+            value.interpret +
+            "</b></span><br><span>" +
+            value.title + '</span></div></div><div class="w3-col w3-center s1 m1 l1"><img id="imgPos' + value.pos + '" style="max-width: 50px; padding-right:16px" src="/img/cd.png" alt="noCover"/></div>';
 
-        //###
-        $.getJSON('https://itunes.apple.com/search?term=' + value.interpret + '+' + value.title + '&limit=1')
-            .fail(function () {
-                console.log("error");
-            })
-            .always(function (response) {
-                if (response && response.results && response.results[0] && response.results[0].artworkUrl100) {
-                    img = '<img class="coverimg" src="' + response.results[0].artworkUrl100 + '" alt="Cover"/>';
-                }
-                listElement =
-                    '<li class="w3-bar"><div class="w3-row"><div class="w3-col w3-center s1 m1 l1"><div class="w3-large w3-left">' +
-                    value.pos +
-                    '</div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' +
-                    value.interpret +
-                    "</b></span><br><span>" +
-                    value.title + '</span></div></div><div class="w3-col w3-center s1 m1 l1">' + img + '</div>';
+        if (Meteor.user()) {
+            listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + (index + 1) + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + (index + 1) + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + (index + 1) + '"><label>Top3</label></div></div></div>';
+        }
+        listElement = listElement + '</div></li>';
 
-                if (Meteor.user()) {
-                    listElement = listElement + '<div class="w3-col w3-left l4"><div class="w3-bar w3-tiny"><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top1" value="' + year + '-' + (index + 1) + '"><label>Top1</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top2" value="' + year + '-' + (index + 1) + '"><label>Top2</label></div><div class="w3-bar-item"><input class="w3-radio" type="radio" name="top3" value="' + year + '-' + (index + 1) + '"><label>Top3</label></div></div></div>';
-                }
-                listElement = listElement + '</div></li>';
-
-                $("#top").append($(listElement));
-            });
-
-        //###
+        $("#top").append($(listElement));
 
 
     });
@@ -320,8 +309,4 @@ function toggleYearSelection() {
     } else {
         $("#ySel").addClass('fa-angle-double-down').removeClass('fa-angle-double-up');
     }
-}
-
-function getCover() {
-    console.log('getCover');
 }

@@ -55,3 +55,8 @@ https://www.base64-image.de/
 Resize 150px
 Copy to /public/img/cover/<year>-<title>.png
 Add to json "img": "base64"
+
+### CollectionFS
+meteor add cfs:standard-packages
+meteor add cfs:filesystem
+cfs:access-point
