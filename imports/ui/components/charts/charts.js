@@ -90,30 +90,18 @@ Template.charts.events({
 
                 votings.sort((a, b) => (a.score < b.score) ? 1 : ((b.score < a.score) ? -1 : 0));
 
-                var listElement, voteElement;
-                var img = '<img class="coverimg" src="/img/cd.png" alt="noCover"/>';
+                $.each(votings, function (idx, value) {
 
-             /*    $.each(votings, function (idx, value) {
+                    var listElement;
 
-
-                    $.getJSON('https://itunes.apple.com/search?term=' + value.interpret + '+' + value.title + '&limit=1')
-                        .fail(function () {
-                            console.log("error");
-                        })
-                        .always(function (response) {
-                            img = '<img class="coverimg" src="' + response.results[0].artworkUrl100 + '" alt="Cover"/>';
-                            listElement = '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-xlarge w3-center">' +
-                                (idx + 1) + '<br><span class="w3-small">(' + value.orgPos + ')</span></div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' + value.interpret + '</b></span><br><span>' +
-                                value.title + '</span></div></div><div id="img' + idx + '" class="w3-col w3-center s1 m1 l1">' + img + '</div><div class="w3-col w3-center s12 m4 l3 w3-tiny"><div class="w3-col s6">Score<br><b> ' + value.score + '</b></div><div class="w3-col s6">Voted<br><b><span data-voted="voted">' + value.voted
-                                + '<span></b></div></div></div></div></div></div></li>';
-
-                            listElement = listElement + '</div></li>';
-
-                            $("#top").append($(listElement));
-                        });
-
-                }); */
+                    listElement = '<li class="w3-bar"><div class="w3-row w3-panel"><div class="w3-col w3-center s1 m1 l1"><div class="w3-xlarge w3-center">' +
+                        (idx + 1) + '<br><span class="w3-small">(' + value.orgPos + ')</span></div></div><div class="w3-col s10 m10 l6"><div><span class="w3-small"><b>' + value.interpret + '</b></span><br><span>' +
+                        value.title + '</span></div></div><div id="img' + idx + '" class="w3-col w3-center s1 m1 l1"><img class="coverimg" src="' + value.img + '" alt="noCover"/></div><div class="w3-col w3-center s12 m4 l3 w3-tiny"><div class="w3-col s6">Score<br><b> ' + value.score + '</b></div><div class="w3-col s6">Voted<br><b><span data-voted="voted">' + value.voted
+                        + '<span></b></div></div></div></div></div></div></li>';
+                    $("#top").append($(listElement));
+                });
             });
+
         } else {
             buildTop100(year)
         }
