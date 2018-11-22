@@ -10,7 +10,7 @@ Meteor.methods({
   'getTop100'() {
 
 
-    //check images for a certain year
+   /*  //check images for a certain year
 
     var year = "1990"
     var top100ofYear = JSON.parse(Assets.getText('top100.json'))[year];
@@ -25,7 +25,7 @@ Meteor.methods({
         storeImage(year, song);
       }
     });
-
+ */
 
     return JSON.parse(Assets.getText('top100.json'));
   },
