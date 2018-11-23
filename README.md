@@ -60,3 +60,7 @@ Add to json "img": "base64"
 meteor add cfs:standard-packages
 meteor add cfs:filesystem
 cfs:access-point
+
+
+### Mongo Import
+mongoimport -h localhost:3001 --db meteor --collection charts --type json --file top100.json --jsonArray

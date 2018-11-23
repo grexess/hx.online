@@ -1,6 +1,14 @@
 import './charts.html';
+//SubTemplates
+import './songs.js';
+import './yearselection.js';
 
 import { Votings } from '../../../api/charts/votings.js';
+import { Charts } from '../../../api/charts/chartCollection.js';
+
+//import global
+import { ReactiveDict } from 'meteor/reactive-dict';
+
 
 var allCharts;
 var tops = null;
@@ -51,12 +59,17 @@ Template.charts.helpers({
 
 Template.charts.onCreated(function () {
 
+    //store local database
     Meteor.subscribe('votings');
+    Meteor.subscribe('charts');
 
-    Meteor.call('getTop100', function (err, response) {
-        allCharts = response;
-        buildDropDownEntries();
-    });
+    this.state = new ReactiveDict();
+
+    this.state.currentYear = "2017";
+    /*     Meteor.call('getTop100', function (err, response) {
+            allCharts = response;
+            buildDropDownEntries();
+        }); */
 });
 
 Template.charts.events({

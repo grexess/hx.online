@@ -1,0 +1,25 @@
+<template name="songs">
+
+    {{#each charts}}
+    {{#each songs}}
+    <li class="w3-bar">
+            <div class="w3-row">
+                <div class="w3-col s2 m1 l1">
+                    <div class="w3-center w3-xlarge w3-padding-small">{{pos}}</div>
+                </div>
+                <div class="w3-col s8 m10 l10">
+                    <div class="">
+                        <div class="w3-left w3-padding"><span class="w3-small"><b>{{interpret}}</b></span><br><span>{{title}}</span></div>
+                    </div>
+                </div>
+                <div class="w3-col s2 m1 l1 w3-display-container" style="height:100%;">
+                    <div class="w3-center w3-padding">
+                        <img id="imgPos1" style="max-width: 50px;" src="http://www.hexenhaus.online/img/cd.png" alt="noCover">
+                    </div>
+                </div>
+            </div>
+        </li>
+         {{/each}}
+      {{/each}}
+
+</template>
